@@ -1,0 +1,365 @@
+#NAME Samsung TV Plus (ITALY)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Anime
+#DESCRIPTION Anime
+#SERVICE 4097:0:1:1064:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200005F4:Inazuma Eleven Collection
+#DESCRIPTION Inazuma Eleven Collection
+#SERVICE 4097:0:1:105A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT800001SW:Inuyasha
+#DESCRIPTION Inuyasha
+#SERVICE 4097:0:1:105C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC3500002SJ:Teen Vee
+#DESCRIPTION Teen Vee
+#SERVICE 4097:0:1:1062:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700007M3:Yu-Gi-Oh!
+#DESCRIPTION Yu-Gi-Oh!
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Bambini
+#DESCRIPTION Bambini
+#SERVICE 4097:0:1:12A6:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2000002D1:CAR CITY ADVENTURES
+#DESCRIPTION CAR CITY ADVENTURES
+#SERVICE 4097:0:1:12AA:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200007SZ:DeAPlaneta Kids
+#DESCRIPTION DeAPlaneta Kids
+#SERVICE 4097:0:1:12A8:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4700001E6:duckTV
+#DESCRIPTION duckTV
+#SERVICE 4097:0:1:12C6:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3800010K1:Masha e Orso
+#DESCRIPTION Masha e Orso
+#SERVICE 4097:0:1:12AC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700004X4:Pocoyo
+#DESCRIPTION Pocoyo
+#SERVICE 4097:0:1:12D5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3900001EN:Sonic The Hedgehog
+#DESCRIPTION Sonic The Hedgehog
+#SERVICE 4097:0:1:12E0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800002PN:Super! iCarly
+#DESCRIPTION Super! iCarly
+#SERVICE 4097:0:1:12DE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800010RX:Super! Pop
+#DESCRIPTION Super! Pop
+#SERVICE 4097:0:1:12E2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ380000343:Super! Spongebob
+#DESCRIPTION Super! Spongebob
+#SERVICE 4097:0:1:12C2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD51000010V:SuperToons TV
+#DESCRIPTION SuperToons TV
+#SERVICE 4097:0:1:12A4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT480000143:Teletubbies
+#DESCRIPTION Teletubbies
+#SERVICE 4097:0:1:12D3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT34000016N:Video Game Heroes
+#DESCRIPTION Video Game Heroes
+#SERVICE 1:64:2:0:0:0:0:0:0:0::Calcio
+#DESCRIPTION Calcio
+#SERVICE 4097:0:1:1225:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200003YZ:DFB Play TV
+#DESCRIPTION DFB Play TV
+#SERVICE 4097:0:1:1217:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1000002HF:FIFA+
+#DESCRIPTION FIFA+
+#SERVICE 4097:0:1:1223:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3100001FT:INTER 24/7
+#DESCRIPTION INTER 24/7
+#SERVICE 4097:0:1:121D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD2300001MT:RBN
+#DESCRIPTION RBN
+#SERVICE 4097:0:1:1219:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4700002CO:Solocalcio
+#DESCRIPTION Solocalcio
+#SERVICE 4097:0:1:FA5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1000002TG:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:1:121F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1100001PZ:Top Barça
+#DESCRIPTION Top Barça
+#SERVICE 1:64:3:0:0:0:0:0:0:0::Crime
+#DESCRIPTION Crime
+#SERVICE 4097:0:1:10CD:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3700001TM:DATELINE 24/7
+#DESCRIPTION DATELINE 24/7
+#SERVICE 4097:0:1:10D5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3700001R9:Forensic Files
+#DESCRIPTION Forensic Files
+#SERVICE 4097:0:1:10C8:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3800003GX:Guardia Costiera
+#DESCRIPTION Guardia Costiera
+#SERVICE 4097:0:1:10C5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600008RA:Serie Crime - Rakuten TV
+#DESCRIPTION Serie Crime - Rakuten TV
+#SERVICE 4097:0:1:10C4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3800005HI:Squadra Speciale
+#DESCRIPTION Squadra Speciale
+#SERVICE 4097:0:1:10D3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT4500001L4:Squadra Speciale Cobra 11
+#DESCRIPTION Squadra Speciale Cobra 11
+#SERVICE 4097:0:1:10CB:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1200001Q8:Storie Criminali
+#DESCRIPTION Storie Criminali
+#SERVICE 4097:0:1:10C9:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1000006RD:True Crime
+#DESCRIPTION True Crime
+#SERVICE 1:64:4:0:0:0:0:0:0:0::Cucina & Viaggi
+#DESCRIPTION Cucina & Viaggi
+#SERVICE 4097:0:1:11A3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD4100007LO:A Tavola
+#DESCRIPTION A Tavola
+#SERVICE 4097:0:1:11AF:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC400003Y7:Brindiamo!
+#DESCRIPTION Brindiamo!
+#SERVICE 4097:0:1:11A4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500011RG:Gambero Rosso
+#DESCRIPTION Gambero Rosso
+#SERVICE 4097:0:1:11A1:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3900003FE:Hell's Kitchen
+#DESCRIPTION Hell's Kitchen
+#SERVICE 4097:0:1:11AE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2200009F9:Per Caso TV
+#DESCRIPTION Per Caso TV
+#SERVICE 4097:0:1:11BA:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300022EA:SportOutdoor.tv
+#DESCRIPTION SportOutdoor.tv
+#SERVICE 4097:0:1:11A5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT12000029J:Viaggi & Sapori
+#DESCRIPTION Viaggi & Sapori
+#SERVICE 1:64:5:0:0:0:0:0:0:0::Documentari
+#DESCRIPTION Documentari
+#SERVICE 4097:0:1:1187:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200002L5:BBC Earth
+#DESCRIPTION BBC Earth
+#SERVICE 4097:0:1:113E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT9000023T:II Guerra Mondiale - La Storia
+#DESCRIPTION II Guerra Mondiale - La Storia
+#SERVICE 4097:0:1:1193:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4700003GR:Love the Planet
+#DESCRIPTION Love the Planet
+#SERVICE 4097:0:1:118B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2100001EZ:NatureTime
+#DESCRIPTION NatureTime
+#SERVICE 4097:0:1:1195:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000478X:WaterBear
+#DESCRIPTION WaterBear
+#SERVICE 4097:0:1:113B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC35000016T:wedotv Big Stories
+#DESCRIPTION wedotv Big Stories
+#SERVICE 4097:0:1:1189:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300046KE:WildEarth
+#DESCRIPTION WildEarth
+#SERVICE 1:64:6:0:0:0:0:0:0:0::Film
+#DESCRIPTION Film
+#SERVICE 4097:0:1:1355:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC400001LX:Action Movie Channel
+#DESCRIPTION Action Movie Channel
+#SERVICE 4097:0:1:1387:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC11000050E:Adrenaline Movies
+#DESCRIPTION Adrenaline Movies
+#SERVICE 4097:0:1:FA2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100008L4:Alberto Sordi & Co
+#DESCRIPTION Alberto Sordi & Co
+#SERVICE 4097:0:1:1363:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100001G5:Alta Tensione
+#DESCRIPTION Alta Tensione
+#SERVICE 4097:0:1:1357:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300024IU:Bizzarro Movies
+#DESCRIPTION Bizzarro Movies
+#SERVICE 4097:0:1:1310:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD600001CL:Brividy Cinema
+#DESCRIPTION Brividy Cinema
+#SERVICE 4097:0:1:132D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD140000119:CG Cine Mania
+#DESCRIPTION CG Cine Mania
+#SERVICE 4097:0:1:1307:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000093A:CG Grandi Film
+#DESCRIPTION CG Grandi Film
+#SERVICE 4097:0:1:1314:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3800001XM:Cine Amore
+#DESCRIPTION Cine Amore
+#SERVICE 4097:0:1:1359:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3600005AL:Cine Paura
+#DESCRIPTION Cine Paura
+#SERVICE 4097:0:1:1365:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200002DU:Cine Thriller
+#DESCRIPTION Cine Thriller
+#SERVICE 4097:0:1:1304:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000238E:Cinema italiano
+#DESCRIPTION Cinema italiano
+#SERVICE 4097:0:1:1309:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1400003D0:Cinemadame - Summer Christmas
+#DESCRIPTION Cinemadame - Summer Christmas
+#SERVICE 4097:0:1:132C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT300029U3:Cinemalizia
+#DESCRIPTION Cinemalizia
+#SERVICE 4097:0:1:133D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBB20000072M:CineWestern
+#DESCRIPTION CineWestern
+#SERVICE 4097:0:1:1331:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600007WQ:Commedia - Rakuten TV
+#DESCRIPTION Commedia - Rakuten TV
+#SERVICE 4097:0:1:136E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3600001Q1:Crime Time
+#DESCRIPTION Crime Time
+#SERVICE 4097:0:1:1321:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600005ZN:Dramma - Rakuten TV
+#DESCRIPTION Dramma - Rakuten TV
+#SERVICE 4097:0:1:137F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500002FD:Duri a morire
+#DESCRIPTION Duri a morire
+#SERVICE 4097:0:1:12F4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600010E0:Family - Rakuten TV
+#DESCRIPTION Family - Rakuten TV
+#SERVICE 4097:0:1:1353:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT260000131:Fantascienza - Rakuten TV
+#DESCRIPTION Fantascienza - Rakuten TV
+#SERVICE 4097:0:1:131E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4700004EQ:Film Al Femminile - Wedo Movies
+#DESCRIPTION Film Al Femminile - Wedo Movies
+#SERVICE 4097:0:1:134E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600006JG:Film Asiatici - Rakuten TV
+#DESCRIPTION Film Asiatici - Rakuten TV
+#SERVICE 4097:0:1:1385:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600003FM:Film d'azione - Rakuten TV
+#DESCRIPTION Film d'azione - Rakuten TV
+#SERVICE 4097:0:1:130D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600002F6:Film Top - Rakuten TV
+#DESCRIPTION Film Top - Rakuten TV
+#SERVICE 4097:0:1:1380:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1100001B7:Gli immortali – Van Damme vs Lundgren
+#DESCRIPTION Gli immortali – Van Damme vs Lundgren
+#SERVICE 4097:0:1:1308:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100003KC:Grandi Nomi
+#DESCRIPTION Grandi Nomi
+#SERVICE 4097:0:1:133F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD10000019E:Grjngo- Film Western
+#DESCRIPTION Grjngo- Film Western
+#SERVICE 4097:0:1:130C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ38000055E:Pluto TV Film
+#DESCRIPTION Pluto TV Film
+#SERVICE 4097:0:1:1383:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC3000003CT:Pluto TV Film Azione
+#DESCRIPTION Pluto TV Film Azione
+#SERVICE 4097:0:1:1333:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC3000002WL:Pluto TV Film Commedia
+#DESCRIPTION Pluto TV Film Commedia
+#SERVICE 4097:0:1:1322:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800009J1:Pluto TV Film Romantici
+#DESCRIPTION Pluto TV Film Romantici
+#SERVICE 4097:0:1:1320:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600004K9:Romance - Rakuten TV
+#DESCRIPTION Romance - Rakuten TV
+#SERVICE 4097:0:1:1324:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500004JK:Romantica
+#DESCRIPTION Romantica
+#SERVICE 4097:0:1:1329:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100002ZU:Smile
+#DESCRIPTION Smile
+#SERVICE 4097:0:1:1350:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200001VR:Supercinema
+#DESCRIPTION Supercinema
+#SERVICE 4097:0:1:134B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300048YJ:Trailers
+#DESCRIPTION Trailers
+#SERVICE 4097:0:1:1326:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC11000047F:Velvet
+#DESCRIPTION Velvet
+#SERVICE 4097:0:1:1341:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3600004TW:Western Time
+#DESCRIPTION Western Time
+#SERVICE 1:64:7:0:0:0:0:0:0:0::Intrattenimento
+#DESCRIPTION Intrattenimento
+#SERVICE 4097:0:1:106F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000374G:5-Minuti Creativi
+#DESCRIPTION 5-Minuti Creativi
+#SERVICE 4097:0:1:102A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT900013AJ:A tu per tu
+#DESCRIPTION A tu per tu
+#SERVICE 4097:0:1:FEE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT5100003XM:BEAUTY CHANNEL
+#DESCRIPTION BEAUTY CHANNEL
+#SERVICE 4097:0:1:FF5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800001Z4:Catfish
+#DESCRIPTION Catfish
+#SERVICE 4097:0:1:FE4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500010AQ:Class TV Moda
+#DESCRIPTION Class TV Moda
+#SERVICE 4097:0:1:1047:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA1400001QN:FailArmy
+#DESCRIPTION FailArmy
+#SERVICE 4097:0:1:104D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD600002HT:Just For Laughs
+#DESCRIPTION Just For Laughs
+#SERVICE 4097:0:1:FEC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200006YF:Mudù - Risate dal Sud
+#DESCRIPTION Mudù - Risate dal Sud
+#SERVICE 4097:0:1:104B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ4500022GD:People Are Awesome
+#DESCRIPTION People Are Awesome
+#SERVICE 4097:0:1:FE8:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800006UB:Pluto TV Real Life
+#DESCRIPTION Pluto TV Real Life
+#SERVICE 4097:0:1:1076:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1200003NR:Quantum Makers
+#DESCRIPTION Quantum Makers
+#SERVICE 4097:0:1:1049:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ4500016FM:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 1:64:8:0:0:0:0:0:0:0::Musica e Ambient
+#DESCRIPTION Musica e Ambient
+#SERVICE 4097:0:1:1288:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500006GE:70-80.it
+#DESCRIPTION 70-80.it
+#SERVICE 4097:0:1:1284:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2500001IF:Cool Summer Channel
+#DESCRIPTION Cool Summer Channel
+#SERVICE 4097:0:1:129B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1900005OP:Cozy Vibes
+#DESCRIPTION Cozy Vibes
+#SERVICE 4097:0:1:1299:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA1500001R6:Deluxe Lounge HD
+#DESCRIPTION Deluxe Lounge HD
+#SERVICE 4097:0:1:12A1:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2200001FW:Fireplace Vibes
+#DESCRIPTION Fireplace Vibes
+#SERVICE 4097:0:1:128C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC11000108G:Hip Hop TV
+#DESCRIPTION Hip Hop TV
+#SERVICE 4097:0:1:129F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1800006P9:Island Vibes
+#DESCRIPTION Island Vibes
+#SERVICE 4097:0:1:1273:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT39000028R:K-POP by CJ ENM
+#DESCRIPTION K-POP by CJ ENM
+#SERVICE 4097:0:1:1289:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3300004VU:Metal.Rocks
+#DESCRIPTION Metal.Rocks
+#SERVICE 4097:0:1:1274:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1700002R5:NEW KPOP
+#DESCRIPTION NEW KPOP
+#SERVICE 4097:0:1:12A0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT18000076Y:Ocean Vibes
+#DESCRIPTION Ocean Vibes
+#SERVICE 4097:0:1:1286:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA2200008IM:Radio Italia Live
+#DESCRIPTION Radio Italia Live
+#SERVICE 4097:0:1:129D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT18000058K:Rainy Day Vibes
+#DESCRIPTION Rainy Day Vibes
+#SERVICE 4097:0:1:128A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100011RK:Rock TV
+#DESCRIPTION Rock TV
+#SERVICE 4097:0:1:128B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700008NG:Rolling Stones Takeover
+#DESCRIPTION Rolling Stones Takeover
+#SERVICE 4097:0:1:FDF:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000010NB:RTL 102.5
+#DESCRIPTION RTL 102.5
+#SERVICE 4097:0:1:126A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT30000132N:RTL 102.5 Caliente
+#DESCRIPTION RTL 102.5 Caliente
+#SERVICE 4097:0:1:1298:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700009BQ:Space Live
+#DESCRIPTION Space Live
+#SERVICE 4097:0:1:129E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1800008RR:Spring Vibes
+#DESCRIPTION Spring Vibes
+#SERVICE 4097:0:1:129C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1900006GN:Storm Vibes
+#DESCRIPTION Storm Vibes
+#SERVICE 4097:0:1:1263:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300042HE:Trace Latina
+#DESCRIPTION Trace Latina
+#SERVICE 4097:0:1:1261:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300041LY:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:124C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1900010JL:Vevo '70s & '80s
+#DESCRIPTION Vevo '70s & '80s
+#SERVICE 4097:0:1:124E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC210000200:Vevo '90s & '00s
+#DESCRIPTION Vevo '90s & '00s
+#SERVICE 4097:0:1:124A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC2100001G9:Vevo Pop
+#DESCRIPTION Vevo Pop
+#SERVICE 1:64:9:0:0:0:0:0:0:0::News
+#DESCRIPTION News
+#SERVICE 4097:0:1:11CE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500008CB:3BMeteo
+#DESCRIPTION 3BMeteo
+#SERVICE 4097:0:1:11D4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT23000034W:Al Jazeera
+#DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:11DB:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA3300025F5:Bloomberg TV+
+#DESCRIPTION Bloomberg TV+
+#SERVICE 4097:0:1:11CD:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2700002ZN:Class CNBC
+#DESCRIPTION Class CNBC
+#SERVICE 4097:0:1:11D9:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3600002PA:CNBC
+#DESCRIPTION CNBC
+#SERVICE 4097:0:1:11D7:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD19000097D:CNN Headlines International
+#DESCRIPTION CNN Headlines International
+#SERVICE 4097:0:1:11D0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600009QD:Euronews IN DIRETTA
+#DESCRIPTION Euronews IN DIRETTA
+#SERVICE 4097:0:1:11D3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1100002WX:FRANCE 24 FAST
+#DESCRIPTION FRANCE 24 FAST
+#SERVICE 4097:0:1:11CB:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBB5000002N0:Giornale Radio TV
+#DESCRIPTION Giornale Radio TV
+#SERVICE 4097:0:1:11CA:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3300001G3:Il Sole 24 Ore TV
+#DESCRIPTION Il Sole 24 Ore TV
+#SERVICE 4097:0:1:11C7:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1500002NL:La 7
+#DESCRIPTION La 7
+#SERVICE 4097:0:1:11DA:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4000028E:NBC News NOW
+#DESCRIPTION NBC News NOW
+#SERVICE 4097:0:1:FA4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200004WU:Rai News 24
+#DESCRIPTION Rai News 24
+#SERVICE 4097:0:1:11CF:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3400003D6:Sky News International
+#DESCRIPTION Sky News International
+#SERVICE 4097:0:1:11D5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT18000033C:TV5 Monde Info
+#DESCRIPTION TV5 Monde Info
+#SERVICE 4097:0:1:11CC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT50001295:Urania News
+#DESCRIPTION Urania News
+#SERVICE 1:64:10:0:0:0:0:0:0:0::Serie TV
+#DESCRIPTION Serie TV
+#SERVICE 4097:0:1:10AC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000026G:Anche i ricchi piangono
+#DESCRIPTION Anche i ricchi piangono
+#SERVICE 4097:0:1:1091:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200003HL:Andromeda
+#DESCRIPTION Andromeda
+#SERVICE 4097:0:1:109B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200004KN:Autostop per il Cielo
+#DESCRIPTION Autostop per il Cielo
+#SERVICE 4097:0:1:1089:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2900001B5:BBC Series
+#DESCRIPTION BBC Series
+#SERVICE 4097:0:1:108D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD4100001MG:Elisa di Rivombrosa
+#DESCRIPTION Elisa di Rivombrosa
+#SERVICE 4097:0:1:1094:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1200004E6:H2O & Friends
+#DESCRIPTION H2O & Friends
+#SERVICE 4097:0:1:10A3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD41000054B:K-Drama+
+#DESCRIPTION K-Drama+
+#SERVICE 4097:0:1:109D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1900001R7:Martial Universe - La Serie Completa
+#DESCRIPTION Martial Universe - La Serie Completa
+#SERVICE 4097:0:1:10A4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT900001A7:Mr Bean Animated
+#DESCRIPTION Mr Bean Animated
+#SERVICE 4097:0:1:1097:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200005YA:Mutant X
+#DESCRIPTION Mutant X
+#SERVICE 4097:0:1:10AE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2900002QI:Piel Salvaje
+#DESCRIPTION Piel Salvaje
+#SERVICE 4097:0:1:108B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800007P8:Pluto TV Serie
+#DESCRIPTION Pluto TV Serie
+#SERVICE 4097:0:1:1099:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD3200006F0:Relic Hunter
+#DESCRIPTION Relic Hunter
+#SERVICE 4097:0:1:10A2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT4600001JQ:Soap Latino
+#DESCRIPTION Soap Latino
+#SERVICE 4097:0:1:10AA:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3600007QQ:Soap Turco
+#DESCRIPTION Soap Turco
+#SERVICE 4097:0:1:1086:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT4000061Q:Un medico in famiglia
+#DESCRIPTION Un medico in famiglia
+#SERVICE 1:64:11:0:0:0:0:0:0:0::Sport
+#DESCRIPTION Sport
+#SERVICE 4097:0:1:1246:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC400005TF:Adventure Sports TV
+#DESCRIPTION Adventure Sports TV
+#SERVICE 4097:0:1:1235:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2900003UK:Automoto
+#DESCRIPTION Automoto
+#SERVICE 4097:0:1:1211:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT4200001D8:Golf Television
+#DESCRIPTION Golf Television
+#SERVICE 4097:0:1:120B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT600001L6:Italian Fishing TV
+#DESCRIPTION Italian Fishing TV
+#SERVICE 4097:0:1:1203:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT4000089R:LBA Classics
+#DESCRIPTION LBA Classics
+#SERVICE 4097:0:1:1234:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000282Q:Motor1
+#DESCRIPTION Motor1
+#SERVICE 4097:0:1:1236:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT800002CE:Motoretrò
+#DESCRIPTION Motoretrò
+#SERVICE 4097:0:1:1245:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD300001GI:Move - Sportivi in Viaggio
+#DESCRIPTION Move - Sportivi in Viaggio
+#SERVICE 4097:0:1:1237:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT510000124:Rally.TV FAST+
+#DESCRIPTION Rally.TV FAST+
+#SERVICE 4097:0:1:1201:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT38000070T:Red Bull TV
+#DESCRIPTION Red Bull TV
+#SERVICE 4097:0:1:1207:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC3000007XK:Salto Ostacoli
+#DESCRIPTION Salto Ostacoli
+#SERVICE 4097:0:1:120F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT16000070D:Sportface
+#DESCRIPTION Sportface
+#SERVICE 4097:0:1:11FD:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT800003V4:SuperTennis
+#DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:11FE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT20000053A:Tennis+
+#DESCRIPTION Tennis+
+#SERVICE 4097:0:1:1241:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD10000040W:The Boat Show
+#DESCRIPTION The Boat Show
+#SERVICE 4097:0:1:1232:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2400001AE:Top Gear
+#DESCRIPTION Top Gear
+#SERVICE 4097:0:1:1243:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD29000015E:World Poker Tour
+#DESCRIPTION World Poker Tour

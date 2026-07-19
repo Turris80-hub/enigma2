@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File created on domenica, 01 of settembre 2024, 10:12:54 with the TerrestrialScan plugin -->
+<locations>
+	<terrestrial name="My local region (Europe DVB-T/T2)" flags="5">
+		<transponder centre_frequency="490000000" system="0" bandwidth="0" constellation="3"/><!-- onid="272" tsid="900" signal_quality="53988" -->
+		<transponder centre_frequency="514000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="1" signal_quality="50867" -->
+		<transponder centre_frequency="538000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="10000" signal_quality="24029" -->
+		<transponder centre_frequency="554000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="32995" signal_quality="51179" -->
+		<transponder centre_frequency="562000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="31000" signal_quality="51803" -->
+		<transponder centre_frequency="570000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="263" signal_quality="48371" -->
+		<transponder centre_frequency="578000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="32996" signal_quality="52115" -->
+		<transponder centre_frequency="594000000" system="0" bandwidth="0" constellation="3"/><!-- onid="272" tsid="905" signal_quality="50867" -->
+		<transponder centre_frequency="610000000" system="0" bandwidth="0" constellation="3"/><!-- onid="272" tsid="930" signal_quality="52428" -->
+		<transponder centre_frequency="626000000" system="1" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="2" signal_quality="58045" -->
+		<transponder centre_frequency="634000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="32993" signal_quality="46498" -->
+		<transponder centre_frequency="642000000" system="0" bandwidth="0" constellation="3"/><!-- onid="29" tsid="512" signal_quality="43065" -->
+		<transponder centre_frequency="650000000" system="0" bandwidth="0" constellation="3"/><!-- onid="8572" tsid="213" signal_quality="45250" -->
+		<transponder centre_frequency="674000000" system="0" bandwidth="0" constellation="3"/><!-- onid="272" tsid="901" signal_quality="46810" -->
+		<transponder centre_frequency="682000000" system="0" bandwidth="0" constellation="3"/><!-- onid="29" tsid="516" signal_quality="51179" -->
+	</terrestrial>
+</locations>

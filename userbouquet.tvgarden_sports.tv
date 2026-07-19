@@ -1,0 +1,1219 @@
+#NAME TVGarden - Sports
+#SERVICE 1:64:0:0:0:0:0:0:0:0::--- | TVGarden Sports | ---
+#DESCRIPTION --- | TVGarden Sports | ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//30a-tv.com/feeds/vidaa/golf.m3u8:30A Golf Kingdom (720p)
+#DESCRIPTION 30A Golf Kingdom (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8:%3aŠport (1080p)
+#DESCRIPTION :Šport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/mgeW8Qm8-SY:A Spor
+#DESCRIPTION A Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8:ACC Digital Network
+#DESCRIPTION ACC Digital Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8:ADO TV
+#DESCRIPTION ADO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8:ADO TV (720p)
+#DESCRIPTION ADO TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//africa24.vedge.infomaniak.com/livecast/ik%3aafrica24sport/manifest.m3u8:Africa 24 Sport
+#DESCRIPTION Africa 24 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//africa24.vedge.infomaniak.com/livecast/ik%3aafrica24sport/manifest.m3u8:Africa 24 Sport (1080p)
+#DESCRIPTION Africa 24 Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx:Alfa Sport (1080p) [Not 24/7]
+#DESCRIPTION Alfa Sport (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8:Alkass Five (1080p)
+#DESCRIPTION Alkass Five (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8:Alkass Four (1080p)
+#DESCRIPTION Alkass Four (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8:Alkass One (1080p)
+#DESCRIPTION Alkass One (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8:Alkass Seven (1080p)
+#DESCRIPTION Alkass Seven (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/shooflive/main.m3u8:Alkass SHOOF (1080p)
+#DESCRIPTION Alkass SHOOF (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8:Alkass SHOOF 2 (1080p)
+#DESCRIPTION Alkass SHOOF 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8:Alkass Six (1080p)
+#DESCRIPTION Alkass Six (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8:Alkass Three (1080p)
+#DESCRIPTION Alkass Three (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8:Alkass Two (1080p)
+#DESCRIPTION Alkass Two (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE:AntenaSport (1280p) [Not 24/7]
+#DESCRIPTION AntenaSport (1280p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd?ck=OTAwMmVjOGMzZGJjNTVjNWJjY2RjZDY4NzFkODBmZDA6NzA5OTMyNTEyM2JhZTc4MTBkYjUwODcyN2JiMGJjN2QsNzEyMDkwYWFlMjA2NWMyMTk1MWIxNzBiYzMwMDIzMzA6YTk3Nzc0ZTQxNzViODAyMDVjM2NmMTA0ZTk1NzQyMDg=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport1 [HR]
+#DESCRIPTION Arena Sport1 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd?ck=ZWE1NzM2MDQ3ZGYyNWVkYmI0OGJkMDU1ZDQ4ZWIzZGQ6OGI0MGQzYTQxNTUxNzIyNDI0NWE3OWU5MDdjYjhlZjAsZWU2ODYwYTZiZjdhNWY2Yzg5YmNmMTc5NGQxNmUyNWYEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport10 [HR]
+#DESCRIPTION Arena Sport10 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd?ck=ZDI1NmI0MDNlZmNjNWMzZGI3MDFmYzY5Njg4NWUxMDI6ZDQ2ZTQyMTVlMjc5YjIyNGU5ZDJhNzcyZGI5Yzc0YTEsYzVlNWFjMWIzY2MxNWZlNzkwZjFiYzk2NTM1ZmUzMjk6M2RlZmU1OWMzODA3OWNjYWQyNWE0MzYyMDBhZDNiZDc=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport2 [HR]
+#DESCRIPTION Arena Sport2 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd?ck=MjVjM2RmMzIwMjAwNWNjOThjNDc3MDAyOTViZTU5Y2E6MDczZjVhMzlkODRkZDE0YTlkZWJkMWE3MmJiMWYwNTUsM2JlZGY0YTg5NjY5NTk1ODkwN2UwOTg0MTY1MDkwZjA6YTU4MzE3ZmZkZGYzMThmMTU0MGYzMWY2N2Q5NWI1ZmIsY2NlYmVmY2JhMGEzNTQ2YmEzNGQzZmM1ODc2NTE3MDg6MThmMmIyMDI3Y2UyNjg2N2MyM2RjZDdmNTdmYWEyNDU=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport3 [HR]
+#DESCRIPTION Arena Sport3 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd?ck=ODlkMWRjNTQ2OTJlNWI0ZmI1OTk1ZmMwOTUzYmY1YmY6MzFiODk1M2FiNjBiOTBmZWZjOTNkOWJkMWI4MDZmYmMsNjhjZDY2MWRiYzgzNTJmZGEwMDBjNTMyODQwZjYzNDA6MDI1NWZiNjIwZjRmNzA3ZWE3YmEwOTAwNTg3MTgzMDY=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport4 [HR]
+#DESCRIPTION Arena Sport4 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd?ck=MzRhNzA5YmJlYWMwNTJmMjkzYzc3OGMwNzcwODI5ZmQ6MmI4MDFmZGUxYWQ0ODM5ZDQwODBkNmVjNmIwZWM0Y2VlNDczZWM1ZDk2ZjQ1YTlmOWEyMmViNjY1YjViMWVhOTphY2U1NGNlMTViNjlkMjQ5YjAwMzk1YzllNmI4NWI5MA==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport5 [HR]
+#DESCRIPTION Arena Sport5 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd?ck=YmZkOGZmMDRhMzYyNWZjZWE4MzM1Yzk1NzU0MDE2OTc6NzY5ZDYxYTJkNmZkNzAzMGE1MDg4ZGYyZTcwYzI2NTQ1YTg2ZTQyYzU4Y2Y1ZDAwODU0Njg2MWMwZjBmYjIyYTo2N2IxMTcyYTA1YmNiMzhhOTFhMzA0ZDcwOThjZTdmNQ==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport6 [HR]
+#DESCRIPTION Arena Sport6 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd?ck=NWQ0YjUwMDVkYmQzNTU1NTliM2M3ZmU0ZGFlMWZiMDU6MTBlNjVhNWI3NDE1ODIxNjE5MGU2NTRjZGYwNWI1ODQsNTk5ODI2NWVmOGZjNTc0ODgyMmZlZjk2MjI5ODMxYWE6OTExMGI2YmUzMWI0YmJkY2U2NzM3NGJhZTMzOTUyNjk=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport7 [HR]
+#DESCRIPTION Arena Sport7 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd?ck=YzZmYzViMjdiNzRlNWI4ZTgyY2ExOWRhNDg0ZWIxNzQ6NTFmOGZkNWVlZjczNmRjY2FlYTkyMzViNjIxNzMxZTcsYjllOTU0NmJjOWJhNTJkMWE3NWZiYTkyMjJlZmE3ZjU6MmNlYzY1YzZiNzliZTZjMmQ0NDgxYzZlMGVmNzliZmM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport8 [HR]
+#DESCRIPTION Arena Sport8 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd?ck=YTJmZjM3MmEyMWIzNTY1M2E4ODU5MmFiZmVjM2Y5YTc6ZDViYzI1MDg4ZDFmZGExMjg0OWFhZDkwNzE2ZGU3NTAsOTFhNTZmNWFhYjRjNTZjYjg4ZmJmNzg3MTg3YWNhZmU6MDAwMDgxNjA3OWE1ZWM0ZjA5M2UzMjc0YmRhMjZmMmE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:Arena Sport9 [HR]
+#DESCRIPTION Arena Sport9 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.as3sport.online%3a3394/hybrid/play.m3u8:AS3 Sport TV (1080p)
+#DESCRIPTION AS3 Sport TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8:Astrahan.Ru Sport
+#DESCRIPTION Astrahan.Ru Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8:Astrahan.Ru Sport
+#DESCRIPTION Astrahan.Ru Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8:ATG Live
+#DESCRIPTION ATG Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c7b683162943.streamlock.net/live/ngrp%3asportsone_all/playlist.m3u8:Bahrain Sports 1
+#DESCRIPTION Bahrain Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c7b683162943.streamlock.net/live/ngrp%3abahrainsportstwo_all/playlist.m3u8:Bahrain Sports 2
+#DESCRIPTION Bahrain Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/i7UpPgxfZZ8:beIN SPORTS Türkiye
+#DESCRIPTION beIN SPORTS Türkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-bc932f1PbWWqgKDBDorh525uecKaGZD21FGSoCeR.m3u8:beIN SPORTS Xtra
+#DESCRIPTION beIN SPORTS Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO:beIN SPORTS Xtra (1080p)
+#DESCRIPTION beIN SPORTS Xtra (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8:beIN Sports XTRA en Espanol (1080p)
+#DESCRIPTION beIN Sports XTRA en Espanol (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-909b1PbWWqgKDBDorh525uecKaGZD21FGSoCeR.m3u8:beIN SPORTS Xtra en Español
+#DESCRIPTION beIN SPORTS Xtra en Español
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8:BEK TV Sports West
+#DESCRIPTION BEK TV Sports West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8:BEK TV Sports West
+#DESCRIPTION BEK TV Sports West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8:BEK TV Sports West (720p)
+#DESCRIPTION BEK TV Sports West (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus5.smil/playlist.m3u8:Belarus-5
+#DESCRIPTION Belarus-5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus5.smil/playlist.m3u8:Belarus-5
+#DESCRIPTION Belarus-5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8:Bellator MMA
+#DESCRIPTION Bellator MMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8:Billiard TV
+#DESCRIPTION Billiard TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8:Billiard TV
+#DESCRIPTION Billiard TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8:Billiard TV (1080p)
+#DESCRIPTION Billiard TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunzrh1-0-dashenc-live.zahs.tv/HD_blue_sport_1_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJUGA3UKN2EIQ4EILJUIM3DCNRRIM3UGMRUGQ3UIM2EEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOBZGQTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43DKMZQG5TDQYJYGYYGKNBQMQ4TSZBYGUYTONJQMMZGCMBSHBTDOJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=YmQwNTRmZGM5NTBiNGQ2ZmQ0MzU4MThkOTE1NjFmNWY6YWM0Yzc5NjEyNDE1OTUxYTk4NzYzYzg2NWQ1MDdjMGE=:Blue Sport 1 [CH]
+#DESCRIPTION Blue Sport 1 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_2_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=NjFkZjZmY2QyOWEyZWVkMjRiOTE2MTRhNzIxM2Q4ZWY6ODEzMDAzYTBhZTRlMzU2NTkyMmEzNjlkMmEzZTYyNWY=:Blue Sport 2 [CH]
+#DESCRIPTION Blue Sport 2 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_3_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQKEIY4TKRBUIRBTQLJTGQYEGQRZHAYEGN2GGIZTCRJTEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJTG4TGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCYRXGMZWCNRYGI3DGNJWMFRWMZDDGUZDGZBXHAYWGYRZG5QTQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=ODZiNTgzZTY4OTkwYTlkMThjNTk1YWFhOGJiNTYwZDI6MDZjMDUwM2MzZDgyYTlmZTIyNWYzNDVlOTU0NDk0ZGI=:Blue Sport 3 [CH]
+#DESCRIPTION Blue Sport 3 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zh4-7-dashenc-live.zahs.tv/HD_blue_sport_4_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYTEOJQIRDDMNCBGNBEMLJUGRCDCNCBGM3TARJRHBCDQQKCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTAMBRGYTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCZDDMJSDKZRSHBRTQNRWMQ4DEYRTMU4WGNZZGM3TIOJSGY4TCJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=MzI5MmVhOWEwZjEwNzc3NWZlMWYxNzFhYTY0MDdkNTA6MzUzYmZkOTRhMTM3ZTEyYjdmODQ1MGU0NTYyNTU4ODE=:Blue Sport 4 [CH]
+#DESCRIPTION Blue Sport 4 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_5_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=Mjk1MjgwMzcxYTIwMDAzMzA5MjZiNjY2NzMyNmVlOGQ6OWYwY2UxOTUyNTk0YjE3OWZlMzFlNmEyNzg4ZGIxYzY=:Blue Sport 5 [CH]
+#DESCRIPTION Blue Sport 5 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_6_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSBGNCUMOBQGAZDQLJRGFCUMNBWGY2ECQ2DGNBDCMCCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJYHETGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42TKOBTGEZDKOBXGZTDSMJVMQ3WEYRVHEZTKNJUGY2WKMZQMIZDQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OGU3MDRiM2QwNjJhMmJlYjgyZGU4ZmIzYWI5MDZjNDk6MmI5ZjQ4YzE3MWQ0ZjA1YjVkMmYxZjg4OGI3NjEwNWU=:Blue Sport 6 [CH]
+#DESCRIPTION Blue Sport 6 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_7_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCHE2EKOBQGU2TQLJSGY3UKNJUIYYEGOJYHAZEGOJQEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJZGUTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL5RDEOLDGM4DSZLDMQYDSMJWGJSTGYTBMU2DMZRQGEYGMMDBGQZGGJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=N2M3Mzk2ZTZhM2RiNzcxOGQ2YWVlNDFkYzMzYzk5Yzc6ZWQ2YWEyNGZhNTE5NDFkYTk3M2Q1MGYwODlmMTYxZjA=:Blue Sport 7 [CH]
+#DESCRIPTION Blue Sport 7 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sunlau1-1-dashenc-live.zahs.tv/HD_blue_sport_8_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCGRCDCQ2GINAUGLJYGAZECMSFII4TAOBVIQ2DSNBGMRZG2PLFPBYGS4TBORUW63R2GE3TQMBRGE4DSOJUEZUW42LUNFQWY4TBORST2MRQGAYDAJTNMF4HEYLUMU6TEMBQGAYCM3LJNZZGC5DFHUYTAMBQEZYHEZLGMVZHEZLEL5WGC3THOVQWOZJ5MVXCM43JM46TENK7MMYDGNDDHEZWCNJWMVSDONRZMNSTMNDFGM2DQYRRHFRTENRSGEZCM43VMJ2GS5DMMVZT22DJXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OWJiODA3YjNjZDU4YWY4MjcyNzgyN2JlZjE3YjY1NGY6N2U0NTU1ZDgyMjBjNDZmNGY3OTMwNjc5ZWQyYWE2ZjY=:Blue Sport 8 [CH]
+#DESCRIPTION Blue Sport 8 [CH]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video01.soultv.com.br/internacional/internacional/playlist.m3u8:Canal do Inter (720p) [Not 24/7]
+#DESCRIPTION Canal do Inter (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8:CazeTV
+#DESCRIPTION CazeTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8:CazeTV
+#DESCRIPTION CazeTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8:CazeTV (1080i)
+#DESCRIPTION CazeTV (1080i)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8:CBC Sport HD [Geo-blocked]
+#DESCRIPTION CBC Sport HD [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8:CBS Sports Golazo Network
+#DESCRIPTION CBS Sports Golazo Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8:CBS Sports Golazo Network
+#DESCRIPTION CBS Sports Golazo Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8:CBS Sports Golazo Network (720p)
+#DESCRIPTION CBS Sports Golazo Network (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8:CBS Sports HQ
+#DESCRIPTION CBS Sports HQ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8:CBS Sports HQ
+#DESCRIPTION CBS Sports HQ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8:CBS Sports HQ (1080p) [Geo-blocked]
+#DESCRIPTION CBS Sports HQ (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//74.91.26.218%3a82/live/cctv16hd.m3u8:CCTV-16 (1080p)
+#DESCRIPTION CCTV-16 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//74.91.26.218%3a82/live/cctv5hd.m3u8:CCTV-5 (720p)
+#DESCRIPTION CCTV-5 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.151.150.154/live/cctv5p.m3u8:CCTV-5+ (720p)
+#DESCRIPTION CCTV-5+ (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.125.170.122%3a8000/play/a03j/index.m3u8:CDN Deportes (720p)
+#DESCRIPTION CDN Deportes (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8:CHGO Sports
+#DESCRIPTION CHGO Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn.livestreaminggroup.info%3a3132/live/colimdotvlive.m3u8:ColimdoT TV (720p)
+#DESCRIPTION ColimdoT TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=960:Combate Global
+#DESCRIPTION Combate Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comofootball.mocdn.tv/out/v1/ac7a76c678594a03a8e05392a796f125/index_L1.m3u8:Como TV 1
+#DESCRIPTION Como TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comofootball.mocdn.tv/out/v1/c10b9e41c1a34a598cb5e9a345b3a325/index_L1.m3u8:Como TV 2
+#DESCRIPTION Como TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comofootball.mocdn.tv/out/v1/ffb389a49afc49338e2cc17724a649aa/index_L1.m3u8:Como TV 3
+#DESCRIPTION Como TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comofootball.mocdn.tv/out/v1/617c01e7d8c241d2b1152decbfa60339/index_L1.m3u8:Como TV 4
+#DESCRIPTION Como TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comofootball.mocdn.tv/out/v1/e8d4fec57cd24447babe9fbe0151007c/index_L1.m3u8:Como TV 5
+#DESCRIPTION Como TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8:Cricket Gold (1080p)
+#DESCRIPTION Cricket Gold (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzliY2JjOTQxOGFhNGQ2MmI5NmI2YTNlYWUyZjZkZjA6YThmOTY4YjZhOGVkN2JmYjE3YmY3ODdiNmM5MzBjN2U=:Dazn 1 [PT]
+#DESCRIPTION Dazn 1 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzgwNWNkNTMzYzEzNDFhNzkzNGQxMzYyOWViN2EzNGU6MjU0MjU2NDkyOGNiOGUzZmU0NTk1YWI4ZGNmZDZlNzc=:Dazn 2 [PT]
+#DESCRIPTION Dazn 2 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NzIyNGYyYTZhMTRhNGQ4ODg3NGQxMGRkOTUzYzg4ZGM6OTcxOWVhMjM4ZDNkZTY2ZWIwNzNjZTg0MjgxNGY0NjQ=:Dazn 3 [PT]
+#DESCRIPTION Dazn 3 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGI2ZTVmZTViMWQxNDBiMDkyZTIyY2M2NjIwODgyNzY6NmJkZDc2YWRiYzViYjI1MDg5OTgzYjI1MDBkZGU3Y2E=:Dazn 4 [PT]
+#DESCRIPTION Dazn 4 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDkzMWQ2NzE4ODQxNDVkZmIzOTJiZTBjYWRlNTA4OGM6YmVlZTM5NTWZm6AgawQ38QJHDTYXnkxMDT3d3zrYbaQ=:Dazn 5 [PT]
+#DESCRIPTION Dazn 5 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8:DAZN Combat (1080p)
+#DESCRIPTION DAZN Combat (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8:DAZN Combat Poland
+#DESCRIPTION DAZN Combat Poland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8:DAZN Combat Poland
+#DESCRIPTION DAZN Combat Poland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd?ck=MTFjODNmNzE3NDRlNDAyMDllZDEyYjFjZTIzNGQwNTU6ODMyNzliZDg2YzhmNzE2NTY0NDBhZjFhYmFmNDNmMGE=:DC TV [UK]
+#DESCRIPTION DC TV [UK]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8:DD Sports
+#DESCRIPTION DD Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8:DD Sports
+#DESCRIPTION DD Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8:DD Sports SD (1080p)
+#DESCRIPTION DD Sports SD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.19.255.233%3a8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8:Deportes TVC (1080p)
+#DESCRIPTION Deportes TVC (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd:DirecTV Sports (1080p)
+#DESCRIPTION DirecTV Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8:DP World Tour
+#DESCRIPTION DP World Tour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8:DP World Tour
+#DESCRIPTION DP World Tour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8:DraftKings Network
+#DESCRIPTION DraftKings Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8:DraftKings Network
+#DESCRIPTION DraftKings Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8:DraftKings Network (1080p)
+#DESCRIPTION DraftKings Network (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cors-proxy.cooks.fyi/http%3a//147.135.114.221%3a8001/play/a00m/index.m3u8:DSports Uruguay
+#DESCRIPTION DSports Uruguay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd?ck=NTI1YTlkYTIxMjAwNDVhNjk3MzcwOWRiY2Q2ODU2MDk6ZDhhNzU3OGQ4MWNlNzU0NzU1YTUwM2FkOGFjOThlYzA=:Eleven Sport 1 [PL]
+#DESCRIPTION Eleven Sport 1 [PL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd?ck=MmNkMTJlYWNhNWMxNGIzMGEzMjgwYjFhODk0ODQ4MDk6ZTJjMTRmNmNjMjQ1YzFhNWViYmNlOGM4YzcwNGZjNmM=:Eleven Sport 2 [PL]
+#DESCRIPTION Eleven Sport 2 [PL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd?ck=ZTAwNmRhYjM5NjcxNGMwYjlkZDYyMjgyNTVjMWI3MDk6MmNkZjQ0ZTk2MGJiYzRkMjc2OTY4MDEyZmU2NTkyNzI=:Eleven Sport 3 [PL]
+#DESCRIPTION Eleven Sport 3 [PL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd?ck=M2U5NDNhZDI4ODk2NGM3NzkxN2NjNjU0ZmM2MGQxMDk6MThjZjA3MTA2NTA3ZjQxMTIxMGM0YTI2ZDkwMWE5ZTQ=:Eleven Sport 4 [PL]
+#DESCRIPTION Eleven Sport 4 [PL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/TrYl7woH7wE:Enduro Life Media
+#DESCRIPTION Enduro Life Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/TrYl7woH7wE:Enduro Life Media
+#DESCRIPTION Enduro Life Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8:Equidia (1080p)
+#DESCRIPTION Equidia (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts:ERT Sports 1 (1080p)
+#DESCRIPTION ERT Sports 1 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts:ERT Sports 2 (1080p)
+#DESCRIPTION ERT Sports 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8:ESPN Deportes (360p)
+#DESCRIPTION ESPN Deportes (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8:ESPN8 The Ocho
+#DESCRIPTION ESPN8 The Ocho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8:ESPN8 The Ocho
+#DESCRIPTION ESPN8 The Ocho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8:ESPN8 The Ocho (1080p)
+#DESCRIPTION ESPN8 The Ocho (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8:Esport3 (1080p) [Not 24/7]
+#DESCRIPTION Esport3 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8:Esport3 Originals
+#DESCRIPTION Esport3 Originals
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8:Esports Edge
+#DESCRIPTION Esports Edge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd?ck=MTYzMzAzYTg4MzgyNDk3N2IwNWQ3MzU3ZGE4MmY0ODc6NDBkNWUxMTk4ZDIzYWFhZDkwNzliZGM4ODFmMmNhNWE=:Eurosport 1 (it)
+#DESCRIPTION Eurosport 1 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd?ck=ZWRiNDBkYTgzMmM0NDk1N2I0OWEzMDM1MWViY2NlZTM6Mzc5NzkwNDRmZDQ4MGFlMTBhNDQxYzZjODU0N2IzOGE=:Eurosport 2 (it)
+#DESCRIPTION Eurosport 2 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd?ck=MWYwZGIzMTlhMWUzNDkyY2EwMmQxZGJjZmVmMTc2YWM6ZWYzYmMzYjE1Y2FmMzMwNjRkMWU4ZjlkMGI0NmI0YjE=:Eurosport 3 (it)
+#DESCRIPTION Eurosport 3 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd?ck=ZWFkZTdhYTIzMTRhNDA3ZGE4MjBkNmM4MTE2N2NiOTA6YzZiNzAxZGFlNmM4YmRlYWQyY2JlNmVjZGUwNzY5YmI=:Eurosport 4 (it)
+#DESCRIPTION Eurosport 4 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd?ck=ZGE5ZTg1ZTBhNmY0NDU5ZjkzNDRjZGI1NDRjMjJhNGU6NmFmM2ExZjA5MTFkYTFlNWY2YTE5Njg3MmFiNWZiZmU=:Eurosport 5 (it)
+#DESCRIPTION Eurosport 5 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd?ck=NzM5NTk4NmZkNDZkNGQwYWI0NzI0NzFjMjI0NjIxZTM6YWRmMWY0MGE4ZGI1MmUzMTlhMThjYTAwYTRkYmUwYWE=:Eurosport 6 (it)
+#DESCRIPTION Eurosport 6 (it)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8:F1 Channel (1080p) [Geo-blocked]
+#DESCRIPTION F1 Channel (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8:F1 Channel (720p)
+#DESCRIPTION F1 Channel (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8:F1 Channel US
+#DESCRIPTION F1 Channel US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8:F1 Channel US
+#DESCRIPTION F1 Channel US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8:FanDuel Racing
+#DESCRIPTION FanDuel Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8:FanDuel Racing
+#DESCRIPTION FanDuel Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8:FanDuel Racing
+#DESCRIPTION FanDuel Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8:FanDuel TV
+#DESCRIPTION FanDuel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8:FanDuel TV
+#DESCRIPTION FanDuel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8:FanDuel TV (720p)
+#DESCRIPTION FanDuel TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8:FB TV
+#DESCRIPTION FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8:FB TV
+#DESCRIPTION FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8:FB TV
+#DESCRIPTION FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a62dad94.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8:FIFA+ (720p)
+#DESCRIPTION FIFA+ (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//37b4c228.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8:FIFA+ French (720p)
+#DESCRIPTION FIFA+ French (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4397879b.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8:FIFA+ German (720p)
+#DESCRIPTION FIFA+ German (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6c849fb3.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8:FIFA+ Hispanic America (720p)
+#DESCRIPTION FIFA+ Hispanic America (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d95f7d7.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8:FIFA+ Italy (720p)
+#DESCRIPTION FIFA+ Italy (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e3be9ac5.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8:FIFA+ Portuguese (720p)
+#DESCRIPTION FIFA+ Portuguese (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d63fabad.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8:FIFA+ Spain (720p)
+#DESCRIPTION FIFA+ Spain (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8:FIFA+ United States
+#DESCRIPTION FIFA+ United States
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8:FIFA+ United States
+#DESCRIPTION FIFA+ United States
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8:FIFA+ United States (720p)
+#DESCRIPTION FIFA+ United States (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cffda8ff.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8:FIFA+ Women (720p)
+#DESCRIPTION FIFA+ Women (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8:Fight Network
+#DESCRIPTION Fight Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8:Fight Network (1080p)
+#DESCRIPTION Fight Network (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8:FITE 24/7
+#DESCRIPTION FITE 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8:FITE 24/7
+#DESCRIPTION FITE 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8:FITE 24/7 (1080p)
+#DESCRIPTION FITE 24/7 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8:FloHockey
+#DESCRIPTION FloHockey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8:FloHockey
+#DESCRIPTION FloHockey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8:FloHockey 24/7 (1080p)
+#DESCRIPTION FloHockey 24/7 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8:FloRacing
+#DESCRIPTION FloRacing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8:FloRacing
+#DESCRIPTION FloRacing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8:FloRacing 24/7 (1080p)
+#DESCRIPTION FloRacing 24/7 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8:Fox Deportes
+#DESCRIPTION Fox Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8:Fox Deportes
+#DESCRIPTION Fox Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cors-proxy.cooks.fyi/http%3a//23.237.104.106%3a8080/USA_FOX_DEPORTES/index.m3u8:Fox Deportes (1280p)
+#DESCRIPTION Fox Deportes (1280p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8:FOX Sports
+#DESCRIPTION FOX Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cors-proxy.cooks.fyi/http%3a//190.11.225.124%3a5000/live/fs1_hd/playlist.m3u8:Fox Sports 1 (1280p)
+#DESCRIPTION Fox Sports 1 (1280p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/fiVq2aIUR5E:FOX Sports YT
+#DESCRIPTION FOX Sports YT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/fiVq2aIUR5E:FOX Sports YT
+#DESCRIPTION FOX Sports YT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8:FTF Sports
+#DESCRIPTION FTF Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8:FTF Sports
+#DESCRIPTION FTF Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8:FTF Sports
+#DESCRIPTION FTF Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8:FTF Sports (720p)
+#DESCRIPTION FTF Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/ftvhd/index.m3u8:FTV
+#DESCRIPTION FTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/ftvhd/index.m3u8:FTV
+#DESCRIPTION FTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/ftvhd/index.m3u8:FTV (720p)
+#DESCRIPTION FTV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8:Fubo Sports Network
+#DESCRIPTION Fubo Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8:Fubo Sports Network
+#DESCRIPTION Fubo Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8:Fubo Sports Network
+#DESCRIPTION Fubo Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dnf08l6u6uxnz.cloudfront.net/master.m3u8:fubo Sports Network (1080p)
+#DESCRIPTION fubo Sports Network (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8:FUEL TV
+#DESCRIPTION FUEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8:FUEL TV
+#DESCRIPTION FUEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8:Fuel TV (1080p)
+#DESCRIPTION Fuel TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8:FUEL TV APAC
+#DESCRIPTION FUEL TV APAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8:FUEL TV APAC
+#DESCRIPTION FUEL TV APAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8:FUEL TV Europe
+#DESCRIPTION FUEL TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8:FUEL TV Europe
+#DESCRIPTION FUEL TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8:FUEL TV US
+#DESCRIPTION FUEL TV US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8:FUEL TV US
+#DESCRIPTION FUEL TV US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teleradiocom.tj/8/3m.m3u8:Futbol
+#DESCRIPTION Futbol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teleradiocom.tj/8/3m.m3u8:Futbol (1080p)
+#DESCRIPTION Futbol (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//49.113.179.174%3a4022/udp/238.125.1.36%3a5140:Game Channel
+#DESCRIPTION Game Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8:Game+ (720p)
+#DESCRIPTION Game+ (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=cs17:Gaora Sports (544p)
+#DESCRIPTION Gaora Sports (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8:ge Fast
+#DESCRIPTION ge Fast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8:ge Fast
+#DESCRIPTION ge Fast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8:ge Fast (1080p)
+#DESCRIPTION ge Fast (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202:GEM Fit
+#DESCRIPTION GEM Fit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3a//gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8:GEM Sport
+#DESCRIPTION GEM Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8:GLORY Kickboxing
+#DESCRIPTION GLORY Kickboxing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6f972d29.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8:GLORY Kickboxing (720p)
+#DESCRIPTION GLORY Kickboxing (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8:Goal Zone (1080p)
+#DESCRIPTION Goal Zone (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8:Gol Classics
+#DESCRIPTION Gol Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8:Gol Classics
+#DESCRIPTION Gol Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8:Gol Classics (1080p)
+#DESCRIPTION Gol Classics (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//181.114.57.246%3a4000/play/BHGDIhvdyuw/index.m3u8:Golf Channel Latin America
+#DESCRIPTION Golf Channel Latin America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=cs03:Golf Network (544p)
+#DESCRIPTION Golf Network (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418:Hard Knocks
+#DESCRIPTION Hard Knocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418:Hard Knocks
+#DESCRIPTION Hard Knocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418:Hard Knocks (1080p)
+#DESCRIPTION Hard Knocks (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8:HBCU-GO Sports
+#DESCRIPTION HBCU-GO Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254:Horizon Sports (720p)
+#DESCRIPTION Horizon Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8:Horse TV (720p)
+#DESCRIPTION Horse TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/gcWaPe_LBMc:HT Spor
+#DESCRIPTION HT Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/gcWaPe_LBMc:HT Spor
+#DESCRIPTION HT Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web:HTSpor TV (1080p)
+#DESCRIPTION HTSpor TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8:HTV Thể thao (1080p) [Geo-blocked]
+#DESCRIPTION HTV Thể thao (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8:Inter TV
+#DESCRIPTION Inter TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8:InTrouble
+#DESCRIPTION InTrouble
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8:InTrouble
+#DESCRIPTION InTrouble
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8:INTROUBLE (1080p)
+#DESCRIPTION INTROUBLE (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn.telewebion.ir/tv3/live/playlist.m3u8:IRIB3
+#DESCRIPTION IRIB3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thm-it-roku.otteravision.com/thm/it/it.m3u8:ITV Deportes
+#DESCRIPTION ITV Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thm-it-roku.otteravision.com/thm/it/it.m3u8:ITV Deportes
+#DESCRIPTION ITV Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thm-it-roku.otteravision.com/thm/it/it.m3u8:ITV Deportes (720p)
+#DESCRIPTION ITV Deportes (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=bs18:J Sports 1 (544p)
+#DESCRIPTION J Sports 1 (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=bs19:J Sports 2 (544p)
+#DESCRIPTION J Sports 2 (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=bs21:J Sports 3 (544p)
+#DESCRIPTION J Sports 3 (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=bs22:J Sports 4 (544p)
+#DESCRIPTION J Sports 4 (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//93.184.10.248/JordanSport/index.m3u8:Jordan Sport
+#DESCRIPTION Jordan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//93.184.10.248/JordanSport/index.m3u8:Jordan Sport
+#DESCRIPTION Jordan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.184.10.248/JordanSport/index.m3u8:Jordan Sport (1080p)
+#DESCRIPTION Jordan Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jrtv-live.ercdn.net/learning2/learning2.m3u8:Jordan Sport 2 (1080p) [Geo-blocked]
+#DESCRIPTION Jordan Sport 2 (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8:Juventus Play
+#DESCRIPTION Juventus Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8:K19
+#DESCRIPTION K19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8:KCMN-LD 42.6
+#DESCRIPTION KCMN-LD 42.6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8:KCMN-LD 42.6
+#DESCRIPTION KCMN-LD 42.6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8:KCMN-LD6 (1080p)
+#DESCRIPTION KCMN-LD6 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/KHL_TV/index.m3u8:KHL (720p)
+#DESCRIPTION KHL (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/KHL_TV_HD/index.m3u8:KHL Prime (720p)
+#DESCRIPTION KHL Prime (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0:KOZOOM TV (1080p)
+#DESCRIPTION KOZOOM TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtspta.cdn.mangomolo.com/sp/smil%3asp.stream.smil/chunklist.m3u8:KTV Sport
+#DESCRIPTION KTV Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtspta.cdn.mangomolo.com/sp/smil%3asp.stream.smil/chunklist.m3u8:KTV Sport
+#DESCRIPTION KTV Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtspta.cdn.mangomolo.com/sp/smil%3asp.stream.smil/chunklist.m3u8:KTV Sport (1080p)
+#DESCRIPTION KTV Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtsplta.cdn.mangomolo.com/spl/smil%3aspl.stream.smil/chunklist.m3u8:KTV Sport Plus
+#DESCRIPTION KTV Sport Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtsplta.cdn.mangomolo.com/spl/smil%3aspl.stream.smil/chunklist.m3u8:KTV Sport Plus
+#DESCRIPTION KTV Sport Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwtsplta.cdn.mangomolo.com/spl/smil%3aspl.stream.smil/chunklist.m3u8:KTV Sport Plus (1080p)
+#DESCRIPTION KTV Sport Plus (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8:L'Equipe (1080p)
+#DESCRIPTION L'Equipe (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8:L1 Max (720p)
+#DESCRIPTION L1 Max (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8:Lacrosse TV
+#DESCRIPTION Lacrosse TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8:Lacrosse TV
+#DESCRIPTION Lacrosse TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8:Lacrosse TV (720p)
+#DESCRIPTION Lacrosse TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8:LaLiga Hypermotion (1080p)
+#DESCRIPTION LaLiga Hypermotion (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.19.255.233%3a8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8:LaLiga TV
+#DESCRIPTION LaLiga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-live.lrt.lt/plius/master.m3u8:LRT Plius (1080p) [Geo-blocked]
+#DESCRIPTION LRT Plius (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8:Lucha Libre AAA
+#DESCRIPTION Lucha Libre AAA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.229.103.60%3a1935/liverelay/loverseny2.sdp/playlist.m3u8:Lóverseny közvetítés (420p)
+#DESCRIPTION Lóverseny közvetítés (420p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ares.mnet.mk/hls/mnet-sport.m3u8:M-Net Sport (720p)
+#DESCRIPTION M-Net Sport (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.212.15.19/live/m4_hun/index.m3u8:M4 Sport
+#DESCRIPTION M4 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:MadeinBO TV
+#DESCRIPTION MadeinBO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:MadeinBO TV
+#DESCRIPTION MadeinBO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:MadeinBO TV (1080p)
+#DESCRIPTION MadeinBO TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tmptv.sunduk.tv/CH51/index.m3u8:Match! Boets (576p)
+#DESCRIPTION Match! Boets (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/Match_Strana/index.m3u8:Match! Strana (720p)
+#DESCRIPTION Match! Strana (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e1.viginet.vectormax.com%3a5210/quickstart/114-934-21/index.m3u8:Meridiano TV (480p)
+#DESCRIPTION Meridiano TV (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8:MLB
+#DESCRIPTION MLB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8:MLB
+#DESCRIPTION MLB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8:MLB Channel (1080p) [Geo-blocked]
+#DESCRIPTION MLB Channel (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams2.sofast.tv/vglive-sk-462904/playlist.m3u8:MMA TV.com (1080p)
+#DESCRIPTION MMA TV.com (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/M1_Global/index.m3u8:MMA-TV (576p)
+#DESCRIPTION MMA-TV (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_sport.stream.m3u8:MNB Sport
+#DESCRIPTION MNB Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_sport.stream.m3u8:MNB Sport
+#DESCRIPTION MNB Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_sport.stream.m3u8:MNB Sport (1080p)
+#DESCRIPTION MNB Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8:Monterrico TV (1080p) [Not 24/7]
+#DESCRIPTION Monterrico TV (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8:More Than Sports TV
+#DESCRIPTION More Than Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8:More Than Sports TV
+#DESCRIPTION More Than Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8:More Than Sports TV (1080p)
+#DESCRIPTION More Than Sports TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/msg-plus/hd:MSG Plus (720p) [Not 24/7]
+#DESCRIPTION MSG Plus (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8:MSG Sports Zone
+#DESCRIPTION MSG Sports Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.digitalgt.com%3a3605/live/multivisionsportslive.m3u8:Multivisión Sports (720p) [Not 24/7]
+#DESCRIPTION Multivisión Sports (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8:MUTV (720p)
+#DESCRIPTION MUTV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8:Nautical Channel (720p)
+#DESCRIPTION Nautical Channel (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8:NBA TV
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8:NBA TV
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//user.scalecdn.co%3a8080/live/54706135/09221986/3092.m3u8:NBA TV Canada (1080p)
+#DESCRIPTION NBA TV Canada (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/nbc-sports-bay-area/hd:NBC Sports Bay Area (720p) [Not 24/7]
+#DESCRIPTION NBC Sports Bay Area (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/nbc-sports-boston/hd:NBC Sports Boston (1080p) [Not 24/7]
+#DESCRIPTION NBC Sports Boston (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8:NBC Sports NOW
+#DESCRIPTION NBC Sports NOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1m1xk35ma8qfl.cloudfront.net/master.m3u8:NBC Sports NOW
+#DESCRIPTION NBC Sports NOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1m1xk35ma8qfl.cloudfront.net/master.m3u8:NBC Sports NOW
+#DESCRIPTION NBC Sports NOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008:NBC Sports NOW (1080p)
+#DESCRIPTION NBC Sports NOW (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/nbc-sports-philadelphia/hd:NBC Sports Philadelphia (720p) [Not 24/7]
+#DESCRIPTION NBC Sports Philadelphia (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pb-we3ltka9xobj6.akamaized.net/master.m3u8:NFL Channel
+#DESCRIPTION NFL Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pb-we3ltka9xobj6.akamaized.net/master.m3u8:NFL Channel
+#DESCRIPTION NFL Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pb-we3ltka9xobj6.akamaized.net/master.m3u8:NFL Channel (1080p) [Geo-blocked]
+#DESCRIPTION NFL Channel (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/NFLRedZone/hd:NFL RedZone (720p) [Not 24/7]
+#DESCRIPTION NFL RedZone (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8:NHRA TV
+#DESCRIPTION NHRA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8:NHRA TV
+#DESCRIPTION NHRA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d265y4sk8257lt.cloudfront.net/nh.m3u8:NHRA TV (1080p)
+#DESCRIPTION NHRA TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdns.jp-primehome.com%3a8000/zhongying/live/playlist.m3u8?cid=cs02:Nittele G Plus (544p)
+#DESCRIPTION Nittele G Plus (544p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.comclark.com/live_input/nudge_sports/playlist.m3u8:Nudge Sports Channel (1080p)
+#DESCRIPTION Nudge Sports Channel (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8:Olympic Channel [Geo-blocked]
+#DESCRIPTION Olympic Channel [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//partneta.cdn.mgmlcdn.com/omsport/smil%3aomsport.stream.smil/chunklist.m3u8:Oman Sports TV
+#DESCRIPTION Oman Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//partneta.cdn.mgmlcdn.com/omsport/smil%3aomsport.stream.smil/chunklist.m3u8:Oman Sports TV
+#DESCRIPTION Oman Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//partneta.cdn.mgmlcdn.com/omsport/smil%3aomsport.stream.smil/chunklist.m3u8:Oman Sports TV (1080p) [Not 24/7]
+#DESCRIPTION Oman Sports TV (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/index.m3u8:One Golf (720p)
+#DESCRIPTION One Golf (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvovacion1/liveovacion1tv/playlist.m3u8:Ovacion TV
+#DESCRIPTION Ovacion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvovacion1/liveovacion1tv/playlist.m3u8:Ovacion TV
+#DESCRIPTION Ovacion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.ujjina.com%3a1935/iptvovacion1/liveovacion1tv/playlist.m3u8:Ovacion TV (720p) [Not 24/7]
+#DESCRIPTION Ovacion TV (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8:Overtime (1080p)
+#DESCRIPTION Overtime (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-firetv.amagi.tv/playlist.m3u8:Pac 12 Insider (1080p)
+#DESCRIPTION Pac 12 Insider (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-firetv.amagi.tv/playlist.m3u8:Pac-12 Insider
+#DESCRIPTION Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Pac-12 Insider
+#DESCRIPTION Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8:PBR RidePass (720p)
+#DESCRIPTION PBR RidePass (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fighthls.persiana.live/hls/stream.m3u8:Persiana Fight
+#DESCRIPTION Persiana Fight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fighthls.persiana.live/hls/stream.m3u8:Persiana Fight
+#DESCRIPTION Persiana Fight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8:PGA Tour
+#DESCRIPTION PGA Tour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8:PGA Tour
+#DESCRIPTION PGA Tour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d11k1mnrgfposz.cloudfront.net/playlist.m3u8:PGA Tour (1080p)
+#DESCRIPTION PGA Tour (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8:PHLY Sports
+#DESCRIPTION PHLY Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8:Pluto TV Futbol Para Fans (1080p)
+#DESCRIPTION Pluto TV Futbol Para Fans (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8:Poker Go
+#DESCRIPTION Poker Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8:Poker Go
+#DESCRIPTION Poker Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8:Poker Go (1080p)
+#DESCRIPTION Poker Go (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8:Premier Sports
+#DESCRIPTION Premier Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8:Premier Sports (1080p)
+#DESCRIPTION Premier Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8:Premier Sports 2
+#DESCRIPTION Premier Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8:Premier Sports 2 (1080p)
+#DESCRIPTION Premier Sports 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 1
+#DESCRIPTION Premiere FC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 2
+#DESCRIPTION Premiere FC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 3
+#DESCRIPTION Premiere FC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 4
+#DESCRIPTION Premiere FC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 5
+#DESCRIPTION Premiere FC 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 6
+#DESCRIPTION Premiere FC 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 7
+#DESCRIPTION Premiere FC 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:Premiere FC 8
+#DESCRIPTION Premiere FC 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proshls.wns.live/hls/stream.m3u8:PRO Sport International
+#DESCRIPTION PRO Sport International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.250.28.74%3a8000/play/a019/index.m3u8:PTV Sports (1080p)
+#DESCRIPTION PTV Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8:QazSport
+#DESCRIPTION QazSport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8:QazSport
+#DESCRIPTION QazSport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8:QazSport (480p) [Geo-blocked]
+#DESCRIPTION QazSport (480p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/smcQvzsh5Qo:QSVS%3a Top Calcio 24
+#DESCRIPTION QSVS: Top Calcio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/smcQvzsh5Qo:QSVS%3a Top Calcio 24
+#DESCRIPTION QSVS: Top Calcio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8:RACER International (1080p)
+#DESCRIPTION RACER International (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8:RACER International FAST
+#DESCRIPTION RACER International FAST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8:RACER International FAST
+#DESCRIPTION RACER International FAST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8:Racer Network
+#DESCRIPTION Racer Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8:Racer Network
+#DESCRIPTION Racer Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8:Racer Network (1080p)
+#DESCRIPTION Racer Network (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8:Racer Select
+#DESCRIPTION Racer Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8:Racer Select
+#DESCRIPTION Racer Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8:Racer Select (1080p)
+#DESCRIPTION Racer Select (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8:Racing.com (720p)
+#DESCRIPTION Racing.com (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8:Radio Turrialba TV Sports (720p) [Not 24/7]
+#DESCRIPTION Radio Turrialba TV Sports (720p) [Not 24/7]
+#SERVICE 4097:0:16:425:2:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/RaiSport/index.m3u8:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:16:425:2:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/RaiSport/index.m3u8:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:16:425:2:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/RaiSport/index.m3u8:Rai Sport HD (1080p)
+#DESCRIPTION Rai Sport HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8:Rally TV
+#DESCRIPTION Rally TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8:Rally TV
+#DESCRIPTION Rally TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8:Rally TV (1080p)
+#DESCRIPTION Rally TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.realitatea.net/realitatea/sportiva_md/ts%3aplaylist.m3u8:Realitatea Sportiva (720p)
+#DESCRIPTION Realitatea Sportiva (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8:Realmadrid TV (720p)
+#DESCRIPTION Realmadrid TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Red Bull TV
+#DESCRIPTION Red Bull TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Red Bull TV
+#DESCRIPTION Red Bull TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3ea22335.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8:Red Bull TV (1080p)
+#DESCRIPTION Red Bull TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8:Red Bull TV AU
+#DESCRIPTION Red Bull TV AU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8:Red Bull TV AU
+#DESCRIPTION Red Bull TV AU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8:Red Bull TV AU (1080p)
+#DESCRIPTION Red Bull TV AU (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8:Red Bull TV BR
+#DESCRIPTION Red Bull TV BR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8:Red Bull TV BR
+#DESCRIPTION Red Bull TV BR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8:Red Bull TV BR (1080p)
+#DESCRIPTION Red Bull TV BR (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8:Red Bull TV DE (1080p)
+#DESCRIPTION Red Bull TV DE (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8:Red Bull TV ES
+#DESCRIPTION Red Bull TV ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8:Red Bull TV ES
+#DESCRIPTION Red Bull TV ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8:Red Bull TV ES (1080p)
+#DESCRIPTION Red Bull TV ES (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8:Red Bull TV UK (1080p)
+#DESCRIPTION Red Bull TV UK (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8:Red Bull TV US
+#DESCRIPTION Red Bull TV US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8:Red Bull TV US
+#DESCRIPTION Red Bull TV US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8:Red Bull TV US (1080p)
+#DESCRIPTION Red Bull TV US (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_154/amlst%3a205448-2145652/rightnowtv.m3u8:Right Now TV
+#DESCRIPTION Right Now TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_154/amlst%3a205448-2145652/rightnowtv.m3u8:Right Now TV
+#DESCRIPTION Right Now TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq:Right Now Tv (720p)
+#DESCRIPTION Right Now Tv (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8:RTA Sport
+#DESCRIPTION RTA Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8:RTA Sport
+#DESCRIPTION RTA Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8:RTA Sport (1080p)
+#DESCRIPTION RTA Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.64.57.208/la3/index.m3u8:RTI La 3 (1080p) [Not 24/7]
+#DESCRIPTION RTI La 3 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.11.6%3a8696/live/rtshsport/playlist.m3u8:RTSH Sport (1080p)
+#DESCRIPTION RTSH Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tmptv.sunduk.tv/CH67/index.m3u8:Russian Extreme (576p)
+#DESCRIPTION Russian Extreme (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-5f9c59c52f0ad475d90a33fdfd14d651.m3u8:Ryz Sports Network
+#DESCRIPTION Ryz Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8:S Sport
+#DESCRIPTION S Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8:S Sport 2
+#DESCRIPTION S Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil%3ach-02.smil/master.m3u8:San Marino RTV Sport (720p)
+#DESCRIPTION San Marino RTV Sport (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8:Scripps Sports Network
+#DESCRIPTION Scripps Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports (1080p) [Geo-blocked]
+#DESCRIPTION Sharjah Sports (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd:Sin Po TV (540p)
+#DESCRIPTION Sin Po TV (540p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8:SKI TV (1080p) [Not 24/7]
+#DESCRIPTION SKI TV (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8:Sky Racing 1
+#DESCRIPTION Sky Racing 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8:Sky Racing 1
+#DESCRIPTION Sky Racing 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8:Sky Racing 1 (720p)
+#DESCRIPTION Sky Racing 1 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8:Sky Racing 2
+#DESCRIPTION Sky Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8:Sky Racing 2
+#DESCRIPTION Sky Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8:Sky Racing 2 (720p)
+#DESCRIPTION Sky Racing 2 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8:Sky Thoroughbred Central (720p) [Geo-blocked]
+#DESCRIPTION Sky Thoroughbred Central (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//49.113.179.174%3a4022/udp/238.125.2.142%3a5140:SMG Football Channel
+#DESCRIPTION SMG Football Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8:Sony Sports Ten 1 (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 1 (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8:Sony Sports Ten 1 HD (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 1 HD (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8:Sony Sports Ten 2 (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 2 (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8:Sony Sports Ten 2 HD (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 2 HD (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8:Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8:Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8:Sony Sports Ten 4 (1080p) [Geo-blocked]
+#DESCRIPTION Sony Sports Ten 4 (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8:Sony Sports Ten 4 Telugu (1080p)
+#DESCRIPTION Sony Sports Ten 4 Telugu (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a03d:Sony Sports Ten 5 HD (1080p)
+#DESCRIPTION Sony Sports Ten 5 HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8:SOS Kanal Plus
+#DESCRIPTION SOS Kanal Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8:SOS Kanal Plus (720p)
+#DESCRIPTION SOS Kanal Plus (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-f450ca31c0f7dde46cfdccb15d2154cb.m3u8:Speed Sport 1
+#DESCRIPTION Speed Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.217%3a9005/play/a017:Sport 1 (1280p)
+#DESCRIPTION Sport 1 (1280p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=:SPORT 1 [CZ]
+#DESCRIPTION SPORT 1 [CZ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=:SPORT 2 [CZ]
+#DESCRIPTION SPORT 2 [CZ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8:Sport Italia (1080p)
+#DESCRIPTION Sport Italia (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=YzJiYWM5YzM5M2YxNDVmYzkyNGNlNTcyY2E5OTE1NmY6NDVmNjYzN2VlZjgwZWFmYmU3ZTYzMDIzMTEzOWRmNWI=:Sport TV 1 [PT]
+#DESCRIPTION Sport TV 1 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGQyOGVkZjRmMDU1NDA5YmIxMmQ2ZDAyNjBiMjZiNmI6YmY2OWY4YTMzYzM5YzMxZjVmZjA2YWI1MjAxMmUyN2M=:Sport TV 2 [PT]
+#DESCRIPTION Sport TV 2 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MjA2ZmVjNTZmNWI3NDFlNWFhODExMjQ4OTVkOWI1OTI6MjdiOTE1MDVhYTY5MjZmNTkxOTljODI4YmMyNzc2N2I=:Sport TV 3 [PT]
+#DESCRIPTION Sport TV 3 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=Y2MwYjdhYzMxYjVlNDJmOGJmOTM0Zjk5YWNmNzFhOGE6ZDc2NDI0ZDY0NGEzNjAwNTY1NjdhMjQ4ZDhiODliNmM=:Sport TV 4 [PT]
+#DESCRIPTION Sport TV 4 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ODFjYTQzNGM5MzFhNDAzZTk1MGRmM2Q4MDhjMjRjNDE6MTg1NDgxOTBjZjNjODI5NDA5NmFmOGEyMTQ2ZTMyYTU=:Sport TV 5 [PT]
+#DESCRIPTION Sport TV 5 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDMxOWFhYjAyYTgzNDIyNDhjY2ViMGZkZjA2MGJjNTQ6YjM2NjY4YTgzNmIxNTA1NWJlMWYwNGI4ZDhhOGNjNzA=:Sport TV 6 [PT]
+#DESCRIPTION Sport TV 6 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NDAwOTU3YWM2OGQ1NDlmYmJiYmM2NjhkM2E5ZWI3MDk6M2RkMzUxZjE4NzViMGRkNDBhNGUzOTJmMDZhMjliMjk=:Sport TV 7 [PT]
+#DESCRIPTION Sport TV 7 [PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8:Sportdigital FUSSBALL HD (1080p)
+#DESCRIPTION Sportdigital FUSSBALL HD (1080p)
+#SERVICE 4097:0:19:50:7918:217C:EEEE0000:0:0:0:https%3a//amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:19:50:7918:217C:EEEE0000:0:0:0:https%3a//amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-yx2saj20.vo.lswcdn.net/sportitalia/smil%3asilive24.smil/playlist.m3u8:Sportitalia 24 (720p) [Geo-blocked]
+#DESCRIPTION Sportitalia 24 (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-yx2saj20.vo.lswcdn.net/sportitalia/smil%3asimotori.smil/playlist.m3u8:Sportitalia Motori (720p) [Geo-blocked]
+#DESCRIPTION Sportitalia Motori (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8:Sportitalia Solocalcio (1080p)
+#DESCRIPTION Sportitalia Solocalcio (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?ck=ODAxMTlmM2U1NzQ0NTQyMThkMzFjZjQ2NGI0MjBjNWU6ZDcxZTMxODZjNGUwMzcyNzliNGMxMjE5N2I4NjA1NTEsZmViNmEwZDViZGY5NTcyMWE2OTViZGRhODNjM2E5NDU6YTk2YmYyN2QzNmNkOWVkZTQ0N2M1YzM5MjUxMWVkNWQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 1 [HR]
+#DESCRIPTION SportKlub 1 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk10/default/index.mpd?ck=ZmFlOGVjMjhmMTc2NWRhNmFiZGY4ZGQ0ZWRmMjkyMjc6OGJjNmVjZWJmZWQ3ZDUwYWNjZDI4OWJkMjllMGM1YzgsOWM0Y2ExMjU4OWVmNWJhZTkzNjIxMmZjZGRmODdiOTA6OWNmOGJkNTRjODViOGQ5NzMyMGIwZmRhNDUwNWM2MTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 10 [HR]
+#DESCRIPTION SportKlub 10 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/skhd/default/index.mpd?ck=NzM4ODA4MjlmNDJhNTMzZDk4ODAwODA2NWE1ZmRkZDI6NDUyMzY5NGUyNWYxNmVjYmQzMDA3NmZiMDY3ZmY2YmMsMTI2MGZhNjIxZTkxNTM5OGE5NDcyMWQ1ZjJjODM4NGI6MjI0YjQwOGNlMTNkNGMyNzg1YjMxNTRiZDhlZjBiNWE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 11 [HR]
+#DESCRIPTION SportKlub 11 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/skns/default/index.mpd?ck=OGZmOTEzODg4NWI0NTM0Zjg3MjJlOWE1ZmI3ZmU0ZTI6YTBkMGRiNGE4ZjU0ODhhODRkMDg3N2UyNzRjZWFlNDYsZjlmYWM1N2EzZGRkNTEyNDllOTkxMDhkZTU3ZDc0MjM6MzVkOThiODHsagHzd2sh3Zb747gJJNL3cCUpTcRJf9C=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 12 [HR]
+#DESCRIPTION SportKlub 12 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk2/default/index.mpd?ck=Y2FkNGY2ZjBlZjg1NTc2NWI1NmYwN2NiNDY1ODhlM2Q6YjNiNzIwYmM1MDc4ZjU4YTYzYTg2N2JmZTkyODhiNzAsMzI3NDNmM2NkYTI3NWNmNmEzNTljZGU5MmRmZDExOWM6YTU1MTc0NDMxOWU0ZjNmNTI2NzMzNWUzN2U3MDZiYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 2 [HR]
+#DESCRIPTION SportKlub 2 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk3/default/index.mpd?ck=YWY3MTRkOTRlMTBkNTNjYmExYzE5YjgxOGNiYWQzOGE6N2Y3ZDQ4NDQxNDQyYmE1YWMwNGNhMzVhZTc2NDljYmEsZTkxMGIzMmI5Njk4NWZhZDliY2U0NjMyYjQ0NGNjOTE6NzRkMzBiZDg5OTY1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 3 [HR]
+#DESCRIPTION SportKlub 3 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk4/default/index.mpd?ck=YTZiNTYzNWZjNjRiNWRiMDk1OWYwMDlhMzRhYTZhNmQ6ZWRiNGJmNGM4MjA1NTMyNDEzYWU1YWFlMTExYzIxYjksYzhhMGJlMTA5N2NlNWRhZmI2NTRiNTA5MDg1ZTM2MjQ6Mzk2NmQyMzhlYzkyN2UyYTE3NmEzZmFkYTM2YTNhZTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 4 [HR]
+#DESCRIPTION SportKlub 4 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk5/default/index.mpd?ck=OGRmOGMxMDllODE1NWIwNTgyZGFhMGFjZjZmZmM4ZWE6ODc4ODczZDkxNGVhNjFkNzhlZDExYjI1MGRlMGVhYjQsYmYyZDJmNjY0NmNkNWQ1ZjhhOTAxM2U3MzEwN2ZlOWI6Yjk0MGE3MzdiYTgzZTQwYjI0ZjRjNjk1MTMwNzAxZGI=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 5 [HR]
+#DESCRIPTION SportKlub 5 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk6/default/index.mpd?ck=MDUxN2EwNTdmM2IzNWZlZDk5OWJhZWRhNzM0MDEzZmM6Mzk0NmU3ZjA3ZDRhMGQ4M2RiMzUzODM1MTY4Nzk4YjEsNzAwYTVmMGYzN2VkNTMxYzgwMGMzMWJhOGM2N2MwNDc6MzhiMTczMDRlNDgyZjkwMjk2MzJjOWExZDA5ZGU1M2Y=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 6 [HR]
+#DESCRIPTION SportKlub 6 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk7/default/index.mpd?ck=ODJhOThkNTQ0ZTJkNWNlMWFmNTU4NTI5ZjQyMTUyYjE6NWMzNzQ0YjljZmU0OGU4YWY4OGYwNjQxZmQ2YjEzNzYsN2QwNzdmMDM4ZWNjNTYxM2ExMzg5OGU2M2ExMDI3YTg6MTcyZjVlNGFjMDAyYTgxZmZiYmNlOWQ0YTRlNDBjODA=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 7 [HR]
+#DESCRIPTION SportKlub 7 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk8/default/index.mpd?ck=YjMzNjg1ZmY1NzE2NTdiYmFkNzlhNzU5NmU2MjA4Mzc6OWU2Y2NjNzNjNDlkZWNiZjYyODI0ZDFlYjgzN2ViYWUsYmJkZDBiNTFkZmNkNTFkZmI5YWM4NGFjNGU5NzM3OGY6Mzc1YmRhMTUxNWIxN2NiZTY5ZTM1MjViZjk3YjZmNjM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 8 [HR]
+#DESCRIPTION SportKlub 8 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk9/default/index.mpd?ck=ZGUwNDBjZmJmMjhjNWQ1MGJmMjM5NTE4N2UyOGZhOGI6ZWNjNzM0ZjU1NjQwZmI0MjQwNjNjMzQ0MjUyYmNhMTUsZTJlYTBhYWUzYjBlNTk3YWE5ZGZmYWU0Y2U0MWZlNzg6YzljYzc4ZWM2ODMwNDIxYmQ1MWRkNjRhNWE1YzFkYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0:SportKlub 9 [HR]
+#DESCRIPTION SportKlub 9 [HR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8:Sports Connect (720p)
+#DESCRIPTION Sports Connect (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.sportstv.com.tr/hls/low/sportstv.m3u8:Sports TV (720p) [Geo-blocked]
+#DESCRIPTION Sports TV (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8:SPORTSGRID
+#DESCRIPTION SPORTSGRID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsgrid-tribal.amagi.tv/playlist.m3u8:SportsGrid
+#DESCRIPTION SportsGrid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsgrid-plex.amagi.tv/playlist.m3u8:SportsGrid
+#DESCRIPTION SportsGrid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu:SportsGrid (1080p)
+#DESCRIPTION SportsGrid (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC:SportsTVPlus (1080p)
+#DESCRIPTION SportsTVPlus (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:SporTV (1280p)
+#DESCRIPTION SporTV (1280p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:SporTV 2 (1280p)
+#DESCRIPTION SporTV 2 (1280p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/19025/video.m3u8:SporTV 2 Alternativo (720p)
+#DESCRIPTION SporTV 2 Alternativo (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0:SporTV 3 (1080p)
+#DESCRIPTION SporTV 3 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stm.sinalmycn.com/19024/video.m3u8:SporTV Alternativo (720p)
+#DESCRIPTION SporTV Alternativo (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//primestreams.tv%3a826/live/mookie22/49aV7nBsK4/119515.m3u8:SPOTV (720p)
+#DESCRIPTION SPOTV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//primestreams.tv%3a826/live/mookie22/49aV7nBsK4/119516.m3u8:SPOTV 2 (1080p)
+#DESCRIPTION SPOTV 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd?ck=MTUzOWYwNDMyNDllNDEzZDkxOTA2MDM2ZjMwNTgzMWU6NjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmE=:SPOTV2
+#DESCRIPTION SPOTV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8:Stadium
+#DESCRIPTION Stadium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8:Stadium
+#DESCRIPTION Stadium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8:Stadium (720p)
+#DESCRIPTION Stadium (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.253.18.58%3a8000/play/a00m:Star Sports 1 HD (1080p)
+#DESCRIPTION Star Sports 1 HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.253.18.58%3a8000/play/a03o:Star Sports 1 Hindi (576p)
+#DESCRIPTION Star Sports 1 Hindi (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a059:Star Sports 1 Hindi HD (1080p)
+#DESCRIPTION Star Sports 1 Hindi HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a04e:Star Sports 1 Tamil HD (1080p)
+#DESCRIPTION Star Sports 1 Tamil HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a055:Star Sports 2 HD (1080p)
+#DESCRIPTION Star Sports 2 HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.157.248.140%3a8000/play/a01m/index.m3u8:Star Sports 2 Hindi HD (1080p)
+#DESCRIPTION Star Sports 2 Hindi HD (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a04i:Star Sports 2 Tamil (576p)
+#DESCRIPTION Star Sports 2 Tamil (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.122.249.134%3a8000/play/a04u:Star Sports 3 (576p)
+#DESCRIPTION Star Sports 3 (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8:Strongman (720p)
+#DESCRIPTION Strongman (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8:Strongman Champions League (720p)
+#DESCRIPTION Strongman Champions League (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8:Supertennis
+#DESCRIPTION Supertennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8:Swerve Combat (1080p)
+#DESCRIPTION Swerve Combat (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8:Swerve Sports
+#DESCRIPTION Swerve Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8:Swerve Sports
+#DESCRIPTION Swerve Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvsen7.aynaott.com/tsportshd/index.m3u8:T Sports (720p)
+#DESCRIPTION T Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8:Tabii Spor 6 (720p) [Geo-blocked]
+#DESCRIPTION Tabii Spor 6 (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.talenttv.lk%3a8080/hls/x8kd5n3tm8e8lsv/index.m3u8:Talent TV (720p)
+#DESCRIPTION Talent TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//af7a8b4e.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8:talkSPORT (1080p)
+#DESCRIPTION talkSPORT (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8:TDM Sports Ch. 93 (720p)
+#DESCRIPTION TDM Sports Ch. 93 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.picta.cu/telerebelde/telerebelde_1.m3u8:Tele Rebelde
+#DESCRIPTION Tele Rebelde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.picta.cu/telerebelde/telerebelde_1.m3u8:Tele Rebelde (480p) [Not 24/7]
+#DESCRIPTION Tele Rebelde (480p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.176.119.180%3a2095/play/a16t:Teledeporte (1080p)
+#DESCRIPTION Teledeporte (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8:Teletrak (720p)
+#DESCRIPTION Teletrak (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8:Teletrak TV
+#DESCRIPTION Teletrak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8:Teletrak TV
+#DESCRIPTION Teletrak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.91.61.106%3a8000/play/a04h/index.m3u8:Ten Sports Pakistan
+#DESCRIPTION Ten Sports Pakistan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel
+#DESCRIPTION Tennis Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel
+#DESCRIPTION Tennis Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8:Tennis Channel (1080p)
+#DESCRIPTION Tennis Channel (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8:TennisChannel 2 (720p)
+#DESCRIPTION TennisChannel 2 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cyclingtv.playout.vju.tv/cyclingtv/main.m3u8:The Cycling Channel
+#DESCRIPTION The Cycling Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dflive.app.tc/20.m3u8:Thmanyah 1 (1080p)
+#DESCRIPTION Thmanyah 1 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dflive.app.tc/60.m3u8:Thmanyah 2 (1080p)
+#DESCRIPTION Thmanyah 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dflive.app.tc/61.m3u8:Thmanyah 3 (1080p)
+#DESCRIPTION Thmanyah 3 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.19.255.233%3a8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8:Tigo Sports (1080p)
+#DESCRIPTION Tigo Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.enhdtv.com%3a8081/8160/index.m3u8:Tigo Sports (720p)
+#DESCRIPTION Tigo Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8:Tigo Sports (720p) [Geo-blocked]
+#DESCRIPTION Tigo Sports (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8:Tigo Sports TV El Salvador (720p) [Geo-blocked]
+#DESCRIPTION Tigo Sports TV El Salvador (720p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.130.224%3a8000/play/a04i/index.m3u8:Tigo Sports+
+#DESCRIPTION Tigo Sports+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/g89RQMJtK6E:TJK TV
+#DESCRIPTION TJK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/g89RQMJtK6E:TJK TV
+#DESCRIPTION TJK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv-live.tjk.org/tjktv.m3u8:TJK TV (1080p)
+#DESCRIPTION TJK TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv-live.tjk.org/tjktv2/tjktv2.m3u8:TJK TV 2 (1080p) [Not 24/7]
+#DESCRIPTION TJK TV 2 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.nexgen.bz/TNC_SPORTS/index.m3u8:TNC Sports (1080p)
+#DESCRIPTION TNC Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?ck=Mjk0YjU3NjFjZWZjMjJkMGM2MzEyOTM5ZTEzZDgyNzg6NTIxNDhmMTA0MmQyMzg4NDlmMGE3ODEzZjFkYThhN2I=:TNT Sports 1 [UK]
+#DESCRIPTION TNT Sports 1 [UK]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?ck=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU=:TNT Sports 2 [UK]
+#DESCRIPTION TNT Sports 2 [UK]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?ck=MWQ5NmFiMzY2YmJlNjQ1MWVkZjc0MDdiNThlMmZhMTY6MDExNjIwMWY0YTYzYWM1YmY1Nzg3ZDJjNjEwYzQxYTc=:TNT Sports 3 [UK]
+#DESCRIPTION TNT Sports 3 [UK]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?ck=MTkyYjExMTVkYTA0MTU4NWM3NzIwMDEyODU0OWVmYTE6NjM0ZTEwZWZlNGFiYmIxNGJlNDAwYTNjY2JhYzAyNTg=:TNT Sports 4 [UK]
+#DESCRIPTION TNT Sports 4 [UK]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fox.hostlagarto.com%3a8081/toursporttv/playlist.m3u8:Tour Spot TV
+#DESCRIPTION Tour Spot TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fox.hostlagarto.com%3a8081/toursporttv/playlist.m3u8:Tour Spot TV (1280p) [Not 24/7]
+#DESCRIPTION Tour Spot TV (1280p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:TR Sport
+#DESCRIPTION TR Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:TR Sport (480p)
+#DESCRIPTION TR Sport (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8:Trace Sport Stars
+#DESCRIPTION Trace Sport Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8:Trace Sport Stars
+#DESCRIPTION Trace Sport Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-tracesport-samsungau.amagi.tv/playlist.m3u8:Trace Sport Stars (Australia) (1080p)
+#DESCRIPTION Trace Sport Stars (Australia) (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor1.medya.trt.com.tr/master.m3u8:TRT Spor (1080p) [Geo-blocked]
+#DESCRIPTION TRT Spor (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.medya.trt.com.tr/master.m3u8:TRT Spor Yildiz (1080p) [Geo-blocked]
+#DESCRIPTION TRT Spor Yildiz (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?ck=ZTUxYWEyMWYyYTBmZWY5YWFiYzEyMGRmYjY1NWI1MmY6YTEyYTk4N2ZlNzI1YTQwYjZiZTk1Y2Q4NGIxNWY2ODk=:TSN 1 [CA]
+#DESCRIPTION TSN 1 [CA]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd?ck=ZGFhOGVhOTI1NTNmZDE2Y2Q2YmZhZTJiOGM1ODI3MTU6NDA0MmUwNDFiNTYzOWI3OWI2OWFlMDdhODcyZWVmOWI=:TSN 2 [CA]
+#DESCRIPTION TSN 2 [CA]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/cenc.mpd?ck=ZjVjMmIzMGVhYzExYmUxZThjZGZjOTU4NWY1ZmU2YWY6YTgxOThkMTdiZjliMGRhNzc0NTBmYmI5MTlhMzhiMmQ=:TSN 3 [CA]
+#DESCRIPTION TSN 3 [CA]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?ck=YzQwODhmNWYyNjVmOWRlNTBjZmZkODBiZjg5MzA4Yjc6MmM0ZDIyMzlkOTZkNTMyYjRlYzIwNTA2NTM2MTEwMDM=:TSN 4 [CA]
+#DESCRIPTION TSN 4 [CA]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?ck=ZTg1MzMzM2RhMmM5MTk2ZWExMTM3NDYzNDIzMWJjNDU6ZGUyZTJkYmU4MThkNzhkZmFkMDdkNmNkOWE0YzYzZDQ=:TSN 5 [CA]
+#DESCRIPTION TSN 5 [CA]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8:TSN The Ocho
+#DESCRIPTION TSN The Ocho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8:TSN The Ocho (1080p)
+#DESCRIPTION TSN The Ocho (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/tsn1/hd:TSN1 (1080p) [Not 24/7]
+#DESCRIPTION TSN1 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/tsn2/hd:TSN2 (1080p) [Not 24/7]
+#DESCRIPTION TSN2 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/tsn3/hd:TSN3 (1080p) [Not 24/7]
+#DESCRIPTION TSN3 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/tsn4/hd:TSN4 (720p) [Not 24/7]
+#DESCRIPTION TSN4 (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvpass.org/live/tsn5/hd:TSN5 (1080p) [Not 24/7]
+#DESCRIPTION TSN5 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd?ck=MzY0NjBlOTI0MjUxNDJjNmE2NDc1YmYyNmY2NGQ1YTY6NzVkZTU5ZTI5MzM0NGVkZDM3YWU2Yzc1MWI0NTEwZTcsOGFlMzNlMGRhZTVmM2FjYzgyOWZlODM2YzAwZjc0MmM6MDEyZjg4MGVhYzY1MmI1NjM2MzdiNGM5Njk4OWZkODQ=:Turbo
+#DESCRIPTION Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=:Turf Movil
+#DESCRIPTION Turf Movil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=:Turf Movil (720p)
+#DESCRIPTION Turf Movil (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.tvmatic.net/fight.m3u8:TVMatic Fight (720p)
+#DESCRIPTION TVMatic Fight (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.smashmalta.com%3a25463/live/webplayer/livestream/29.m3u8:TVMsport+ (1080p)
+#DESCRIPTION TVMsport+ (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd:TVP Sport (1080p)
+#DESCRIPTION TVP Sport (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvr-sport.lg.mncdn.com/tvrsport/smil%3atvrsport.smil/chunklist_b5160000.m3u8:TVR Sport
+#DESCRIPTION TVR Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvr-sport.lg.mncdn.com/tvrsport/smil%3atvrsport.smil/chunklist_b5160000.m3u8:TVR Sport
+#DESCRIPTION TVR Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8:TVRI Sport
+#DESCRIPTION TVRI Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8:TVRI Sport
+#DESCRIPTION TVRI Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8:TVRI Sport (720p)
+#DESCRIPTION TVRI Sport (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.as3sport.online%3a3394/hybrid/play.m3u8:TVS Bowling Network
+#DESCRIPTION TVS Bowling Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8:TVS Bowling Network
+#DESCRIPTION TVS Bowling Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8:TVS Bowling Network (720p)
+#DESCRIPTION TVS Bowling Network (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8:TVS Boxing
+#DESCRIPTION TVS Boxing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8:TVS Boxing (360p)
+#DESCRIPTION TVS Boxing (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvs/index.m3u8:TVS Classic Sports
+#DESCRIPTION TVS Classic Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvs/index.m3u8:TVS Classic Sports (360p)
+#DESCRIPTION TVS Classic Sports (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8:TVS Sports
+#DESCRIPTION TVS Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8:TVS Sports (720p) [Not 24/7]
+#DESCRIPTION TVS Sports (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8:TVS Sports Bureau
+#DESCRIPTION TVS Sports Bureau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8:TVS Sports Bureau (720p)
+#DESCRIPTION TVS Sports Bureau (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8:TVS Turbo
+#DESCRIPTION TVS Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8:TVS Turbo (360p)
+#DESCRIPTION TVS Turbo (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8:TVS Women Sports
+#DESCRIPTION TVS Women Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8:TVS Women Sports (720p)
+#DESCRIPTION TVS Women Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8:TyC Sports
+#DESCRIPTION TyC Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8:TyC Sports (1080p)
+#DESCRIPTION TyC Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.170.130.224%3a8000/play/a020/index.m3u8:TyC Sports USA
+#DESCRIPTION TyC Sports USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/hls/ch004.m3u8:Türkmenistan Sport (406p) [Not 24/7]
+#DESCRIPTION Türkmenistan Sport (406p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8:Unbeaten
+#DESCRIPTION Unbeaten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8:Unbeaten Sports Channel (1080p)
+#DESCRIPTION Unbeaten Sports Channel (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn.telewebion.ir/varzesh/live/playlist.m3u8:Varzesh TV
+#DESCRIPTION Varzesh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true:Viaplay TV (Finland) (720p) [Not 24/7]
+#DESCRIPTION Viaplay TV (Finland) (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tmptv.sunduk.tv/CH131/index.m3u8:viju+ Sport (576p)
+#DESCRIPTION viju+ Sport (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//autopilot.catcast.tv/content/37909/index.m3u8:VITAL Drive
+#DESCRIPTION VITAL Drive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//autopilot.catcast.tv/content/37909/index.m3u8:Vital Drive
+#DESCRIPTION Vital Drive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8:W14DK-D 14.5
+#DESCRIPTION W14DK-D 14.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8:W14DK-D 14.5 All Sports Television Network
+#DESCRIPTION W14DK-D 14.5 All Sports Television Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/i7UpPgxfZZ8:WCW
+#DESCRIPTION WCW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/8nc3pS5mx7w:WCW
+#DESCRIPTION WCW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8:Willow Sports
+#DESCRIPTION Willow Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8:Willow Sports (1080p)
+#DESCRIPTION Willow Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.60.40.34%3a8001/play/a0ef:Win Sports (1080p)
+#DESCRIPTION Win Sports (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.60.40.34%3a8001/play/a02r:Win+ Futbol
+#DESCRIPTION Win+ Futbol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8:Women's Sports Network
+#DESCRIPTION Women's Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8:World of Freesports
+#DESCRIPTION World of Freesports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8:World of Freesports
+#DESCRIPTION World of Freesports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8:World of Freesports (1080p)
+#DESCRIPTION World of Freesports (1080p)
+#SERVICE 4097:0:19:2BD:14B4:13E:820000:0:0:0:https%3a//jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102:World Poker Tour (1080p)
+#DESCRIPTION World Poker Tour (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/t1GodAvci_g:World Poker Tour 1
+#DESCRIPTION World Poker Tour 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/AatxkgXuaBI:World Poker Tour 2
+#DESCRIPTION World Poker Tour 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102:World Poker Tour Poland
+#DESCRIPTION World Poker Tour Poland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8:World Poker Tour UK
+#DESCRIPTION World Poker Tour UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/FDyJpNEpV44:WWE Vault
+#DESCRIPTION WWE Vault
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8:Yahoo! Sports Network
+#DESCRIPTION Yahoo! Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621&ck=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM=:Ziggo Sport 1 [NL]
+#DESCRIPTION Ziggo Sport 1 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579&ck=M2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA=:Ziggo Sport 2 [NL]
+#DESCRIPTION Ziggo Sport 2 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538&ck=NGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg=:Ziggo Sport 3 [NL]
+#DESCRIPTION Ziggo Sport 3 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538&ck=YjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E=:Ziggo Sport 4 [NL]
+#DESCRIPTION Ziggo Sport 4 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDRMfFSmvnfmEn7mhtahzNyrfcSPV2YnnkDJ%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039&ck=M2ZiNDBkODU3MjQ5NDJmOTk0ZDg2OTQzZjQ4MDIxZGI6YTZkYTg3NDI1MDJjOGEyMTUzMDY3ZjVmMmE3MGZiMDI=:Ziggo Sport 5 [NL]
+#DESCRIPTION Ziggo Sport 5 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EURnD_afuosWHfY5OEqRXOwfa01PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7EiVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014418%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014418%2C3103_S1E2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600&ck=MWEwZmZhNTMyYWEyNDk4NDkwODI2ZTJmNmEzN2Y3Yzk6YThjZWMyN2JjN2Q0NzkwOWM1YjBkOGY0NzNiNDNlOGQ=:Ziggo Sport 6 [NL]
+#DESCRIPTION Ziggo Sport 6 [NL]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mio.zoymilton.com/ZoyEventos/index.m3u8:Zoy TV Sports 1 (1080p) [Not 24/7]
+#DESCRIPTION Zoy TV Sports 1 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.212.15.19/live/test_ctsport_25p/playlist.m3u8:ČT Sport (720p)
+#DESCRIPTION ČT Sport (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.107.85.4%3a1935/live/smil%3aDNTV2.smil/chunklist.m3u8:Đồng Nai 2 (480p) [Not 24/7]
+#DESCRIPTION Đồng Nai 2 (480p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8:Астрахань.Ru Sport (720p)
+#DESCRIPTION Астрахань.Ru Sport (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus5.smil/playlist.m3u8:Беларусь 5 (1080p) [Not 24/7]
+#DESCRIPTION Беларусь 5 (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge59.dc.beltelecom.by/ngtrk/smil%3abelarus5int.smil/playlist.m3u8:Беларусь 5 Интернет (1080p) [Not 24/7]
+#DESCRIPTION Беларусь 5 Интернет (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/Boks_TV/index.m3u8:Бокс ТВ (720p)
+#DESCRIPTION Бокс ТВ (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/Match_Arena_HD/index.m3u8:МАТЧ! Арена (720p)
+#DESCRIPTION МАТЧ! Арена (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/Match_Igra_HD/index.m3u8:МАТЧ! Игра (720p)
+#DESCRIPTION МАТЧ! Игра (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8:Матч! Планета (720p)
+#DESCRIPTION Матч! Планета (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8:СТАРТ Триумф
+#DESCRIPTION СТАРТ Триумф
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//st2.mediabay.tv/KG_KTRK-Sport/index.m3u8:УТРК Спорт (480p) [Not 24/7]
+#DESCRIPTION УТРК Спорт (480p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.148.48.15/Futbol_HD/index.m3u8:Футбол (720p)
+#DESCRIPTION Футбол (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livealone302.iqilu.com/iqilu/typd.m3u8:山东体育 (1080p) [Geo-blocked]
+#DESCRIPTION 山东体育 (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.71/gitv/live1/G_JSTY/G_JSTY:江苏体育 (576p)
+#DESCRIPTION 江苏体育 (576p)

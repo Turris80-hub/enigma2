@@ -1,0 +1,2435 @@
+#NAME TVGarden - Italy
+#SERVICE 1:64:0:0:0:0:0:0:0:0::--- | TVGarden Italy | ---
+#DESCRIPTION --- | TVGarden Italy | ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/111/111/playlist.m3u8:111 TV
+#DESCRIPTION 111 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8:12 TV Parma
+#DESCRIPTION 12 TV Parma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8:12 TV Parma
+#DESCRIPTION 12 TV Parma
+#SERVICE 4097:0:19:C30:3A2:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8:20 Mediaset
+#DESCRIPTION 20 Mediaset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd:20 Mediaset
+#DESCRIPTION 20 Mediaset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09489/stb-dash-fhd-avc/SV09489.mpd?ck=OWFiZThmZmVjZGM4NDg1Njk4ODgxYTU1OGViNmE1ODg6OGZkNjBhYWIxYzk5ZTBlMzdkNDU0Y2U0MWEzNGRmNTQsNzA1Y2FmNTA4MWI5M2ZkMzliZGY0MGFkNTBjNjM0Nzc6NmU1MTI1MGIwNzBmMDFkYTQ1ZDYyNTMxOGUwZTBlYmQ=:20 Mediaset
+#DESCRIPTION 20 Mediaset
+#SERVICE 4097:0:19:6A:385:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8:27 Twentyseven
+#DESCRIPTION 27 Twentyseven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd:27TwentySeven HD
+#DESCRIPTION 27TwentySeven HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/stvp-IT500008CB:3BMeteo
+#DESCRIPTION 3BMeteo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8:5-Minuti Creativi
+#DESCRIPTION 5-Minuti Creativi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8:50 Canale
+#DESCRIPTION 50 Canale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8:51 Radio TV
+#DESCRIPTION 51 Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms.shared.streamshow.it/canale51/canale51/playlist.m3u8:51 Radio TV
+#DESCRIPTION 51 Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8:7 Gold Sestarete
+#DESCRIPTION 7 Gold Sestarete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8:7 RadioVisione
+#DESCRIPTION 7 RadioVisione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8:7 YOU & ME
+#DESCRIPTION 7 YOU & ME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9050/9050/playlist.m3u8:70-80 TV
+#DESCRIPTION 70-80 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/retereggio/index.m3u8:95 Rete Reggio
+#DESCRIPTION 95 Rete Reggio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8:A.M. Terni
+#DESCRIPTION A.M. Terni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2itv/myStream/playlist.m3u8:A2i TV
+#DESCRIPTION A2i TV
+#SERVICE 4097:0:19:64D:2454:13E:820000:0:0:0:https%3a//webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8:ACI Sport TV
+#DESCRIPTION ACI Sport TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8:ADN24
+#DESCRIPTION ADN24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGUxZWI3ZDctNWE2MS00ZmZlLWE5YzYtYzQ4YzZiOWVhOTUwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ==/live/eds/africanews-en/26036/africanews-en.m3u8:Africanews
+#DESCRIPTION Africanews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMDRiYmNjMTYtYmIzZS00MTNlLThhZGEtMzRhODViYzg0MTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ==/live/eds/africanews-en/26036/africanews-en.m3u8:Africanews
+#DESCRIPTION Africanews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMmQ1ZjAxOWEtYWU5YS00NmIzLTgwMzUtYzMzYzYwZmVhOTY1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ==/live/eds/africanews-en/26036/africanews-en.m3u8:Africanews
+#DESCRIPTION Africanews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8:Alma TV
+#DESCRIPTION Alma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8:Alpa uno
+#DESCRIPTION Alpa uno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/4300.m3u8:Alta Tensione
+#DESCRIPTION Alta Tensione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8:AltoAdige TV
+#DESCRIPTION AltoAdige TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/amatv/amatv/playlist.m3u:Ama TV
+#DESCRIPTION Ama TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//10529e63b0a84fb6bdf487096cc5eaab.msvdn.net/live/S10857183/qMq5TNxA3ouH/playlist.m3u8:Amaranto Channel
+#DESCRIPTION Amaranto Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/animechannel/index.m3u8:Anime Channel
+#DESCRIPTION Anime Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/anitatv/live/playlist.m3u8:Anita
+#DESCRIPTION Anita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str42.fluid.stream/Antenna2/livestream/playlist.m3u8:Antenna 2
+#DESCRIPTION Antenna 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8:Antenna 2 TV
+#DESCRIPTION Antenna 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8:Antenna 3 Toscana
+#DESCRIPTION Antenna 3 Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.twitch.tv/antennasicilia:Antenna Sicilia
+#DESCRIPTION Antenna Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8:Antenna Sud
+#DESCRIPTION Antenna Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.antennasudwebtv.it%3a9443/hls/vod.m3u8:Antenna Sud
+#DESCRIPTION Antenna Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8:Antenna Sud 92 (Extra)
+#DESCRIPTION Antenna Sud 92 (Extra)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-320m:Antenna Sud Extra
+#DESCRIPTION Antenna Sud Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.antennasudwebtv.it%3a9443/hls/vod92.m3u8:Antenna Sud Extra
+#DESCRIPTION Antenna Sud Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u:Antenna Sud Sport
+#DESCRIPTION Antenna Sud Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8:Antenna Tre Nordest Veneto
+#DESCRIPTION Antenna Tre Nordest Veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8:Antenna Tre Veneto (480p) [Geo-blocked]
+#DESCRIPTION Antenna Tre Veneto (480p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com//antenna3massa/a3/playlist.m3u8:Antenna3 Massa (Toscana)
+#DESCRIPTION Antenna3 Massa (Toscana)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u:AP Channel
+#DESCRIPTION AP Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8:Arancia Television
+#DESCRIPTION Arancia Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.azotosolutions.com%3a1936/supertvoristano/supertvoristano/playlist.m3u8:Aristanis Super TV Oristano
+#DESCRIPTION Aristanis Super TV Oristano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8:Arte Investimenti
+#DESCRIPTION Arte Investimenti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tsw.streamingwebtv24.it%3a1936/artenetwork/artenetwork/playlist.m3u8:Arte Network
+#DESCRIPTION Arte Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8:Aurora Arte
+#DESCRIPTION Aurora Arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u:Aurora Arte
+#DESCRIPTION Aurora Arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c7-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c7-amgplt0165/playlist.m3u8:Automoto
+#DESCRIPTION Automoto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8:Azzurra TV
+#DESCRIPTION Azzurra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/video5s975955-1727/stream/playlist.m3u8:Azzurra TV Italia
+#DESCRIPTION Azzurra TV Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8:Azzurra TV Italia
+#DESCRIPTION Azzurra TV Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8:Babayaga Tv
+#DESCRIPTION Babayaga Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.xdevel.com/video0s975770-326/stream/manifest.mpd:Babayaga TV
+#DESCRIPTION Babayaga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8:Baby Shark TV
+#DESCRIPTION Baby Shark TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8:Baby Shark TV
+#DESCRIPTION Baby Shark TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a19360/barinews111/barinews111.m3u8:BariNews
+#DESCRIPTION BariNews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c29-samsung-it-4958.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitalysamsungit-samsungit/playlist.m3u8:BBC Drama
+#DESCRIPTION BBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8:BBC Drama Italy
+#DESCRIPTION BBC Drama Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8:BBC Earth
+#DESCRIPTION BBC Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8:BBC Series
+#DESCRIPTION BBC Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8:BBC Top Gear Italy
+#DESCRIPTION BBC Top Gear Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4cba2078e4fc412692ab42bc0a6585c5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_BeautyChannel/playlist.m3u8:Beauty Channel - Il tocco del chirurgo
+#DESCRIPTION Beauty Channel - Il tocco del chirurgo
+#SERVICE 4097:0:1:4235:2F44:13E:820000:0:0:0:https%3a//64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8:BeJoy.kids
+#DESCRIPTION BeJoy.kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u:BeJoy.Kids
+#DESCRIPTION BeJoy.Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server.bellaradio.it%3a1443/live/bellaradiotv/playlist.m3u8:Bella Radio Tv
+#DESCRIPTION Bella Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8:Bergamo TV
+#DESCRIPTION Bergamo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR=:Bergamo TV
+#DESCRIPTION Bergamo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8:Bergamo Tv
+#DESCRIPTION Bergamo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8:Bernard L'Orso
+#DESCRIPTION Bernard L'Orso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/comson/index.m3u8:Best Eventi
+#DESCRIPTION Best Eventi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-001.streamup.eu/origin/bike_abr/playlist.m3u8:BIKE Channel
+#DESCRIPTION BIKE Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg17293-dynit-amg17293c1-samsung-it-2676.playouts.now.amagi.tv/playlist/amg17293-dynitsrl-bleach-samsungit/playlist.m3u8:Bleach
+#DESCRIPTION Bleach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp9-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09737/stb-dash-fhd-avc/SV09737.mpd?ck=MDUxNmZjMTE5OGNiMzNhMWI1YjQyYWVmODU2MTY5ZDc6OWM5YjNjZmQxMGMwNDNjODQ5ODk3ZTYxZTUzZWMxNjY=:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8:Bom Channel
+#DESCRIPTION Bom Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/vimpresa/index.m3u8:Box Tv
+#DESCRIPTION Box Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgit/playlist.m3u8:Brat TV (IT)
+#DESCRIPTION Brat TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ixmediasrl-serially-1-it.xiaomi.wurl.tv/4300.m3u8:Brividy Cinema
+#DESCRIPTION Brividy Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/businesschannel/businesschannel/playlist.m3u8:Business Channel
+#DESCRIPTION Business Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8:Byoblu
+#DESCRIPTION Byoblu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/chunklist_b5256000.m3u8:Byoblu -Davvero Tv
+#DESCRIPTION Byoblu -Davvero Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s976737-1453/stream/playlist.m3u8:C3T Canale 3 Toscana
+#DESCRIPTION C3T Canale 3 Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/video0s976737-1453/stream/playlist.m3u8:C3T Canale 3 Toscana
+#DESCRIPTION C3T Canale 3 Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/cafe/live/playlist.m3u8:CafeTV24
+#DESCRIPTION CafeTV24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8:CafeTV24 Veneto
+#DESCRIPTION CafeTV24 Veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8:Calabria TV
+#DESCRIPTION Calabria TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u:Calabria TV
+#DESCRIPTION Calabria TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net%3a443/CalabriaTv2/CalabriaTv2/playlist.m3u8:Calabria TV2
+#DESCRIPTION Calabria TV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8:CalabriaUno TV
+#DESCRIPTION CalabriaUno TV
+#SERVICE 4097:0:1:2147:3070:13E:820000:0:0:0:https%3a//video-ar.radioradicale.it/diretta/camera2/playlist.m3u8:Camera dei Deputati
+#DESCRIPTION Camera dei Deputati
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04g/index.m3u8:Camera dei Deputati (1080p)
+#DESCRIPTION Camera dei Deputati (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/telemiracoli/index.m3u8:Campania TV
+#DESCRIPTION Campania TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/desxcerbht/desxcerbht/chunklist_w2118955691.m3u8:Canale 10
+#DESCRIPTION Canale 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/desxcerbht/desxcerbht/playlist.m3u8:Canale 10
+#DESCRIPTION Canale 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/playlist.m3u8:Canale 10 (540p) [Not 24/7]
+#DESCRIPTION Canale 10 (540p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8:Canale 10 Ostia (540p) [Not 24/7]
+#DESCRIPTION Canale 10 Ostia (540p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream6.xdevel.com/video0s975363-2102/stream/manifest.mpd:Canale 122
+#DESCRIPTION Canale 122
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/RRomaNetwork/RRomaNetwork/playlist.m3u8:Canale 19 Frosinone
+#DESCRIPTION Canale 19 Frosinone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u:Canale 2
+#DESCRIPTION Canale 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8:Canale 2 Altamura
+#DESCRIPTION Canale 2 Altamura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u:Canale 2 Altamura [Not 24/7]
+#DESCRIPTION Canale 2 Altamura [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w1077249051.m3u8:Canale 2 TV Puglia
+#DESCRIPTION Canale 2 TV Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8:Canale 21 Extra
+#DESCRIPTION Canale 21 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8:Canale 21 Extra
+#DESCRIPTION Canale 21 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8:Canale 5
+#DESCRIPTION Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd:Canale 5
+#DESCRIPTION Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09241/stb-dash-fhd-avc/SV09241.mpd?ck=NjY0MjVlMjc3MTc5MzkyYmJjZjkyOTI4OTdlYjZmZmU6NzM1MTE5ZmQxOTA3YTBlNjBhZGVhYzJjMDQ2OWNmMGI=#EXTINF%3a-1 group-title="Digitale Terrestre",Mediaset Italia [America]:Canale 5
+#DESCRIPTION Canale 5
+#SERVICE 4097:0:19:FB:2C24:13E:820000:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd:Canale 5 HD
+#DESCRIPTION Canale 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.231.82.127%3a8082/hls/test_low.m3u8:Canale 6
+#DESCRIPTION Canale 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//smplu.link/xN1ckuz-Canale63.m3u8:Canale 63
+#DESCRIPTION Canale 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms.shared.streamshow.it/canale7/canale7/playlist.m3u8:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale7/canale7/playlist.m3u:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/canale7/canale7/live.m3u:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale7/canale7/playlist.m3u8:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale7/mp4%3acanale7/playlist.m3u8:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale7/canale7/chunklist_w139218648.m3u8:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale7/canale7/playlist.m3u8:Canale 7
+#DESCRIPTION Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale7/canale7/playlist.m3u8:Canale 7 (Puglia)
+#DESCRIPTION Canale 7 (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/canale7/canale7/live.m3u8:Canale 7 Puglia
+#DESCRIPTION Canale 7 Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.cp.ets-sistemi.it%3a1936/canale74/canale74/playlist.m3u8:Canale 74 Sicilia
+#DESCRIPTION Canale 74 Sicilia
+#SERVICE 4097:0:1:1F45:80E1:217C:EEEE0000:0:0:0:https%3a//wms.shared.streamshow.it/canale8/canale8/playlist.m3u8:Canale 8
+#DESCRIPTION Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d8c0cee6f3d.streamlock.net/canale8/canale8/chunklist_w592700549.m3u8:Canale 8
+#DESCRIPTION Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8:Canale 8
+#DESCRIPTION Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale8/mp4%3acanale8/playlist.m3u8:Canale 8
+#DESCRIPTION Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale8/canale8/playlist.m3u8:Canale 8 (solo durante eventi live)
+#DESCRIPTION Canale 8 (solo durante eventi live)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale8/canale8/playlist.m3u8:Canale 8 Campania (480p)
+#DESCRIPTION Canale 8 Campania (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8:Canale 81 Lazio
+#DESCRIPTION Canale 81 Lazio
+#SERVICE 4097:0:1:1F44:80E1:217C:EEEE0000:0:0:0:https%3a//585b674743bbb.streamlock.net/9026/9026/playlist.m3u:Canale 9
+#DESCRIPTION Canale 9
+#SERVICE 4097:0:1:1F44:80E1:217C:EEEE0000:0:0:0:https%3a//comvideo.it/hls/canale9/video.m3u8:Canale 9
+#DESCRIPTION Canale 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8:Canale 97
+#DESCRIPTION Canale 97
+#SERVICE 4097:0:1:1364:33F4:13E:820000:0:0:0:https%3a//ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8:Canale Italia
+#DESCRIPTION Canale Italia
+#SERVICE 4097:0:1:1364:33F4:13E:820000:0:0:0:https%3a//liveac915ha.streamcloud.it/channel10/playlist.m3u8:Canale Italia
+#DESCRIPTION Canale Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2.streambrothers.com%3a19360/8160/8160.m3u8:Canale1 Lombardia
+#DESCRIPTION Canale1 Lombardia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/canale157/canale157/manifest.mpd:Canale157
+#DESCRIPTION Canale157
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/canale165/canale165/manifest.mpd:Canale165
+#DESCRIPTION Canale165
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/canale168/canale168/manifest.mpd:Canale168
+#DESCRIPTION Canale168
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/canale169/canale169/manifest.mpd:Canale169
+#DESCRIPTION Canale169
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge16/smil%3alive16.smil/playlist.m3u8:Canale77
+#DESCRIPTION Canale77
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/caprievents/index.m3u8:Capri Events
+#DESCRIPTION Capri Events
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_content_language=it&ads.rakuten_market=it&ads.xumo_channelId=88883094:CAR CITY ADVENTURES
+#DESCRIPTION CAR CITY ADVENTURES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//samson.streamerr.co%3a8081/carinatv/tracks-v1a1/playlist.m3u8:CarinaTV
+#DESCRIPTION CarinaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8:Cartoonito
+#DESCRIPTION Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd:Cartoonito
+#DESCRIPTION Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09731/stb-dash-fhd-avc/SV09731.mpd?ck=ZjU4YzUxYTUxZGUyMzRjMzk3NjdhN2U3ZDNjODEwMTI6ZjcyNjVmMjFlZTJjYjA5YmRkYWI4ODZjMzJhMWIzNjE=:Cartoonito
+#DESCRIPTION Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8:Casa Italia 53
+#DESCRIPTION Casa Italia 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveac915ha.streamcloud.it/channel09/playlist.m3u8:Casa Italia 53
+#DESCRIPTION Casa Italia 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8:Casa Sanremo Tv
+#DESCRIPTION Casa Sanremo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0062.stream.seeweb.it/live/flv%3astream00.sdp/chunklist_w1297848372.m3u8:Castrovillari TV
+#DESCRIPTION Castrovillari TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0062.stream.seeweb.it%3a1935/live/stream00.sdp/playlist.m3u8:Castrovillari TV
+#DESCRIPTION Castrovillari TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//msh0062.stream.seeweb.it/live/flv%3astream00.sdp/playlist.m3u8:Castrovillari Tv
+#DESCRIPTION Castrovillari Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.rakuten.wurl.tv/3000.m3u8:CG - TV
+#DESCRIPTION CG - TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8:CG Entertainment
+#DESCRIPTION CG Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8:CG Grandi Film
+#DESCRIPTION CG Grandi Film
+#SERVICE 4097:0:19:368:3C28:13E:820000:0:0:0:https%3a//amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8:CGTN
+#DESCRIPTION CGTN
+#SERVICE 4097:0:19:369:3C28:13E:820000:0:0:0:https%3a//amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8:CGTN Documentary
+#DESCRIPTION CGTN Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8:CGTV (IT)
+#DESCRIPTION CGTV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8:Chili Indimenticabili (IT)
+#DESCRIPTION Chili Indimenticabili (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8:Chili Velvet (IT)
+#DESCRIPTION Chili Velvet (IT)
+#SERVICE 4097:0:19:50:200:1D:EEEE0000:0:0:0:https%3a//hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556:Cielo
+#DESCRIPTION Cielo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8022/8022/playlist.m3u8:Cilentano Tv
+#DESCRIPTION Cilentano Tv
+#SERVICE 4097:0:19:868:389:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8:Cine 34
+#DESCRIPTION Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd:Cine 34
+#DESCRIPTION Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09712/stb-dash-fhd-avc/SV09712.mpd?ck=OWQ2NjJmZThiNGE4NGJjNWJmMzkyN2YwZjhlNmFlYjQ6YjI2Mzc4Y2YwMGIyZmUwOGUxMDU3Y2YyOGJkY2MzYzIsZDA3OTViNjgzMTAwMzUyZWE1ZjJlMTc3YjNiMzg0ZWE6YTZmNmE0MTYxMzc5MjA2NTU0Y2I4NGZmNWFkMmRhYjQ=:Cine 34
+#DESCRIPTION Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv/playlist/amg02512-nexodigital-comedytime-samsungit/playlist.m3u8:Cine Paura
+#DESCRIPTION Cine Paura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-samsungit/playlist.m3u8:Cine Thriller
+#DESCRIPTION Cine Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8:CineMadame
+#DESCRIPTION CineMadame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-amg02512c6-samsung-it-5137.playouts.now.amagi.tv/playlist/amg02512-nexodigital-nataletime-samsungit/playlist.m3u8:Cinemalizia
+#DESCRIPTION Cinemalizia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8:Cittaceleste Tv
+#DESCRIPTION Cittaceleste Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/chunklist_w1661780412.m3u8:Cittadella Tv
+#DESCRIPTION Cittadella Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cittaceleste.tv/video/viewlivestreaming?rel=42323&cntr=0:Cittàceleste TV
+#DESCRIPTION Cittàceleste TV
+#SERVICE 4097:0:1:599:19C8:FBFF:820000:0:0:0:https%3a//amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8:Class CNBC
+#DESCRIPTION Class CNBC
+#SERVICE 4097:0:1:599:19C8:FBFF:820000:0:0:0:https%3a//amg14891-amg14891c5-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c5-amgplt0148/playlist.m3u8:Class CNBC
+#DESCRIPTION Class CNBC
+#SERVICE 4097:0:1:599:19C8:FBFF:820000:0:0:0:https%3a//www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg:Class CNBC
+#DESCRIPTION Class CNBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8:Clubbing TV Italy
+#DESCRIPTION Clubbing TV Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/CompanyTV/smil%3aCompanyTV.smil/master.m3u8:Company TV
+#DESCRIPTION Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//company.fluid.stream/CompanyTV/smil%3aCompany_ALL.smil/playlist.m3u8:Company Tv
+#DESCRIPTION Company Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/CompanyTV/smil%3aCompanyTV.smil/playlist.m3u8:Company TV
+#DESCRIPTION Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/contrastotv/index.m3u8:Contrasto Tv
+#DESCRIPTION Contrasto Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8:Cool Summer Channel
+#DESCRIPTION Cool Summer Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/crctv/crctv/playlist.m3u8:CRC News
+#DESCRIPTION CRC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8:Cremona 1
+#DESCRIPTION Cremona 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-samsungit/playlist.m3u8:Crime Time
+#DESCRIPTION Crime Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975363-69/stream/playlist.m3u8:Cusano Italia TV
+#DESCRIPTION Cusano Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.xdevel.com/video1s975363-2103/stream/manifest.mpd:Cusano News 7
+#DESCRIPTION Cusano News 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video1s975363-1596/stream/playlist.m3u8:Cusano News 7
+#DESCRIPTION Cusano News 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otter.ns0.it%3a9543/hbbtv01/Stream1/index.m3u8:D'Arte
+#DESCRIPTION D'Arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/smarttv/g32odw73f/playlist_cmaf.m3u8:Daystar TV
+#DESCRIPTION Daystar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8:Deejay TV
+#DESCRIPTION Deejay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8:Deejay TV
+#DESCRIPTION Deejay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8:DellaTV
+#DESCRIPTION DellaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbbtv-server.zivoli.it%3a8080/hls/deltatv/deltatv/index.m3u8:Delta Tv
+#DESCRIPTION Delta Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8:Deluxe 139
+#DESCRIPTION Deluxe 139
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/cmaf/demo4k/manifest.mpd:demo4k
+#DESCRIPTION demo4k
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8:DI.TV 80
+#DESCRIPTION DI.TV 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/di_tv_92/live/playlist.m3u8:DI.TV 92
+#DESCRIPTION DI.TV 92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//654be07bf207c.streamlock.net/Telemolise2-FB/Telemolise2/playlist.m3u8:Diciotto
+#DESCRIPTION Diciotto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.senecadot.com/live/flv%3atv7.sdp/playlist.m3u8:Digital TV 7 Benevento
+#DESCRIPTION Digital TV 7 Benevento
+#SERVICE 4097:0:19:17:204:1D:EEEE0000:0:0:0:https%3a//d3a5c87efixjp8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-94vzyl58b7u8n/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8?ck=Y2QxMjIzNzIzYTRmNGUyZThiNTU5YmY0OTZkNGNlMmQ6MzM2YTQ5M2Y2YjYwOTU3MjIwMmMyN2VjMWNlMzkwNGMsDQpkN2UyY2U2MTA1Mzc0OTBkYjBjMGM2Njg5ZGFmN2Y0ZDphMzM4NGRhNmJlYjFkNDRlNjU3OWQwNjZmMzliYmEyZQ==:Discovery
+#DESCRIPTION Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8:Discovery Channel
+#DESCRIPTION Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//djosso.fluid.stream/DJOssoTV/livestream/playlist.m3u8:DJOssoTV
+#DESCRIPTION DJOssoTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8:Dmax
+#DESCRIPTION Dmax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09713/stb-dash-fhd-avc/SV09713.mpd?ck=M2I0NjVkM2E1M2IzNGZhYzgxZTI1MTYzMGU5YWQ4ODQ6YWRjNGY5ZDVkZjg5MDJmZDAyYmI1ZmFhYjAxM2U0NDEsOGJhMDcwNTJiNTc1M2YyZDg5YjI4Y2YwZmM4MGIzYmU6NDljYjM1MzFmNmU2OTNkNzU5ZWIyOGM0ZTU1MjRjYTU=:Dmax
+#DESCRIPTION Dmax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8:Doc TV
+#DESCRIPTION Doc TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8:Donna Shopping Tv
+#DESCRIPTION Donna Shopping Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8:Donna TV
+#DESCRIPTION Donna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dxvpcwoxxgnqg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sakdd2jiy1b8-ssai-prd/playlist.m3u8:duckTV
+#DESCRIPTION duckTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-amg02512c5-samsung-it-2560.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-samsungit/playlist.m3u8:Duri a morire
+#DESCRIPTION Duri a morire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8:E'live Brescia Tv
+#DESCRIPTION E'live Brescia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/bjxypgjasy/bjxypgjasy/playlist.m3u8:Easy & Italy
+#DESCRIPTION Easy & Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//diretta.arcapuglia.it%3a8080/live/easytv/index.m3u8:Easy Tv Canale 190
+#DESCRIPTION Easy Tv Canale 190
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//604e46ac2bdee.streamlock.net%3a1936/eccelenzacalabria/eccelenzacalabria/playlist.m3u8:Eccellenza Calabria
+#DESCRIPTION Eccellenza Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/EdenTV/smil%3aEdenTV.smil/playlist.m3u:Eden 86 TV
+#DESCRIPTION Eden 86 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8:Elive TV Brescia
+#DESCRIPTION Elive TV Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/emmetv89/playlist.m3u8:Emme Tv
+#DESCRIPTION Emme Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8:Entella TV
+#DESCRIPTION Entella TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/chunklist_w217528347.m3u8:Entella Tv
+#DESCRIPTION Entella Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net%3a443/EntellaTV/EntellaTV/playlist.m3u8:Entella Tv
+#DESCRIPTION Entella Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/playlist.m3u8:Equos Tv
+#DESCRIPTION Equos Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977339-1877/stream/playlist.m3u8:Errevutì
+#DESCRIPTION Errevutì
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnm5-b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8:Espansione TV
+#DESCRIPTION Espansione TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/espansione/smil%3alive/playlist.m3u8:Espansione TV
+#DESCRIPTION Espansione TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/espansione/smil%3alive.smil/playlist.m3u8:Espansione TV
+#DESCRIPTION Espansione TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8:Esperia TV
+#DESCRIPTION Esperia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8:Esperia TV
+#DESCRIPTION Esperia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8:Esperia TV Calabria
+#DESCRIPTION Esperia TV Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8:Etna Espresso Channel
+#DESCRIPTION Etna Espresso Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8:eTv Marche
+#DESCRIPTION eTv Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etv/etv.stream/playlist.m3u8:eTv Rete 7
+#DESCRIPTION eTv Rete 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8:ETV Rete7
+#DESCRIPTION ETV Rete7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8:ETV Umbria
+#DESCRIPTION ETV Umbria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8:ETV+
+#DESCRIPTION ETV+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.224.197%3a1935/euroindiemusic/euroindiemusic/playlist.m3u8:Euro Indie Music Chart
+#DESCRIPTION Euro Indie Music Chart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8:Euro TV
+#DESCRIPTION Euro TV
+#SERVICE 4097:0:19:321:3BC4:13E:820000:0:0:0:https%3a//www.mytivu.it/Application/Channels/Euronews.php:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//manifest.googlevideo.com/api/manifest/hls_variant/expire/1780103716/ei/xOUZavDPA4SG0u8Pk_XMyQY/ip/87.17.91.226/id/pUcmpyynASM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/tx/51929566/txs/51929566,51929567,51929568/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwrdoPzvrFvWZMUzSE8spVfuWO0j0zs7hI0UdO5vBBp20uariV8zf2s80Dtcs2Hxyq7IJHVITy2s/spc/96XrvwcByja1YqgfB9YbR8qatFCod0JdGVZMvYKPnFQpIG1vLrwpNyVmUaZxhLRrZHzmAg/vprv/1/go/1/ns/hRaRRUeu8LaODuN-SG-M0kQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115,51565681,51946838/dover/11/n/O_CeGe5HlWEYYCm5R/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,tx,txs,hfr,playlist_duration,manifest_duration,maudio,ss,ssa,bui,spc,vprv,go,ns,rqh,reg,itag,playlist_type/sig/AHEqNM4wRQIgKGNYe4D6fO9rlkmcB4I-75JfXxEfw9dUF7lwOLkwM6cCIQDpNy63yrUHHs1KlO-Hde83LD0_kR5NVoVLp_Cnv5GcxQ==/file/index.m3u8:euronews (in Italiano) - Euronews in diretta
+#DESCRIPTION euronews (in Italiano) - Euronews in diretta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMjYzZDg1ZmYtMzIyMC00ZGY3LTk2M2EtZTQ1ZmE0YzNhMjRhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ==/live/eds/euronews-it/25674/euronews-it.m3u8:Euronews IN DIRETTA
+#DESCRIPTION Euronews IN DIRETTA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMTc2OTM3YWEtNWU3MS00ZWFlLWExOTgtODJhZmQ2MDk0ODFmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ==/live/eds/euronews-it/25674/euronews-it.m3u8:Euronews IN DIRETTA
+#DESCRIPTION Euronews IN DIRETTA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewsita-wedotveu/playlist.m3u8:EuroNews Italia
+#DESCRIPTION EuroNews Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8:Euronews Italiano
+#DESCRIPTION Euronews Italiano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/extratvlive/index.m3u8:Extra TV
+#DESCRIPTION Extra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//failarmy-international-it.samsung.wurl.tv/playlist.m3u8:Failarmy
+#DESCRIPTION Failarmy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//diretta.arcapuglia.it%3a8080/live/fanotv/index.m3u8:Fano Tv
+#DESCRIPTION Fano Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion Tv
+#DESCRIPTION Fashion Tv
+#SERVICE 4097:0:1:D6:25E4:13E:820000:0:0:0:https%3a//amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/ffmotorsport/index.m3u8:FF Motor Sport
+#DESCRIPTION FF Motor Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/cmaf/ffmotorsport/playlist.m3u8:FF Motorsport
+#DESCRIPTION FF Motorsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00735-videosolutionsa-wedomoviesit-ono-c0mvz.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8:Film Al Femminile - Wedo Movies
+#DESCRIPTION Film Al Femminile - Wedo Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//39f0a786c3fb4d3fab9ec6870cc428f9.msvdn.net/live/S10341261/Wl6aWcmb8xsQ/playlist.m3u8:Firenze TV
+#DESCRIPTION Firenze TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1:Firenze Viola TV
+#DESCRIPTION Firenze Viola TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8144/index.m3u8:FL Television
+#DESCRIPTION FL Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8144/index.m3u8:Fly Tv
+#DESCRIPTION Fly Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8:FM ITALIA
+#DESCRIPTION FM ITALIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbtv.intvstream.net%3a3988/live/fmtvlive.m3u8:FMTv Fermo Tv
+#DESCRIPTION FMTv Fermo Tv
+#SERVICE 4097:0:19:867:389:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8:Focus
+#DESCRIPTION Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd:Focus
+#DESCRIPTION Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09715/stb-dash-fhd-avc/SV09715.mpd?ck=NzIyMTJmMmYxYTBiNDk5YWI0NjRlNTg4NzkwNzNmZWI6NjJkM2I1ZjFmM2RhMWU5M2MxYzFlMjgzYjZiYzU3ZWIsYmZmYjM3Mjg1YmVlMzUzZWFjNGFmZDhhNTU1MGEyMmU6NWQ0NDRjNmQ1MTlkZDdlMDc0YThhYTYwYjNlNjUwYWU=:Focus
+#DESCRIPTION Focus
+#SERVICE 4097:0:19:14:204:1D:EEEE0000:0:0:0:https%3a//dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:19:14:204:1D:EEEE0000:0:0:0:https%3a//wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09716/stb-dash-fhd-avc/SV09716.mpd?ck=ZTQzZDI0OGMzMDI1M2ZjZmE2ODVmMzlmNWVmNTVkNDYEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf=:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8:France 24 FAST English
+#DESCRIPTION France 24 FAST English
+#SERVICE 4097:0:1:3B65:12C:13E:820000:0:0:0:https%3a//d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8:Frisbee
+#DESCRIPTION Frisbee
+#SERVICE 4097:0:1:3B65:12C:13E:820000:0:0:0:https%3a//alwaysdata-api.zappr.stream/frisbee.mpd?ck=MDEwMGM0ZTYyZTcxZjgyMzRkZDM1MWMzOTcxOWYyODk6NTRlMzZiODA4MTE0OWY4MmZlZGU4YTA3M2JiODQ5ZWEsDQowMTAxZGY4ZTQ2MzQyZmViMWMzYWY0ZGViOWNhZTIwZTo1OTFlMzk3NjI1MmM2N2IzZDM3NTRlMDViZmIxOGNjNiwNCjAxMDIwMjgyOTE5Yjg0ZGI3MWNiYjFkNGQ5YzViOGRhOjZmNTk2MDM0NTYxM2Q3OGM5MTQyZGEzMTY1MTRjNDk3LA0KMDEwMzU5ZjU0MzA3NTJiMWE2MmFkYjVjNjU4MmI2ZjI6MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAsDQowMTA0Y2M0MmIyMzc2MDMyMGYyMmRiOTllMWU2ZjdlOTowMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCwNCjAxMDViNjNlZmYyMTkwZjljMDFjOWIxNjBjZGQ4Zjc4OEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf:Frisbee
+#DESCRIPTION Frisbee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9080/9080/playlist.m3u8:FriuliTV24
+#DESCRIPTION FriuliTV24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8:FUEL TV
+#DESCRIPTION FUEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lgit/playlist.m3u8:Fuel TV (IT)
+#DESCRIPTION Fuel TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//samson.streamerr.co%3a8081/telegalileo-1/index.m3u8:Galileo Television
+#DESCRIPTION Galileo Television
+#SERVICE 4097:0:16:3E:204:1D:EEEE0000:0:0:0:https%3a//amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c3-amgplt0165/playlist.m3u8:Gambero Rosso
+#DESCRIPTION Gambero Rosso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c3-amgplt0033.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c3-amgplt0033/playlist.m3u8?:Gambero Rosso
+#DESCRIPTION Gambero Rosso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA:Gambero Rosso
+#DESCRIPTION Gambero Rosso
+#SERVICE 4097:0:19:10:204:1D:EEEE0000:0:0:0:https%3a//d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8:Giallo
+#DESCRIPTION Giallo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09717/stb-dash-fhd-avc/SV09717.mpd?ck=NGIxZDBhMzc2MDBkNDVjOTkzYzZhZGFjMDM0N2I5Mzc6NzdjMzE5ZWFlNmJjNDhiOWNlM2I3MjkyNWNhMDNjOTUsMGU0ZDA3OTgwMzA1MzVlZjhhNzliZWZjY2U2NmU2ZGE6NzZiMDg0YmE1MmU5ZmFjOTY4YmRiYmY2YzAwNTVhOTc=:Giallo
+#DESCRIPTION Giallo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.giocabet.tv/stream/1/index.m3u8:Giocabet TV
+#DESCRIPTION Giocabet TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gr2.fluid.stream/GR_sport/livestream/playlist.m3u8?FLID=1:Giornale Radio News Tv
+#DESCRIPTION Giornale Radio News Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8:Giornale Radio TV
+#DESCRIPTION Giornale Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gr.fluid.stream/GR_tv/livestream/playlist.m3u8?FLID=1:Giornale Radio Tv
+#DESCRIPTION Giornale Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/GR_tv/livestream/chunklist_w1819045153.m3u8:Giornale Radio Tv
+#DESCRIPTION Giornale Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8:Giovanni Paolo TV
+#DESCRIPTION Giovanni Paolo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8:Giovanni Paolo Tv
+#DESCRIPTION Giovanni Paolo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/globetv/index.m3u8:Globe Tv
+#DESCRIPTION Globe Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.cubws.com/live/globus.m3u8:Globus Television
+#DESCRIPTION Globus Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8:Globus Tv
+#DESCRIPTION Globus Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-it.lg.wurl.tv/playlist.m3u8:Go USA (IT)
+#DESCRIPTION Go USA (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8:Go-TV Channel
+#DESCRIPTION Go-TV Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8:Gold TV
+#DESCRIPTION Gold TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8:Gold TV Italia
+#DESCRIPTION Gold TV Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8:Gold TV Sat
+#DESCRIPTION Gold TV Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8:Golf Television
+#DESCRIPTION Golf Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8:Grandi Nomi
+#DESCRIPTION Grandi Nomi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-6-it.lg.wurl.tv/playlist.m3u8:Grjngo (IT)
+#DESCRIPTION Grjngo (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/playlist.m3u8:Grjngo - Film Western
+#DESCRIPTION Grjngo - Film Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8:GRP VERATV
+#DESCRIPTION GRP VERATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8:GRP VeraTV
+#DESCRIPTION GRP VeraTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst.saiuzwebnetwork.it%3a8081/retereggio/index.m3u8:GS Channel
+#DESCRIPTION GS Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//86c4bfd09c6044e4b68289bb367f7681.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GuardiaCostiera/playlist.m3u8:Guardia Costiera
+#DESCRIPTION Guardia Costiera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/gustotv/gustotv/playlist.m3u8:Gusto TV (Sicilia)
+#DESCRIPTION Gusto TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8:Hannibal - La serie completa
+#DESCRIPTION Hannibal - La serie completa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8:Hell's kitchen
+#DESCRIPTION Hell's kitchen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8:Hell's Kitchen Italy
+#DESCRIPTION Hell's Kitchen Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/stvp-IT900003FU:HGTV
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09718/stb-dash-fhd-avc/SV09718.mpd?ck=NDNjMjc3MzI4ODMxNDUyNWFkNjg0MTM1NmU5YTVhMjE6M2I3NzFkY2Q2NTRlN2I5ZjNiYjYyYTdlMjRmNmI3MzMsNzlmOWZiZWM1MTViMzRkMDg0YmY2MDUyMDUyNDUwYmI6YmRkMDcwNzRhYTE3YWI0NGFhZDhhZTU3ZjllNWQxZGM=:HGTV - Home & Garden
+#DESCRIPTION HGTV - Home & Garden
+#SERVICE 4097:0:19:19:7918:217C:EEEE0000:0:0:0:https%3a//d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8:HGTV - Home&Garden
+#DESCRIPTION HGTV - Home&Garden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-hiphop-tv-1-it.xiaomi.wurl.tv/4300.m3u8:Hip Hop TV
+#DESCRIPTION Hip Hop TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1c36c1e6-c5fd-11ec-967f-401ac48a6867/0/master.m3u8?country=it&vendor=rakuten:HorizonSport
+#DESCRIPTION HorizonSport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mnp-hor.otteravision.com/mnp/hor/hor_720.m3u8:Horror Club
+#DESCRIPTION Horror Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8:Horse TV (720p)
+#DESCRIPTION Horse TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-samsungit/playlist.m3u8:I Bellissimi - Film by Cinema Excelsior
+#DESCRIPTION I Bellissimi - Film by Cinema Excelsior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8:Icaro TV
+#DESCRIPTION Icaro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist_w2105836851.m3u8:Icaro TV Rimini
+#DESCRIPTION Icaro TV Rimini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/ideaplus/index.m3u8:Idea Plus
+#DESCRIPTION Idea Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/idiotcar/index.m3u8:Idiots Drive
+#DESCRIPTION Idiots Drive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8:Il 61
+#DESCRIPTION Il 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c8-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c8-amgplt0165/playlist.m3u8:Il Sole 24 Ore TV
+#DESCRIPTION Il Sole 24 Ore TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//broadcasting.mediagroupsrl.it%3a1433/hls/mystream.m3u8:In Sicilia TV
+#DESCRIPTION In Sicilia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8:Inazuma Eleven Collection
+#DESCRIPTION Inazuma Eleven Collection
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-pictures-inazumaelevengo-1-it.plex.wurl.tv/4300.m3u8:Inazuma Eleven Go
+#DESCRIPTION Inazuma Eleven Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8:Info Media News
+#DESCRIPTION Info Media News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8:Info Media News
+#DESCRIPTION Info Media News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/pskfvahhcs/pskfvahhcs/playlist.m3u8:InfoCilento
+#DESCRIPTION InfoCilento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8:INTER 24/7
+#DESCRIPTION INTER 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8:Inter TV
+#DESCRIPTION Inter TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8:Inuyasha
+#DESCRIPTION Inuyasha
+#SERVICE 4097:0:19:67:385:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8:Iris
+#DESCRIPTION Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd:Iris
+#DESCRIPTION Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09719/stb-dash-fhd-avc/SV09719.mpd?ck=OGZlNDc2ZjI2ZjczNGE0ZGJlMDY0ZDI4NDQwMzA1MjE6M2NiYzljMzdlMmFmZDBiZmQwNjYyZWJlODZjNzM4NWQsNjQxZmQ5MGZmZjEyMzhkOGJjNTllNTE1MzdmNDJkZDg6YTA0ZjQ0YWM2MzQ3NmIxOWYzZWQxYmNkZDA5ZDkwYjg=:Iris
+#DESCRIPTION Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/itacatv/index.m3u8:Itaca Tv
+#DESCRIPTION Itaca Tv
+#SERVICE 4097:0:19:79:4B0:110:820000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8:Italia 1
+#DESCRIPTION Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd:Italia 1
+#DESCRIPTION Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09243/stb-dash-fhd-avc/SV09243.mpd?ck=MWQ2NGRmMTUxMmI2NDgzZTkwZTg4NGVhOGQ1YTQ0ZjM6YWQyNDVlYzg4YmVjMzc5NWY4MTk0OGM0NDhiMmNlODIsYjNmOWM2MTUzNWJmMzMyNzlkODhmZmUxODk0MTkwYzQ6NDg4ZmEwYzk2MDgxYzUxOTI5MWQzODA5YmM0ZWU5OWI=:Italia 1
+#DESCRIPTION Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd:Italia 1  HD
+#DESCRIPTION Italia 1  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8:Italia 2
+#DESCRIPTION Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8:Italia 2
+#DESCRIPTION Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd:Italia 2
+#DESCRIPTION Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/italia2/mp4%3aitalia2/playlist.m3u8:Italia 2  TV
+#DESCRIPTION Italia 2  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8:Italia 7
+#DESCRIPTION Italia 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8:Italia 8 Prestige
+#DESCRIPTION Italia 8 Prestige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/italia9network/chunks.m3u8:Italia 9 Network
+#DESCRIPTION Italia 9 Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/italiacable/italiacable/chunklist_w1754775585.m3u8:Italia Cable
+#DESCRIPTION Italia Cable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/italiachannel/stream/index.m3u8:Italia Channel
+#DESCRIPTION Italia Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/italiafelix/index.m3u8:Italia Felix Tv
+#DESCRIPTION Italia Felix Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09720/stb-dash-fhd-avc/SV09720.mpd?ck=YTc1YTNlMDZlMzRmNDk3YmE1ZWI2M2UwNDQ1OGM3M2Y6NmU0NTZjNTBlZWY4ZjY3MjNiMWE3MWMzMTBiZTBiZDUsNGYwNGZlNmIxODRiMzk5NDljZTBmMWVhMGNkZDk0NTA6YTFmOGYzNzgwZWFlNWE5ZTQwMmE2ZDM5ZDA5YTllZmE=:Italia2
+#DESCRIPTION Italia2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms.shared.streamshow.it/italia2/mp4%3aitalia2/playlist.m3u8:Italia2TV
+#DESCRIPTION Italia2TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/italiacable/italiacable/playlist.m3u8:ItaliaCable
+#DESCRIPTION ItaliaCable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms.premio.link/fishingtv/playlist.m3u8:Italian Fishing TV
+#DESCRIPTION Italian Fishing TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8?ads.device_did={PSID}&ads.device_dnt=0&ads.app_domain=0&ads.app_name=0&ads.consent=0&ads.ssai_vendor=SSSLIVE:Italian Fishing TV
+#DESCRIPTION Italian Fishing TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8:Iunior TV
+#DESCRIPTION Iunior TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8:Jonica Radio Tv
+#DESCRIPTION Jonica Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8:Juventus Play
+#DESCRIPTION Juventus Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8:Juwelo
+#DESCRIPTION Juwelo
+#SERVICE 4097:0:19:97:200:1D:EEEE0000:0:0:0:https%3a//d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8:K2
+#DESCRIPTION K2
+#SERVICE 4097:0:1:1F4C:80E1:217C:EEEE0000:0:0:0:https%3a//58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8:Kiss Kiss Napoli TV
+#DESCRIPTION Kiss Kiss Napoli TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kkcdn02.fluid.stream/KKTVNapoli/smil%3aKKTVNapoli.smil/playlist.m3u8:Kiss Kiss Napoli TV
+#DESCRIPTION Kiss Kiss Napoli TV
+#SERVICE 4097:0:19:6E:200:1D:EEEE0000:0:0:0:https%3a//58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8:Kiss Kiss TV
+#DESCRIPTION Kiss Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kk.fluid.stream/KKMulti/smil%3aKissKissTV.smil/playlist.m3u8:Kiss Kiss TV
+#DESCRIPTION Kiss Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kk.fluid.stream/KKMulti/smil%3aKissKissTV.smil/playlist.m3u:Kiss Kiss TV
+#DESCRIPTION Kiss Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8:L'altro Corriere TV
+#DESCRIPTION L'altro Corriere TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb1-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/chunklist_b1128000.m3u8:L'altro Corriere TV
+#DESCRIPTION L'altro Corriere TV
+#SERVICE 4097:0:19:66:385:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8:La 5
+#DESCRIPTION La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd:La 5
+#DESCRIPTION La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09721/stb-dash-fhd-avc/SV09721.mpd?ck=ZmM5NjRiMTZkZjk3NDAzN2IwYzFkMDM0MzliNDlkMDI6YWU2MzZkN2MxYWYwMTE2MmUzYTVmNDQ4NDNiY2YyMmMsMjI5NzI1NDJkOTg2MzAzNzkzNzI0NmQwZjU4ZjEyOTM6MWFkNjMxMzUzYmQ5NDMxNGIxYWQyMGViMzMyMGFjZTg=:La 5
+#DESCRIPTION La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b3228000.m3u8:La C Network
+#DESCRIPTION La C Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8:La C OnAir
+#DESCRIPTION La C OnAir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8:La C TV
+#DESCRIPTION La C TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b3228000.m3u8:La C TV
+#DESCRIPTION La C TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8:La Grande Italia
+#DESCRIPTION La Grande Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8:La Nuova Tv
+#DESCRIPTION La Nuova Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/npwsqkmzjp/npwsqkmzjp/playlist.m3u8:La Rockaforte TV
+#DESCRIPTION La Rockaforte TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8:La Tenda Tv
+#DESCRIPTION La Tenda Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tsw.streamingwebtv24.it%3a1936/eslife1/eslife1/playlist.m3u8:La TR3 Marsala
+#DESCRIPTION La TR3 Marsala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbtv.intvstream.net%3a3783/stream/play.m3u8:La Tv dei Viaggi
+#DESCRIPTION La Tv dei Viaggi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s977001-1746/stream/playlist.m3u8:La Voce TV
+#DESCRIPTION La Voce TV
+#SERVICE 4097:0:19:2C7:107:217C:EEEE0000:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd:La7
+#DESCRIPTION La7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8:La7
+#DESCRIPTION La7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8:La7
+#DESCRIPTION La7
+#SERVICE 4097:0:1:49:1770:BE:820000:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8:La7 Cinema
+#DESCRIPTION La7 Cinema
+#SERVICE 4097:0:1:49:1770:BE:820000:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd:La7 Cinema
+#DESCRIPTION La7 Cinema
+#SERVICE 4097:0:1:49:1770:BE:820000:0:0:0:https%3a//d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live_Audio-init.mp4:La7 Cinema
+#DESCRIPTION La7 Cinema
+#SERVICE 4097:0:1:49:1770:BE:820000:0:0:0:https%3a//cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MjIwMTg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sYTdkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmODYzNDJiZTQyZTEwNTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.J9XZ6nnVPVhi5PBABI5s36pagNuoSpVIGPeTnoPWOyLSsUD7hh3xpx-3MfacDJ5eOMCNwEc3PGRGZkLG_qcSOA==/live/eds/la7d/browser-HLS8/la7d.m3u8:La7 Cinema
+#DESCRIPTION La7 Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8":LA7 Italia
+#DESCRIPTION LA7 Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8:La7d
+#DESCRIPTION La7d
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8?parentOrigin=https%3a//www.labtv.net:Lab TV
+#DESCRIPTION Lab TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8:Lab Tv
+#DESCRIPTION Lab Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videodelivery.net/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8:Lab Tv 84
+#DESCRIPTION Lab Tv 84
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8:LaC News 24
+#DESCRIPTION LaC News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8:LaC On Air
+#DESCRIPTION LaC On Air
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8:LaC OnAir
+#DESCRIPTION LaC OnAir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8:LaC Sat
+#DESCRIPTION LaC Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8:Lazio TV
+#DESCRIPTION Lazio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lorenzocarbone.me/hls/cronache.m3u8:Le Cronache
+#DESCRIPTION Le Cronache
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stucazz.com%3a8888/hls/cronache.m3u8:Le Cronache Lucane Tv
+#DESCRIPTION Le Cronache Lucane Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.livinlive.it/lecronache/live/playlist.m3u8:Le Cronache TV
+#DESCRIPTION Le Cronache TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.68.40.210%3a8888/hls/cronache.m3u8:Le Cronache TV (720p)
+#DESCRIPTION Le Cronache TV (720p)
+#SERVICE 4097:0:19:1F49:80E1:217C:EEEE0000:0:0:0:https%3a//a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8:Lira TV
+#DESCRIPTION Lira TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/teleregionetoscana/live/manifest.mpd:Live
+#DESCRIPTION Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8:Lombardia Tv 80
+#DESCRIPTION Lombardia Tv 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/fascinocorrado/fascinocorrado/playlist.m3u:Lotto Corrado
+#DESCRIPTION Lotto Corrado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/fascinodiego/fascinodiego/playlist.m3u:Lotto Diego
+#DESCRIPTION Lotto Diego
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/fascinoroberto/fascinoroberto/playlist.m3u:Lotto Roberto
+#DESCRIPTION Lotto Roberto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8:Love in Venice (Tele  Venezia)
+#DESCRIPTION Love in Venice (Tele  Venezia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4k.it/hls/live1/live.m3u8:LOVE MUSIC
+#DESCRIPTION LOVE MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8:Love the Planet
+#DESCRIPTION Love the Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8:Love The Planet IT (1080p) [Geo-blocked]
+#DESCRIPTION Love The Planet IT (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8:Luna TV
+#DESCRIPTION Luna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8:m2o TV
+#DESCRIPTION m2o TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8:M2O TV
+#DESCRIPTION M2O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:MadeinBO TV
+#DESCRIPTION MadeinBO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/magazinetv/web/playlist.m3u8:Magazine TV
+#DESCRIPTION Magazine TV
+#SERVICE 4097:0:16:42:204:1D:EEEE0000:0:0:0:https%3a//c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u:Man-ga
+#DESCRIPTION Man-ga
+#SERVICE 4097:0:16:42:204:1D:EEEE0000:0:0:0:https%3a//vdnwndmsc2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd:Man-ga
+#DESCRIPTION Man-ga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video2s975363-2370/stream/playlist.m3u8:Manà Manà Sport
+#DESCRIPTION Manà Manà Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amls%3aCHANNEL_2/playlist.m3u8:Maria Vision
+#DESCRIPTION Maria Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amlst%3aCHANNEL_2/playlist.m3u8:Maria Vision Italia
+#DESCRIPTION Maria Vision Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amls%3aCHANNEL_2/chunklist.m3u8:Maria+Visión Italia
+#DESCRIPTION Maria+Visión Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/materdeitv1/tracks-v1a1/mono.ts.m3u8:Mater-Dei Tv
+#DESCRIPTION Mater-Dei Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8:Mayday%3a Disastro Aereo
+#DESCRIPTION Mayday: Disastro Aereo
+#SERVICE 4097:0:19:425E:3DB8:13E:820000:0:0:0:https%3a//med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMzUzOTE2YTctNzNkOS00MGE0LTk5NmMtZjJkODgyYzRjZGVlIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8:Med TV
+#DESCRIPTION Med TV
+#SERVICE 4097:0:19:425E:3DB8:13E:820000:0:0:0:https%3a//med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNWEwNTcyODQtZDJjOC00MDVhLTk2MmEtYzU3MjE2Mzg5OTJjIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8:Med TV
+#DESCRIPTION Med TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.aswifi.it/mediatv/stream/index.m3u8:Media TV
+#DESCRIPTION Media TV
+#SERVICE 4097:0:19:C30:3A2:110:EEEE0000:0:0:0:https%3a//live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8:Mediaset 20 (hls)
+#DESCRIPTION Mediaset 20 (hls)
+#SERVICE 4097:0:19:DE4:3A2:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8:Mediaset Extra
+#DESCRIPTION Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd:Mediaset Extra
+#DESCRIPTION Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09722/stb-dash-fhd-avc/SV09722.mpd?ck=OTcwYzYzZjUzMGIwNGM0MzkxYTAzNzViNTU1NGFlZTI6Mzk1YzE4ZGM3MTg0Mjc2OGU5M2RhNGEyN2VmMWI3OWIsMjc3MjM3NmRkZmU0MzA5NTlmYTg2OTExOTU0NTk0ZTU6ODQzYzhjNTFmMWI3MjBiYTU1MjdmNDM4ZmJhZGYwODE=:Mediaset Extra
+#DESCRIPTION Mediaset Extra
+#SERVICE 4097:0:1:1390:2710:13E:820000:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8:Mediaset Italia
+#DESCRIPTION Mediaset Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/MediasetItalia_US/Live.m3u8:Mediaset Italia Us
+#DESCRIPTION Mediaset Italia Us
+#SERVICE 4097:0:19:72:385:110:EEEE0000:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8  :Mediaset TGCOM24
+#DESCRIPTION Mediaset TGCOM24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8:MediaSud Calabria
+#DESCRIPTION MediaSud Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8:Mediterranea Tv
+#DESCRIPTION Mediterranea Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59bb40cf810aa.streamlock.net%3a4443/streamingvincente/streamingvincente/playlist.m3u8:MediterraniaTV
+#DESCRIPTION MediterraniaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8:Medjugorje Italia TV
+#DESCRIPTION Medjugorje Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8:Metal.Rocks
+#DESCRIPTION Metal.Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8:Milano Pavia TV
+#DESCRIPTION Milano Pavia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8:Milano Pavia TV
+#DESCRIPTION Milano Pavia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telelombardia.video/video/viewlivestreaming?rel=66076&cntr=0:Milanow
+#DESCRIPTION Milanow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8:Minformo TV
+#DESCRIPTION Minformo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net%3a443/MinformoTV/MinformoTV/playlist.m3u8:Minformo Tv
+#DESCRIPTION Minformo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/mito/index.m3u8:Mito Italia
+#DESCRIPTION Mito Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8:Mitology TV
+#DESCRIPTION Mitology TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c6-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c6-amgplt0148/playlist.m3u8:Moda TV
+#DESCRIPTION Moda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/momentotv/index.m3u8:Momento Tv
+#DESCRIPTION Momento Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8:Motor1
+#DESCRIPTION Motor1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8:Motori TV
+#DESCRIPTION Motori TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/motoritv/motoritv/playlist.m3u8:Motori TV (Sicilia)
+#DESCRIPTION Motori TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8:Move - Sportivi in viaggio
+#DESCRIPTION Move - Sportivi in viaggio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8:Mr. Bean - Live Action
+#DESCRIPTION Mr. Bean - Live Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8:Mr. Bean Anime Italy
+#DESCRIPTION Mr. Bean Anime Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8:Mtrsprt 1 (IT)
+#DESCRIPTION Mtrsprt 1 (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/cmaf/napoletaninelmondo/index.m3u8:Napoletani nel Mondo
+#DESCRIPTION Napoletani nel Mondo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01576-amg01576c6-rakuten-it-10716.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaaudioita-rakutenit/playlist.m3u8:Nature Time
+#DESCRIPTION Nature Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8:Nautical Channel (720p)
+#DESCRIPTION Nautical Channel (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8:NewsWorld
+#DESCRIPTION NewsWorld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8:Nora TV
+#DESCRIPTION Nora TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8:Nove
+#DESCRIPTION Nove
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd?ck=ZTBlNjMyNzFmMThmM2E4Yjg0YjBhNWQ1YmJmNGM2ODU6NDBmZTZjMjZiZTA5ZTU2NzhmYjcyOWE5YWI2OWIzMzY=:Nove
+#DESCRIPTION Nove
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ntimedia.it/video/S0B/S0B_master.m3u8:NTi Canale 93
+#DESCRIPTION NTi Canale 93
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nuovatv.net%3a8443/tv/stream.m3u8:Nuova Tv 1
+#DESCRIPTION Nuova Tv 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nuovatv.net%3a8443/tv2/stream.m3u8:Nuova Tv 2
+#DESCRIPTION Nuova Tv 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8:Nuova TV Nazionale (NTN)
+#DESCRIPTION Nuova TV Nazionale (NTN)
+#SERVICE 4097:0:19:C:80E4:217C:EEEE0000:0:0:0:https%3a//stream.nuvola.tv%3a8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8:Nuvola TV
+#DESCRIPTION Nuvola TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8:Odeon 24
+#DESCRIPTION Odeon 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8:Odeon Sardegna
+#DESCRIPTION Odeon Sardegna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9006/9006/master.m3u8:Onda Novara TV
+#DESCRIPTION Onda Novara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9006/9006/playlist.m3u8:Onda Novara TV
+#DESCRIPTION Onda Novara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8:Onda TV
+#DESCRIPTION Onda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8:Onda tv
+#DESCRIPTION Onda tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.224.197%3a1935/ondaradioweb/ondaradioweb/playlist.m3u8:Onda Web Radio
+#DESCRIPTION Onda Web Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w298613.m3u8:OndaTv (1984)
+#DESCRIPTION OndaTv (1984)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8:OndaTV Giovani
+#DESCRIPTION OndaTV Giovani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8:Ora Tv
+#DESCRIPTION Ora Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//netplus.zappr.stream/orf1.m3u8:ORF 1
+#DESCRIPTION ORF 1
+#SERVICE 4097:0:1:232D:2328:13E:820000:0:0:0:https%3a//w1.mediastreaming.it/orlertv/livestream/playlist.m3u8:Orler TV
+#DESCRIPTION Orler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8:Orler TV Favaro Veneto
+#DESCRIPTION Orler TV Favaro Veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8:Oropa TV
+#DESCRIPTION Oropa TV
+#SERVICE 4097:0:1:1F47:80E1:217C:EEEE0000:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge/smil%3alive.smil/playlist.m3u8:Otto Channel
+#DESCRIPTION Otto Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8:Paci Contemporary Channel
+#DESCRIPTION Paci Contemporary Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8:Padre Pio TV
+#DESCRIPTION Padre Pio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tsw.streamingwebtv24.it%3a1936/paradisetv/paradisetv/playlist.m3u8:Paradise Tv
+#DESCRIPTION Paradise Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/paradisotv/index.m3u8:Paradiso Tv
+#DESCRIPTION Paradiso Tv
+#SERVICE 4097:0:1:1FE:384:13E:820000:0:0:0:https%3a//64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8:Parole di Vita
+#DESCRIPTION Parole di Vita
+#SERVICE 4097:0:16:B:80E4:217C:EEEE0000:0:0:0:https%3a//diretta.arcapuglia.it%3a8080/live/partenope/index.m3u8:Partenope TV
+#DESCRIPTION Partenope TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.63.52.103%3a8080/hls/passionelotto/1_2/index.m3u8:Passione Lotto (300p)
+#DESCRIPTION Passione Lotto (300p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.peer.biz/live/peertv-it.m3u8:Peer TV Alto Adige
+#DESCRIPTION Peer TV Alto Adige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.peer.biz/live/peertv-en.m3u8:Peer TV South Tyrol
+#DESCRIPTION Peer TV South Tyrol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.peer.biz/live/peertv.m3u8:Peer.tv
+#DESCRIPTION Peer.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a29443/petmania/petmania/index.m3u8:Pet Mania
+#DESCRIPTION Pet Mania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8:Piana TV
+#DESCRIPTION Piana TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host2.hbbtv.me%3a28443/hls/pimprese/index.m3u8:Pianeta imprese
+#DESCRIPTION Pianeta imprese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u:Pianeta Salute TV
+#DESCRIPTION Pianeta Salute TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8:Più Valli TV
+#DESCRIPTION Più Valli TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8:Plus TV Sport
+#DESCRIPTION Plus TV Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudtv.azotosolutions.com%3a9553/politicaltv/politicaltv/playlist.m3u8:Political TV
+#DESCRIPTION Political TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8:Prima Free
+#DESCRIPTION Prima Free
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8:Prima TV
+#DESCRIPTION Prima TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/primatv/primatv/playlist.m3u:Prima TV
+#DESCRIPTION Prima TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8:Prima Tv
+#DESCRIPTION Prima Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8:Prima TV Napoli
+#DESCRIPTION Prima TV Napoli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8:PrimAntenna TV
+#DESCRIPTION PrimAntenna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0203.stream.seeweb.it/live/flv%3astream2.sdp/playlist.m3u8:Primocanale
+#DESCRIPTION Primocanale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0203.stream.seeweb.it/live/stream2.sdp/playlist.m3u8:Primocanale
+#DESCRIPTION Primocanale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8:Promovideo TV
+#DESCRIPTION Promovideo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8:Promovideo Tv
+#DESCRIPTION Promovideo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a29443/puntomedia/puntomedia/index.m3u8:Punto Media
+#DESCRIPTION Punto Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube-nocookie.com/embed/smcQvzsh5Qo:QSVS%3a Top Calcio 24
+#DESCRIPTION QSVS: Top Calcio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8:Quadrifoglio Tv
+#DESCRIPTION Quadrifoglio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/quants/quants/playlist.m3u:Quants
+#DESCRIPTION Quants
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8:Quarto Canale
+#DESCRIPTION Quarto Canale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/chunks.m3u8:Quarto Canale
+#DESCRIPTION Quarto Canale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8:Quarto Canale Flegreo
+#DESCRIPTION Quarto Canale Flegreo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge6/smil%3alive6.smil/playlist.m3u:Qui Radio Londra TV
+#DESCRIPTION Qui Radio Londra TV
+#SERVICE 4097:0:19:865:389:110:EEEE0000:0:0:0:https%3a//www.youtube-nocookie.com/embed/BVJfAOmkjnQ:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qrg.akamaized.net/hls/live/2017383/lsqvc1itcln/master.m3u8:QVC Italia
+#DESCRIPTION QVC Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8:Qwest TV
+#DESCRIPTION Qwest TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/R115tv/R115tv/playlist.m3u8:R115
+#DESCRIPTION R115
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8:RACER International
+#DESCRIPTION RACER International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8:Radio 105 TV
+#DESCRIPTION Radio 105 TV
+#SERVICE 4097:0:2:E3C:1C20:13E:820000:0:0:0:https%3a//ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8:Radio 24
+#DESCRIPTION Radio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8:Radio 3M InBlu
+#DESCRIPTION Radio 3M InBlu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamsrv2.nets-sr.com%3a19360/4youtv/4youtv.m3u8:Radio 4 You TV
+#DESCRIPTION Radio 4 You TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//178.32.140.155/canale51/canale51/playlist.m3u8:Radio 51 TV
+#DESCRIPTION Radio 51 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/playlist.m3u8:Radio 51 TV
+#DESCRIPTION Radio 51 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8:Radio 51 Tv
+#DESCRIPTION Radio 51 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.32.140.155/canale51/canale51/playlist.m3u8:Radio 51 TV (480p) [Geo-blocked]
+#DESCRIPTION Radio 51 TV (480p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8:Radio 60 70 80
+#DESCRIPTION Radio 60 70 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9076/9076/playlist.m3u8:Radio 80
+#DESCRIPTION Radio 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8:Radio Adige TV
+#DESCRIPTION Radio Adige TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8:Radio Bella & Monella
+#DESCRIPTION Radio Bella & Monella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str03.fluid.stream/RadioBelllaemonellaTV/livestream/playlist.m3u8:Radio Bellla e Monella TV
+#DESCRIPTION Radio Bellla e Monella TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e53c5849c731.streamlock.net/RadioBianconeraTV/smil%3aRadioBianconeraTV.smil/playlist.m3u8:Radio Bianconera TV
+#DESCRIPTION Radio Bianconera TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8:Radio Birikina TV
+#DESCRIPTION Radio Birikina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8:Radio Birikina Tv
+#DESCRIPTION Radio Birikina Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975758-473/stream/playlist.m3u8:Radio Bruno
+#DESCRIPTION Radio Bruno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it/calimafm/calimafm/playlist.m3u8:Radio Calima
+#DESCRIPTION Radio Calima
+#SERVICE 4097:0:2:A:7918:217C:EEEE0000:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8:Radio Capital
+#DESCRIPTION Radio Capital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8:Radio Capital TiVu
+#DESCRIPTION Radio Capital TiVu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b.m3u8:Radio Capri TV
+#DESCRIPTION Radio Capri TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//samson.streamerr.co%3a8081/carinatv/index.m3u8:Radio Carina TV
+#DESCRIPTION Radio Carina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8:Radio Città TV
+#DESCRIPTION Radio Città TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8:Radio Company TV
+#DESCRIPTION Radio Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/crc/index.m3u8:Radio CRC TV
+#DESCRIPTION Radio CRC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.radiosaiuz.com%3a3496/live/rdelive.m3u8:Radio Diffusione Europea
+#DESCRIPTION Radio Diffusione Europea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/digiesse/livestream/playlist.m3u8:Radio Digiesse
+#DESCRIPTION Radio Digiesse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9030/9030/playlist.m3u8:Radio DISCOunt
+#DESCRIPTION Radio DISCOunt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8:Radio Firenze Viola
+#DESCRIPTION Radio Firenze Viola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge5/smil%3alive5.smil/playlist.m3u8:Radio Gold
+#DESCRIPTION Radio Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8:Radio Ibiza
+#DESCRIPTION Radio Ibiza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8:Radio Ibiza TV
+#DESCRIPTION Radio Ibiza TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1961450240.m3u8:Radio Ibiza TV
+#DESCRIPTION Radio Ibiza TV
+#SERVICE 4097:0:2:E46:1C20:13E:820000:0:0:0:https%3a//wms.shared.streamshow.it/visualradio/mp4%3avisualradio/playlist.m3u8:Radio Iglesias
+#DESCRIPTION Radio Iglesias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/mp4%3avisualradio/playlist.m3u8:Radio Iglesias (576p) [Geo-blocked]
+#DESCRIPTION Radio Iglesias (576p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8:Radio Iglesias Sardegna
+#DESCRIPTION Radio Iglesias Sardegna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.velcom.it%3a8081/radioimmaginetv/index.fmp4.m3u8:Radio Immagine TV
+#DESCRIPTION Radio Immagine TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.velcom.it%3a8081/RadioImmagineTV/index.fmp4.m3u8:Radio Immagine TV
+#DESCRIPTION Radio Immagine TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/playlist.m3u8:Radio Italia Anni 60 TV
+#DESCRIPTION Radio Italia Anni 60 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9054/9054/playlist.m3u8:Radio Italia Cina TV
+#DESCRIPTION Radio Italia Cina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioitalia-samsungitaly.amagi.tv/playlist720p.m3u8:Radio Italia Trend
+#DESCRIPTION Radio Italia Trend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8:Radio Italia Trend TV
+#DESCRIPTION Radio Italia Trend TV
+#SERVICE 4097:0:19:4242:3DB8:13E:820000:0:0:0:https%3a//radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8:Radio Italia TV
+#DESCRIPTION Radio Italia TV
+#SERVICE 4097:0:19:4242:3DB8:13E:820000:0:0:0:https%3a//radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8:Radio Italia TV
+#DESCRIPTION Radio Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8:Radio JukeBox
+#DESCRIPTION Radio JukeBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/playlist.m3u8:Radio JukeBox TV
+#DESCRIPTION Radio JukeBox TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8:Radio LibertÓ
+#DESCRIPTION Radio LibertÓ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8:RADIO LINEA N.1 TV
+#DESCRIPTION RADIO LINEA N.1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8:Radio Lombardia TV
+#DESCRIPTION Radio Lombardia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8:Radio Mambo TV
+#DESCRIPTION Radio Mambo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975753-750/stream/playlist.m3u8:Radio Marte Tv
+#DESCRIPTION Radio Marte Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8:Radio Norba TV
+#DESCRIPTION Radio Norba TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.xdevel.com/video0s975885-2346/stream/playlist_dvr.m3u8:Radio Norba TV
+#DESCRIPTION Radio Norba TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8:Radio Norba Tv
+#DESCRIPTION Radio Norba Tv
+#SERVICE 4097:0:2:4255:3DB8:13E:820000:0:0:0:https%3a//56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8:Radio Number One
+#DESCRIPTION Radio Number One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist_w1133430333.m3u8:Radio Number ONE
+#DESCRIPTION Radio Number ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice04.fluidstream.net/rn1_2.aac:Radio OneDance
+#DESCRIPTION Radio OneDance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8:Radio Parsifal TV
+#DESCRIPTION Radio Parsifal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8:Radio Piter Pan TV
+#DESCRIPTION Radio Piter Pan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8:Radio Piter Pan Tv
+#DESCRIPTION Radio Piter Pan Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str03.fluid.stream/RadioPiterpanTV/livestream/playlist.m3u8:Radio Piterpan TV
+#DESCRIPTION Radio Piterpan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pooh.fluid.stream/RadioPoohTV/livestream/playlist.m3u8?FLID=V&type=.m3u8:Radio Pooh
+#DESCRIPTION Radio Pooh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8:Radio Punto Zero TV
+#DESCRIPTION Radio Punto Zero TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/playlist.m3u8:Radio Radio TV
+#DESCRIPTION Radio Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/index.m3u8:Radio Radio TV
+#DESCRIPTION Radio Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8:Radio Radio Tv
+#DESCRIPTION Radio Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8:Radio Radiosa Tv
+#DESCRIPTION Radio Radiosa Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rr.fluid.stream/RadioRockTV/livestream/playlist.m3u8:Radio Rock TV
+#DESCRIPTION Radio Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dailymotion.com/cdn/live/video/x96kfby.m3u8?sec=SvaQKJwW21RUFoeuBMBedxJum9EBI1MQbHyjb04ydMsxWxECmf17kcAZddPNP0Mu:Radio Roma
+#DESCRIPTION Radio Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dailymotion.com/cdn/live/video/x96kf9k.m3u8?sec=BOXNy_WseNWq1yTOd-GS5tHIJBMzoEvy3smPGRsYUvZVQkl1GF4BFFHd_Ylekoxm:Radio Roma News
+#DESCRIPTION Radio Roma News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8:Radio Sorriso TV
+#DESCRIPTION Radio Sorriso TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str02.fluid.stream/RadioSorrrisoTV/livestream/playlist.m3u8:Radio SorRriso TV
+#DESCRIPTION Radio SorRriso TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/RSD/ngrp%3alivestream_all/playlist.m3u8:Radio Studio Delta TV
+#DESCRIPTION Radio Studio Delta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8:Radio Studio Più
+#DESCRIPTION Radio Studio Più
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/2vke97f39yuvv:Radio Sunbeat
+#DESCRIPTION Radio Sunbeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.xdevel.com/video1s3-7/stream/playlist.m3u8:Radio Taormina Sicilia
+#DESCRIPTION Radio Taormina Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8:Radio Taormina Tv
+#DESCRIPTION Radio Taormina Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975521-196/stream/playlist.m3u8:Radio Time Tv
+#DESCRIPTION Radio Time Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d_output_0.m3u8:Radio TV Serda
+#DESCRIPTION Radio TV Serda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/radiovacri/playlist.m3u8:Radio Vacri Tv
+#DESCRIPTION Radio Vacri Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8:Radio Zeta
+#DESCRIPTION Radio Zeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8:Radio ZETA
+#DESCRIPTION Radio ZETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng13-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist_b3256000.m3u8:Radio Zeta TV
+#DESCRIPTION Radio Zeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8:Radiofreccia
+#DESCRIPTION Radiofreccia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8:RadioFreccia
+#DESCRIPTION RadioFreccia
+#SERVICE 4097:0:19:641:D5:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/Rai1/index.m3u8:Rai 1
+#DESCRIPTION Rai 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv:RAI 1
+#DESCRIPTION RAI 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8:RAI 1
+#DESCRIPTION RAI 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd:RAI 1
+#DESCRIPTION RAI 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8:Rai 1
+#DESCRIPTION Rai 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/stb-dash-fhd-avc/SV09101.mpd?ck=N2Y5ZjZlM2M3OGIyNDg2ZjlmZTEzZTA2YmRiNzY4ZDI6YjM0MWMxMTM2YTM3MzhmM2E2ZWExOTdkMzFmYWIzNWM=:Rai 1
+#DESCRIPTION Rai 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am%3a80/s29/index.m3u8:RAI 1 (mx player)-ott
+#DESCRIPTION RAI 1 (mx player)-ott
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8:Rai 1 Europa
+#DESCRIPTION Rai 1 Europa
+#SERVICE 4097:0:19:D49:1450:13E:820000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16:Rai 1 HD
+#DESCRIPTION Rai 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/Rai2/index.m3u8:Rai 2
+#DESCRIPTION Rai 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8:RAI 2
+#DESCRIPTION RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv:RAI 2
+#DESCRIPTION RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd:RAI 2
+#DESCRIPTION RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09103/stb-dash-fhd-avc/SV09103.mpd?ck=ODM5ODUzMzc2OGFlNDliZTg2MmY0NThlZGM3OGY4Mjg6NjA5MjczYzI2YzMxYTQwOTAzMTBlMzk0NWMwZGI1ZGYsNmYxNjE1Mjk0NzkzM2UyY2I3NTI4ODc5MDUyNTkxYTk6YWQ2MjkxNTY5NzcyYmI3ZDhjODlmYjI1NjVmZTQxMTU=:Rai 2
+#DESCRIPTION Rai 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8:RAI 2 (link 2)
+#DESCRIPTION RAI 2 (link 2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8:Rai 2 Europa
+#DESCRIPTION Rai 2 Europa
+#SERVICE 4097:0:19:D4A:1450:13E:820000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16:Rai 2 HD
+#DESCRIPTION Rai 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/Rai3/index.m3u8:Rai 3
+#DESCRIPTION Rai 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv:RAI 3
+#DESCRIPTION RAI 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8:Rai 3
+#DESCRIPTION Rai 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09104/stb-dash-fhd-avc/SV09104.mpd?ck=ZjMzOWEzNzgxM2Y3NDI3MDhkMTQzNjU2ZGQ1ZjUzMjM6MTdhOWExM2UzZmJmZTFkOWNhZDczOWMyMWM4OWQzZmMsNzdiYzljZTNiMGNjM2NlN2IwMWY2NjU2YjI1NTQ0YTc6MjZmODliOWEzMmUyNjU4YWY4NDA3NDNiODE2NTRjMmQ=:Rai 3
+#DESCRIPTION Rai 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raisportdue3-live.akamaized.net/hls/live/2018009/raisportdue3/raisportdue3/playlist.m3u8:Rai 3
+#DESCRIPTION Rai 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8:RAI 3 (link 2)
+#DESCRIPTION RAI 3 (link 2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8:Rai 3 Europa
+#DESCRIPTION Rai 3 Europa
+#SERVICE 4097:0:16:4552:30D4:13E:820000:0:0:0:https%3a//tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8:Rai 3 TGR Abruzzo
+#DESCRIPTION Rai 3 TGR Abruzzo
+#SERVICE 4097:0:16:4544:30D4:13E:820000:0:0:0:https%3a//tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8:Rai 3 TGR Basilicata
+#DESCRIPTION Rai 3 TGR Basilicata
+#SERVICE 4097:0:16:4545:30D4:13E:820000:0:0:0:https%3a//tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8:Rai 3 TGR Calabria
+#DESCRIPTION Rai 3 TGR Calabria
+#SERVICE 4097:0:16:4554:30D4:13E:820000:0:0:0:https%3a//tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8:Rai 3 TGR Campania
+#DESCRIPTION Rai 3 TGR Campania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8:Rai 3 TGR Emilia-Romagna
+#DESCRIPTION Rai 3 TGR Emilia-Romagna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8:Rai 3 TGR Friuli-Venezia Giulia
+#DESCRIPTION Rai 3 TGR Friuli-Venezia Giulia
+#SERVICE 4097:0:16:4559:30D4:13E:820000:0:0:0:https%3a//tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8:Rai 3 TGR Lazio
+#DESCRIPTION Rai 3 TGR Lazio
+#SERVICE 4097:0:16:4547:30D4:13E:820000:0:0:0:https%3a//tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8:Rai 3 TGR Liguria
+#DESCRIPTION Rai 3 TGR Liguria
+#SERVICE 4097:0:16:454C:30D4:13E:820000:0:0:0:https%3a//tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8:Rai 3 TGR Lombardia
+#DESCRIPTION Rai 3 TGR Lombardia
+#SERVICE 4097:0:16:454A:30D4:13E:820000:0:0:0:https%3a//tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8:Rai 3 TGR Marche
+#DESCRIPTION Rai 3 TGR Marche
+#SERVICE 4097:0:16:4553:30D4:13E:820000:0:0:0:https%3a//tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8:Rai 3 TGR Molise
+#DESCRIPTION Rai 3 TGR Molise
+#SERVICE 4097:0:16:454B:30D4:13E:820000:0:0:0:https%3a//tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8:Rai 3 TGR Piemonte
+#DESCRIPTION Rai 3 TGR Piemonte
+#SERVICE 4097:0:16:4543:30D4:13E:820000:0:0:0:https%3a//tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8:Rai 3 TGR Puglia
+#DESCRIPTION Rai 3 TGR Puglia
+#SERVICE 4097:0:1:4551:30D4:13E:820000:0:0:0:https%3a//tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8:Rai 3 TGR Sardegna
+#DESCRIPTION Rai 3 TGR Sardegna
+#SERVICE 4097:0:16:4546:30D4:13E:820000:0:0:0:https%3a//tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8:Rai 3 TGR Sicilia
+#DESCRIPTION Rai 3 TGR Sicilia
+#SERVICE 4097:0:16:4548:30D4:13E:820000:0:0:0:https%3a//tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8:Rai 3 TGR Toscana
+#DESCRIPTION Rai 3 TGR Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8:Rai 3 TGR Trento
+#DESCRIPTION Rai 3 TGR Trento
+#SERVICE 4097:0:16:4549:30D4:13E:820000:0:0:0:https%3a//tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8:Rai 3 TGR Umbria
+#DESCRIPTION Rai 3 TGR Umbria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8:Rai 3 TGR Valle D'Aosta
+#DESCRIPTION Rai 3 TGR Valle D'Aosta
+#SERVICE 4097:0:16:454E:30D4:13E:820000:0:0:0:https%3a//tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8:Rai 3 TGR Veneto
+#DESCRIPTION Rai 3 TGR Veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv:RAI 4
+#DESCRIPTION RAI 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8:RAI 4
+#DESCRIPTION RAI 4
+#SERVICE 4097:0:16:3F1:1:217C:EEEE0000:0:0:0:https%3a//wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09105/stb-dash-fhd-avc/SV09105.mpd?ck=NzUxMjI0NDdjNGZlNGY5NmFhNjBlZjlmMTYyMDZjOTQ6NmNlMzFiYTM1YjA5ZjM3ZmQwMGJhZDUwYjhhZjI1OTcsYWZhMGVmMGU4MTcxM2RlNjg3Y2U2NjcyNWZhNGU3Njg6Y2RjMjNjODZjN2YyZGRkY2UzZWU4NzljYTM3YTBhODQ=:Rai 4
+#DESCRIPTION Rai 4
+#SERVICE 4097:0:1F:420:2:217C:EEEE0000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16:Rai 4 HD
+#DESCRIPTION Rai 4 HD
+#SERVICE 4097:0:1F:432:2:217C:EEEE0000:0:0:0:https%3a//raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8:RAI 4K
+#DESCRIPTION RAI 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8:RAI 4K
+#DESCRIPTION RAI 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv:RAI 5
+#DESCRIPTION RAI 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04o/index.m3u8:RAI 5
+#DESCRIPTION RAI 5
+#SERVICE 4097:0:19:4534:30D4:13E:820000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16:Rai 5 HD
+#DESCRIPTION Rai 5 HD
+#SERVICE 4097:0:16:3EC:1:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/RaiGulp/index.m3u8:Rai Gulp
+#DESCRIPTION Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv:RAI Gulp
+#DESCRIPTION RAI Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04m/index.m3u8:RAI Gulp
+#DESCRIPTION RAI Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd:RAI Gulp
+#DESCRIPTION RAI Gulp
+#SERVICE 4097:0:16:3EC:1:217C:EEEE0000:0:0:0:https%3a//wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09111/stb-dash-fhd-avc/SV09111.mpd?ck=NDZmY2NiZjg3YmQyMzQ3MjlkNDIwNTU1YzE2ZGU2ZTg6ODllNWZlNjg4NDEwNjUzNmE2NGZkNmQ3Y2Y0MGE0Yzg=:Rai Gulp
+#DESCRIPTION Rai Gulp
+#SERVICE 4097:0:19:4530:30D4:13E:820000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16:Rai Gulp HD
+#DESCRIPTION Rai Gulp HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8:RAI Italia Africa
+#DESCRIPTION RAI Italia Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8:RAI Italia Americas
+#DESCRIPTION RAI Italia Americas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s63/index2.m3u8:RAI Italia Asia
+#DESCRIPTION RAI Italia Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8:RAI Italia Australia
+#DESCRIPTION RAI Italia Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv:RAI Movie
+#DESCRIPTION RAI Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8:Rai Movie
+#DESCRIPTION Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09108/stb-dash-hdready-avc/SV09108.mpd?ck=ZTFmYWFmYWJlMTA4NGUzMGI2NTc2NDViZjcxYzFhZTI6ZmFiNTRlNjU5NTI4NGQ0OTA4NzRmY2RiNmViNmY0NjYsMTA2YThkMzg4MzAyM2YzZWEzOTY4M2QzZThjMjcxMTM6M2ZjODkxM2YwYzM4OTU2MTUxYmI2YWEzN2FjZTIyMmI=:Rai Movie
+#DESCRIPTION Rai Movie
+#SERVICE 4097:0:19:3EA:1:217C:EEEE0000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16:Rai Movie HD
+#DESCRIPTION Rai Movie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8:Rai News
+#DESCRIPTION Rai News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04l/index.m3u8:RAI News 24
+#DESCRIPTION RAI News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8:RAI News 24 Europa HD
+#DESCRIPTION RAI News 24 Europa HD
+#SERVICE 4097:0:1F:421:2:217C:EEEE0000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16:Rai News 24 HD
+#DESCRIPTION Rai News 24 HD
+#SERVICE 4097:0:16:3EE:1:217C:EEEE0000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv:Rai Premium
+#DESCRIPTION Rai Premium
+#SERVICE 4097:0:16:3EE:1:217C:EEEE0000:0:0:0:https%3a//raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8:Rai Premium
+#DESCRIPTION Rai Premium
+#SERVICE 4097:0:16:3EE:1:217C:EEEE0000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16:Rai Premium
+#DESCRIPTION Rai Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04i/index.m3u8:Rai Premium (1080p)
+#DESCRIPTION Rai Premium (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8:RAI Radio 2
+#DESCRIPTION RAI Radio 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16:Rai Radio 2 Visual Radio
+#DESCRIPTION Rai Radio 2 Visual Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/RaiScuola/index.m3u8:Rai Scuola
+#DESCRIPTION Rai Scuola
+#SERVICE 4097:0:16:403:1:217C:EEEE0000:0:0:0:http%3a//78.130.250.2%3a8023/play/a04h/index.m3u8:RAI Scuola
+#DESCRIPTION RAI Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv:RAI Scuola
+#DESCRIPTION RAI Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd:RAI Scuola
+#DESCRIPTION RAI Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06534/stb-dash-fhd-avc/SV06534.mpd?ck=OTEwMTg4NjYxYjljM2UyMjhmMGU1NDQ2NGQ2YjZjZTM6ZDBhNGRkMTVlMDc0OWYwMTIxZjFmNTYwZmU4YWZkOTI=:Rai Scuola
+#DESCRIPTION Rai Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8:Rai Scuola
+#DESCRIPTION Rai Scuola
+#SERVICE 4097:0:16:425:2:217C:EEEE0000:0:0:0:https%3a//srv1.adriatelekom.com/RaiSport/index.m3u8:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04n/index.m3u8:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp11-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09106/stb-dash-fhd-avc/SV09106.mpd?ck=ODdhNWJlYWM1NGM3NGJmNGE5NWExNDJiOTBmYjgxN2Y6NDYxOGQxZDhkMTkwMzIyMzk5MDYzNWYxODFhZmQyMDIsYTVmODFkNzk0OWY4M2ZiOWJkYzM5ZmRlYzYxMzllM2M6YWFjMjU4M2FiODcwZmM2NWVkZGRhOTk0ZTA5MGNhODk=:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv:Rai Sport + HD
+#DESCRIPTION Rai Sport + HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raisportjolly1-live.akamaized.net/hls/live/2034072/raisportjolly1/raisportjolly1/raisportjolly1_2400/chunklist.m3u8:Rai Sport jolly
+#DESCRIPTION Rai Sport jolly
+#SERVICE 4097:0:19:2146:3070:13E:820000:0:0:0:https%3a//srv1.adriatelekom.com/RaiStoria/index.m3u8:Rai Storia
+#DESCRIPTION Rai Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv:RAI Storia
+#DESCRIPTION RAI Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd:RAI Storia
+#DESCRIPTION RAI Storia
+#SERVICE 4097:0:19:2146:3070:13E:820000:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8:Rai Storia
+#DESCRIPTION Rai Storia
+#SERVICE 4097:0:19:2146:3070:13E:820000:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16:Rai Storia
+#DESCRIPTION Rai Storia
+#SERVICE 4097:0:19:2146:3070:13E:820000:0:0:0:https%3a//wp1-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09112/stb-dash-fhd-avc/SV09112.mpd?ck=YWY3MDI1NjE3NjI2NDc5NjhkYTQ2MzIyMWIxYjU3OTc6YmFkYjk0YTg5ODA1Y2JjNmM5NjFkZWEwYTU3MGJkYWEsYmUxMmQyZjMwZTA1MzVhMGFiYWVlMzI0YzkxYzRmZTQ6MzAwZGMxY2I3Mzk2MzZlMjY0YjM0MDZlYzQ0YjdhY2Y=:Rai Storia
+#DESCRIPTION Rai Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04f/index.m3u8:RAI Storia (1080p)
+#DESCRIPTION RAI Storia (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8:RAI Sudtirol
+#DESCRIPTION RAI Sudtirol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8:Rai World Premium
+#DESCRIPTION Rai World Premium
+#SERVICE 4097:0:16:3ED:1:217C:EEEE0000:0:0:0:http%3a//78.130.250.2%3a8023/play/a04d/index.m3u8:RAI Yoyo
+#DESCRIPTION RAI Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv:RAI Yoyo
+#DESCRIPTION RAI Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00472/stb-dash-sd-avc/SV00472.mpd?ck=ZjAwMWVjYzlmN2FhM2I5MWFhOGIyNjNiNmNmNmZlMmQ6ZWIzZDk1ZDgxOTQ4NTFlMjNjZDAwNzgxM2RlMDc5Yzc=:Rai Yoyo
+#DESCRIPTION Rai Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8:RaiPlay 3
+#DESCRIPTION RaiPlay 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8:RaiPlaySport 1
+#DESCRIPTION RaiPlaySport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8:RaiPlaySport 2
+#DESCRIPTION RaiPlaySport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8:RaiPlaySport 3
+#DESCRIPTION RaiPlaySport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8:Rakuten TV Action Movies Italy
+#DESCRIPTION Rakuten TV Action Movies Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8:Rakuten TV Crime Series Italy
+#DESCRIPTION Rakuten TV Crime Series Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8:Rally TV
+#DESCRIPTION Rally TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8:Ran Friul
+#DESCRIPTION Ran Friul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8:Ran Friul
+#DESCRIPTION Ran Friul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8:Ran Germ
+#DESCRIPTION Ran Germ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ranetwork/playlist.m3u8:Ran Network
+#DESCRIPTION Ran Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ranwes/playlist.m3u8:Ran News
+#DESCRIPTION Ran News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8:Ran Slo
+#DESCRIPTION Ran Slo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8:Ran Sport
+#DESCRIPTION Ran Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8:Ran Stereo
+#DESCRIPTION Ran Stereo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8:RBE-TV
+#DESCRIPTION RBE-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/playlist.m3u8:RC88
+#DESCRIPTION RC88
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8:RCS 75
+#DESCRIPTION RCS 75
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/rdetrieste/index.m3u8:RDE Tv
+#DESCRIPTION RDE Tv
+#SERVICE 4097:0:19:91:7918:217C:EEEE0000:0:0:0:https%3a//stream.rdstv.radio/index_9.m3u8:RDS Social TV
+#DESCRIPTION RDS Social TV
+#SERVICE 4097:0:19:91:7918:217C:EEEE0000:0:0:0:https%3a//stream.rdstv.radio/index.m3u8:RDS Social TV
+#DESCRIPTION RDS Social TV
+#SERVICE 4097:0:19:91:7918:217C:EEEE0000:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8:RDS Social TV
+#DESCRIPTION RDS Social TV
+#SERVICE 4097:0:19:91:7918:217C:EEEE0000:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8:RDS Social TV
+#DESCRIPTION RDS Social TV
+#SERVICE 4097:0:19:2C:204:1D:EEEE0000:0:0:0:https%3a//d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8:Real Time
+#DESCRIPTION Real Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09319/stb-dash-fhd-avc/SV09319.mpd?ck=NzU0NTNmYTczMjJmNGI4YjgxYjI4NTUyOWI3MjZlNjM6Y2E3OWJkMjY1YmU2YWM3MzE1NTU1YWExYmJlYTZhZmUsNjBlYjhkZGJhNzExMzkxNTkxNGI4NjU2NjJmZWNiZGI6OGFjYTZlZGRkMGEyODBmMzlkZGM3NTM3MmJlMmFmZDk=:Realtime
+#DESCRIPTION Realtime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:RedBull TV
+#DESCRIPTION RedBull TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8:ReggioTV
+#DESCRIPTION ReggioTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8:Rei Tv
+#DESCRIPTION Rei Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8:Rete 4
+#DESCRIPTION Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd:Rete 4
+#DESCRIPTION Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09242/stb-dash-fhd-avc/SV09242.mpd?ck=MmRjMjBlNTM5N2U1NDAxNjk5OWI5Y2E0ZmM2ZmJiNzQ6MDVjOWNiZGFlYWVkNGY3ZmY2ZjBkYjk3OGM2YWFmZTksNTAyODI5YTYxOGE5NDBmZWJiMTkyMzVjZGEzNDE0MDE6ZjFlMWY5MDg0OTE0Mzk0YzU4OGMzODdiZDU4ZDYzOGY=:Rete 4
+#DESCRIPTION Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8:Rete 4 (hls)
+#DESCRIPTION Rete 4 (hls)
+#SERVICE 4097:0:19:7B:4B0:110:820000:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd:Rete 4 HD
+#DESCRIPTION Rete 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.giocabet.tv/stream/6/index.m3u8:Rete 55
+#DESCRIPTION Rete 55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.internet.one/Rete55_Live/index.m3u8:Rete 55 (720p) [Not 24/7]
+#DESCRIPTION Rete 55 (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8:Rete 8
+#DESCRIPTION Rete 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8/master.m3u8?start=now-200m:Rete 8
+#DESCRIPTION Rete 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m:Rete 8 Sport
+#DESCRIPTION Rete 8 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//604e46ac2bdee.streamlock.net%3a1936/rete8_1/rete8_1/playlist.m3u8:Rete 8 Vga
+#DESCRIPTION Rete 8 Vga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sb.top-ix.org/retebiella/streaming/playlist.m3u8:Rete Biella TV
+#DESCRIPTION Rete Biella TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wb.top-ix.org/redirect/retebiella/_definst_/streaming?type=m3u8:Rete Biella TV
+#DESCRIPTION Rete Biella TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8:Rete Italia
+#DESCRIPTION Rete Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8:Rete Oro
+#DESCRIPTION Rete Oro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/ReteoroRoma/ReteoroRoma/playlist.m3u8:Rete Oro
+#DESCRIPTION Rete Oro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9332/9332/chunklist_w830303151.m3u8:Rete Sole (Lazio)
+#DESCRIPTION Rete Sole (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8:Rete TV Italia
+#DESCRIPTION Rete TV Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8:Rete Tv Italia
+#DESCRIPTION Rete Tv Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8:Rete Veneta
+#DESCRIPTION Rete Veneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a2020/hls/rete7-live/rete7-live.m3u8:Rete7
+#DESCRIPTION Rete7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8:Rete8 Sport
+#DESCRIPTION Rete8 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8:Reteconomy
+#DESCRIPTION Reteconomy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8:Retemia
+#DESCRIPTION Retemia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8:Retemia
+#DESCRIPTION Retemia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/ReteoroRoma/ReteoroRoma/manifest.mpd:Reteoro Roma
+#DESCRIPTION Reteoro Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8:Retesole Umbria
+#DESCRIPTION Retesole Umbria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8:Reteveneta
+#DESCRIPTION Reteveneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-film-sorrisi-1-it.xiaomi.wurl.tv/4300.m3u8:Risate Cult '80
+#DESCRIPTION Risate Cult '80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str41.fluid.stream/Ritmo80TV/livestream/playlist.m3u8:Ritmo 80
+#DESCRIPTION Ritmo 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8:RMC 101 TV
+#DESCRIPTION RMC 101 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-rock-tv-1-it.xiaomi.wurl.tv/4300.m3u8:Rock TV
+#DESCRIPTION Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8:Roma Tv 82
+#DESCRIPTION Roma Tv 82
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00069-amg00069c3-samsung-it-5223.playouts.now.amagi.tv/playlist/amg00069-highview-romantica-samsungit/playlist.m3u8:Romantica
+#DESCRIPTION Romantica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8:Romit TV
+#DESCRIPTION Romit TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8:Rossini TV
+#DESCRIPTION Rossini TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?ck=MDlhZjVmNmViODkwNDFjYThmNWQxNjQxNjUxNDJlODY6MTk4OWNjOWM5Y2U1YjJiNTJjYjkzZWRhYWVmZTg0MjAsZDI2OGQ4MTBkOGE3M2JkOGI3ZDU0YTZhMDg3NTgxZDI6MWFhZjI5NzU0MzE2OGM2MjVlMDVhYTllMjczNDQ0NzE=:RSI La1
+#DESCRIPTION RSI La1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8:RSI La1
+#DESCRIPTION RSI La1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?ck=MTE3ZDA3ZmQ5OGNjNDZlZjhlMDk5MzZkMGQzN2M1MDY6Yjk1MjhjYjNmMjNlYWFkNzg5ZjBmMzNiZjZiMDE4NjgsMTY2YjJmMGQ1NmZiMzJkOWI0NmQ0YjFjYTFiNWJmMTY6ZDc4ZWU1YzkxZWIzYjliNmQzNzQxNGE0Zjc4OWJjOWI=:RSI La2
+#DESCRIPTION RSI La2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8:RSI La2
+#DESCRIPTION RSI La2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9056/9056/playlist.m3u8:RSO Radio
+#DESCRIPTION RSO Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.azotosolutions.com%3a9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8:Rta - Radio Tivù Azzurra
+#DESCRIPTION Rta - Radio Tivù Azzurra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8:RTC Telecalabria
+#DESCRIPTION RTC Telecalabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a8081/rticalabria/index.m3u8:RTI Calabria
+#DESCRIPTION RTI Calabria
+#SERVICE 4097:0:19:DB:204:1D:EEEE0000:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8:RTL 102.5
+#DESCRIPTION RTL 102.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8:RTL 102.5 + Plus
+#DESCRIPTION RTL 102.5 + Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8:RTL 102.5 Best
+#DESCRIPTION RTL 102.5 Best
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8:RTL 102.5 Bro&Sis
+#DESCRIPTION RTL 102.5 Bro&Sis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8:RTL 102.5 Bro&Sis
+#DESCRIPTION RTL 102.5 Bro&Sis
+#SERVICE 4097:0:19:205:384:13E:820000:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8:RTL 102.5 Caliente
+#DESCRIPTION RTL 102.5 Caliente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8:RTL 102.5 Disco
+#DESCRIPTION RTL 102.5 Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8:RTL 102.5 Disco
+#DESCRIPTION RTL 102.5 Disco
+#SERVICE 4097:0:2:E2:204:1D:EEEE0000:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8:RTL 102.5 Napule
+#DESCRIPTION RTL 102.5 Napule
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8:RTL 102.5 NapulR
+#DESCRIPTION RTL 102.5 NapulR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8:RTL 102.5 Romeo & Juliet
+#DESCRIPTION RTL 102.5 Romeo & Juliet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8:RTL 102.5 Traffic
+#DESCRIPTION RTL 102.5 Traffic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8:RTL 102.5 Traffic
+#DESCRIPTION RTL 102.5 Traffic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8:RTL 102.5 TV
+#DESCRIPTION RTL 102.5 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnl1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8:RTL 102.5 TV
+#DESCRIPTION RTL 102.5 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u:RTM
+#DESCRIPTION RTM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/chunklist.m3u8:RTM
+#DESCRIPTION RTM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/playlist.m3u8:RTM (Marche)
+#DESCRIPTION RTM (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8:RTM TV
+#DESCRIPTION RTM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:RTP
+#DESCRIPTION RTP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:RTP
+#DESCRIPTION RTP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s975966-797/stream/playlist.m3u8:RTP
+#DESCRIPTION RTP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str38.fluid.stream/RTR99TV/livestream/playlist.m3u8:RTR 99 TV
+#DESCRIPTION RTR 99 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtr99.fluid.stream/RTR99TV/livestream/playlist.m3u8?FLID=V&type=.m3u8:RTR 99Tv (Ti ricordi Tv)
+#DESCRIPTION RTR 99Tv (Ti ricordi Tv)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str38.fluid.stream/RTR99TV/livestream/chunklist_w708886143.m3u8:RTR99 Ti Ricordi
+#DESCRIPTION RTR99 Ti Ricordi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8:RTR99 Tv
+#DESCRIPTION RTR99 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rttr.fluid.stream/RTTRlive/livestream/playlist.m3u8:RTTR
+#DESCRIPTION RTTR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8:RTTR Trento
+#DESCRIPTION RTTR Trento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8:RTV38
+#DESCRIPTION RTV38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8:RTV38 Televaldarno
+#DESCRIPTION RTV38 Televaldarno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8:Sardegna1
+#DESCRIPTION Sardegna1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video22s975955-2186/stream/playlist.m3u8:Satisfaction TV
+#DESCRIPTION Satisfaction TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/efstzahwew/efstzahwew/playlist.m3u8:SeilaTV Bergamo
+#DESCRIPTION SeilaTV Bergamo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//senato-live.morescreens.com/SENATO_1_001/playlist.m3u8:Senato TV
+#DESCRIPTION Senato TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ixmediasrl-serially-1-it.lg.wurl.tv/playlist.m3u8:Serially (IT)
+#DESCRIPTION Serially (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8:Sesta Rete
+#DESCRIPTION Sesta Rete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8:Sestarete
+#DESCRIPTION Sestarete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8:SET TV
+#DESCRIPTION SET TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/settv/live/index.m3u8:Set Tv Cilento
+#DESCRIPTION Set Tv Cilento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/livein/laziostyle/playlist.m3u8:SI Lazio Style
+#DESCRIPTION SI Lazio Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8:SI Primavera TV
+#DESCRIPTION SI Primavera TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8:SI Solo Calcio
+#DESCRIPTION SI Solo Calcio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8:Sicilia 24
+#DESCRIPTION Sicilia 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcaster.net%3a1935/siciliamediatv_live/siciliamedia/playlist.m3u8:Siciliamedia TV
+#DESCRIPTION Siciliamedia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s976727-1441/stream/playlist.m3u8:Siena Tv
+#DESCRIPTION Siena Tv
+#SERVICE 4097:0:19:5A:200:1D:EEEE0000:0:0:0:https%3a//www.mytivu.it/Application/Channels/SkyTG24.php?m3u8:Sky TG24
+#DESCRIPTION Sky TG24
+#SERVICE 4097:0:19:5A:200:1D:EEEE0000:0:0:0:https%3a//hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556:Sky TG24
+#DESCRIPTION Sky TG24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8:SKYLINE TV
+#DESCRIPTION SKYLINE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/sl48/sl48/playlist.m3u8:SL48
+#DESCRIPTION SL48
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.velcom.it%3a1935/sl48/sl48/playlist.m3u8:SL48 TV
+#DESCRIPTION SL48 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chilibuonumore-1-it.xiaomi.wurl.tv/4300.m3u8:Smile
+#DESCRIPTION Smile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8:Soap Latino
+#DESCRIPTION Soap Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8:Soap Turco
+#DESCRIPTION Soap Turco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8:Solocalcio (SamsungTV)
+#DESCRIPTION Solocalcio (SamsungTV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bild-und-ton.stream/sophiatv-it/smil%3asophia-tv-it.smil/playlist.m3u8:Sophia TV
+#DESCRIPTION Sophia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-film-sorrisi-1-it.lg.wurl.tv/playlist.m3u8:Sorrisi (IT)
+#DESCRIPTION Sorrisi (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8:Sport Channel
+#DESCRIPTION Sport Channel
+#SERVICE 4097:0:19:50:7918:217C:EEEE0000:0:0:0:https%3a//amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8:Sportitalia
+#DESCRIPTION Sportitalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gto2000-sportoutdoortv-1-eu.xiaomi.wurl.tv/3000.m3u8:SportOutdoor.Tv
+#DESCRIPTION SportOutdoor.Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8:Sportvl
+#DESCRIPTION Sportvl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7231/master.m3u8:Squadra Speciale Cobra 11
+#DESCRIPTION Squadra Speciale Cobra 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4ede4e2e52be4ac280c54ec711b428fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SquadraSpecialeLipsia/playlist.m3u8:Squadra Speciale Lipsia
+#DESCRIPTION Squadra Speciale Lipsia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8:ST Europe Channel
+#DESCRIPTION ST Europe Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8:StandbyTV
+#DESCRIPTION StandbyTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/stereo5/live/index.m3u8:Stereo 5 TV
+#DESCRIPTION Stereo 5 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8:Stile Tv
+#DESCRIPTION Stile Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01821-amg01821c19-samsung-it-3199.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryitaly-samsungit/playlist.m3u8:Storie Criminali
+#DESCRIPTION Storie Criminali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn16.streamshow.it/cloud-studio100/studio100/chunklist.m3u8:STUDIO 100
+#DESCRIPTION STUDIO 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8:Studio 100
+#DESCRIPTION Studio 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8:Studio 7 TV
+#DESCRIPTION Studio 7 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/studiomf/index.m3u8:Studio e Meta Film
+#DESCRIPTION Studio e Meta Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8:Super
+#DESCRIPTION Super
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8:Super J Tv
+#DESCRIPTION Super J Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8:Super Six
+#DESCRIPTION Super Six
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8:Super TV
+#DESCRIPTION Super TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/supertv/mp4%3asupertv/playlist.m3u8:Super TV (720p)
+#DESCRIPTION Super TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.70.81.40%3a1935/supertvoristano/supertvoristano/playlist.m3u8:Super TV Oristano (720p) [Not 24/7]
+#DESCRIPTION Super TV Oristano (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8:Super!
+#DESCRIPTION Super!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8:Super!
+#DESCRIPTION Super!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/leotv/leotv/playlist.m3u8:Super24
+#DESCRIPTION Super24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8:SuperSIX
+#DESCRIPTION SuperSIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/supersixnew/supersixnew/manifest.mpd:SuperSix New
+#DESCRIPTION SuperSix New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8:Supertennis
+#DESCRIPTION Supertennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1b18rn1fy7w7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vbsddt58t1ej1/feed/samsung/streams/SUPERTOONS_IT/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f:SuperToons TV
+#DESCRIPTION SuperToons TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn12.streamshow.it/hbbtv-supertv/supertv/manifest.mpd:Supertv
+#DESCRIPTION Supertv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/supertv/supertv/live.m3u8:SuperTv Brescia
+#DESCRIPTION SuperTv Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/tnove/tnove/playlist.m3u8:T9
+#DESCRIPTION T9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8:Taurianova TV
+#DESCRIPTION Taurianova TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8:Tcf Tv
+#DESCRIPTION Tcf Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jwplayer.com/live/broadcast/NXTAdMkM.m3u8:TCI
+#DESCRIPTION TCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m.iostream.it/hls/teatrotv/teatrotv.m3u8:Teatro TV
+#DESCRIPTION Teatro TV
+#SERVICE 4097:0:1:1F43:80E1:217C:EEEE0000:0:0:0:https%3a//cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/index.m3u8:Tele A
+#DESCRIPTION Tele A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lostream.it/hls/telea/video.m3u8:Tele A (Canale 18 Campania)
+#DESCRIPTION Tele A (Canale 18 Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a8081/telea1-live/index.m3u8:Tele A1
+#DESCRIPTION Tele A1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8:Tele Acras
+#DESCRIPTION Tele Acras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//load-balancer.azotosolutions.com/cdnedge34/telealtobut/playlist.m3u8:Tele Alto But
+#DESCRIPTION Tele Alto But
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8:Tele Boario
+#DESCRIPTION Tele Boario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8:Tele Bruzzano
+#DESCRIPTION Tele Bruzzano
+#SERVICE 4097:0:1:1F4D:80E1:217C:EEEE0000:0:0:0:https%3a//www.theclubfactory.com/streaming/index.m3u8:Tele Club Italia
+#DESCRIPTION Tele Club Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8:Tele Colore
+#DESCRIPTION Tele Colore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8:Tele Cupole
+#DESCRIPTION Tele Cupole
+#SERVICE 4097:0:19:1F70:80E3:217C:EEEE0000:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rtmpteledehon/smil%3artmpteledehon.smil/playlist.m3u8:Tele Dehon
+#DESCRIPTION Tele Dehon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8:Tele Dolomiti
+#DESCRIPTION Tele Dolomiti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8:Tele Estense
+#DESCRIPTION Tele Estense
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telefoggia/mp4%3atelefoggia/playlist.m3u8:Tele Foggia
+#DESCRIPTION Tele Foggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8:Tele Liberta' HD
+#DESCRIPTION Tele Liberta' HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8:Tele Liguria Sud
+#DESCRIPTION Tele Liguria Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8:Tele Liguria Sud
+#DESCRIPTION Tele Liguria Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//654be07bf207c.streamlock.net/Telemolise4K/_definst_/Telemolise4K/playlist.m3u8:Tele Molise
+#DESCRIPTION Tele Molise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.202.128.1%3a1935/Telemolise4K/Telemolise4K/playlist.m3u8:Tele Molise
+#DESCRIPTION Tele Molise
+#SERVICE 4097:0:1:1F6A:80E3:217C:EEEE0000:0:0:0:https%3a//13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8:Tele Nostra
+#DESCRIPTION Tele Nostra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8:Tele Occidente
+#DESCRIPTION Tele Occidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8:Tele Oltre
+#DESCRIPTION Tele Oltre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8:Tele One 16
+#DESCRIPTION Tele One 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telepavia/telepavia/live.m3u8:Tele Pavia
+#DESCRIPTION Tele Pavia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telepavia/mp4%3atelepavia/playlist.m3u8:Tele Pavia
+#DESCRIPTION Tele Pavia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8:Tele Pegaso
+#DESCRIPTION Tele Pegaso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8:Tele Piadena
+#DESCRIPTION Tele Piadena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//54627d4fc5996.streamlock.net/ekuotv/ekuotv/playlist.m3u8:Tele Ponte Abruzzo
+#DESCRIPTION Tele Ponte Abruzzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.wifi4all.it/telepn/telepn.m3u8:Tele Pordenone
+#DESCRIPTION Tele Pordenone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8:Tele Quattro
+#DESCRIPTION Tele Quattro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8:Tele Quattro
+#DESCRIPTION Tele Quattro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8:Tele Quattro Trieste
+#DESCRIPTION Tele Quattro Trieste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst.saiuzwebnetwork.it%3a19360/teleradioercolano-1/teleradioercolano-1.m3u8:Tele Radio Ercolano
+#DESCRIPTION Tele Radio Ercolano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8:Tele Radio Monte Kronio Sciacca (RMK TV)
+#DESCRIPTION Tele Radio Monte Kronio Sciacca (RMK TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977516-2077/stream/playlist.m3u8:Tele Radio Orte
+#DESCRIPTION Tele Radio Orte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/ortetv/ortetv/index.m3u8:Tele Radio Orte
+#DESCRIPTION Tele Radio Orte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8:Tele Radio Sciacca
+#DESCRIPTION Tele Radio Sciacca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/teleromagna/live/playlist.m3u8:Tele Romagna
+#DESCRIPTION Tele Romagna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:Tele Romagna 24
+#DESCRIPTION Tele Romagna 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8:Tele Sondrio News
+#DESCRIPTION Tele Sondrio News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8:Tele Sud Puglia
+#DESCRIPTION Tele Sud Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8:Tele Tutto
+#DESCRIPTION Tele Tutto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//600f07e114306.streamlock.net/TT_TELETUTTO/smil%3aTT.smil/playlist.m3u8:Tele Tutto
+#DESCRIPTION Tele Tutto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8:Tele Tutto 2
+#DESCRIPTION Tele Tutto 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8:Tele Tutto 2
+#DESCRIPTION Tele Tutto 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8:Tele Tutto 24
+#DESCRIPTION Tele Tutto 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8:Tele Tutto 24
+#DESCRIPTION Tele Tutto 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8:Tele Venezia
+#DESCRIPTION Tele Venezia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8:Tele Video Agrigento (T.V.A.)
+#DESCRIPTION Tele Video Agrigento (T.V.A.)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8:Tele2000
+#DESCRIPTION Tele2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8:Tele8
+#DESCRIPTION Tele8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/tele90/tele90/playlist.m3u8:Tele90
+#DESCRIPTION Tele90
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8:TeleAbruzzo (Abruzzo Tv)
+#DESCRIPTION TeleAbruzzo (Abruzzo Tv)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8:Teleambiente
+#DESCRIPTION Teleambiente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8:TeleAmbiente
+#DESCRIPTION TeleAmbiente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u:TeleAmbiente
+#DESCRIPTION TeleAmbiente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8:TeleArena
+#DESCRIPTION TeleArena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8:TeleArena
+#DESCRIPTION TeleArena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/TeleArena/livestream/playlist.m3u8:Telearena
+#DESCRIPTION Telearena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/playlist.m3u8:TeleArena Verona
+#DESCRIPTION TeleArena Verona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/telebari/livestream/playlist.m3u:TeleBari
+#DESCRIPTION TeleBari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/telebari/livestream/playlist.m3u8:Telebari
+#DESCRIPTION Telebari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8:TeleBelluno
+#DESCRIPTION TeleBelluno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8:TeleBelluno
+#DESCRIPTION TeleBelluno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8:Telebiella
+#DESCRIPTION Telebiella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8:TeleBoario
+#DESCRIPTION TeleBoario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ccn.it/hls/0/stream.m3u8:Telecamaiore Nuovi Orizzonti
+#DESCRIPTION Telecamaiore Nuovi Orizzonti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8:TeleCampione
+#DESCRIPTION TeleCampione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8:Telecentro 2
+#DESCRIPTION Telecentro 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.tvavicenza.it%3a1935/telechiara/diretta/playlist.m3u8:Telechiara
+#DESCRIPTION Telechiara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms.telemar.it%3a1936/telechiara/diretta/chunklist_w285735564.m3u8:Telechiara
+#DESCRIPTION Telechiara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms.telemar.it%3a1936/telechiara/diretta/playlist.m3u8:Telechiara
+#DESCRIPTION Telechiara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8:Telecittà
+#DESCRIPTION Telecittà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8:Telecitt� Padova
+#DESCRIPTION Telecitt� Padova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tango.wifi4all.it/telecitta/telecitta.m3u8:Telecitt� Padova
+#DESCRIPTION Telecitt� Padova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8:Telecity Lombardia
+#DESCRIPTION Telecity Lombardia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8:Telecity Piemonte
+#DESCRIPTION Telecity Piemonte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8:Telecity Valle d'Aosta
+#DESCRIPTION Telecity Valle d'Aosta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teleclubitalia.iostream.it/teleclubitalia.m3u8:TeleClubItalia
+#DESCRIPTION TeleClubItalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8:Telecolor Lombardia
+#DESCRIPTION Telecolor Lombardia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/telecomunicare/playlist.m3u8:TeleComunicare
+#DESCRIPTION TeleComunicare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8:TeleCostaSmeralda
+#DESCRIPTION TeleCostaSmeralda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4k.it/hls/live2/live.m3u8:TeleCupole
+#DESCRIPTION TeleCupole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4k.it/hls/live3/live.m3u8:Telecupole Liguria
+#DESCRIPTION Telecupole Liguria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rtmpteledehon/smil%3artmpteledehon.smil/playlist.m3u:Teledehon
+#DESCRIPTION Teledehon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8:Telefoggia
+#DESCRIPTION Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telefoggia/mp4%3atelefoggia/chunklist_w386788975.m3u:Telefoggia
+#DESCRIPTION Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telefoggia/mp4%3atelefoggia/chunklist_w485752473.m3u8:Telefoggia
+#DESCRIPTION Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telefoggia/mp4%3atelefoggia/playlist.m3u:Telefoggia
+#DESCRIPTION Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u:Telefoggia
+#DESCRIPTION Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8:Telefriuli
+#DESCRIPTION Telefriuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/telefutura/tracks-v1a1/mono.ts.m3u8:TeleFutura
+#DESCRIPTION TeleFutura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8:Telegela 647
+#DESCRIPTION Telegela 647
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8:TeleGenova
+#DESCRIPTION TeleGenova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/vmbjrayngd/vmbjrayngd/playlist.m3u8:Telegolfo RTG
+#DESCRIPTION Telegolfo RTG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.granducatotv.eu/tv/granducato/hls/?cid=40:TeleGranducato
+#DESCRIPTION TeleGranducato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8:TeleGranducato
+#DESCRIPTION TeleGranducato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net%3a443/teleiblea/teleiblea/playlist.m3u8:Teleiblea
+#DESCRIPTION Teleiblea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8:Teleiblea
+#DESCRIPTION Teleiblea
+#SERVICE 4097:0:1:2:80E4:217C:EEEE0000:0:0:0:https%3a//rst.saiuzwebnetwork.it%3a8081/teleischia/index.m3u8:Teleischia
+#DESCRIPTION Teleischia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8130/index.m3u8:Teleischia
+#DESCRIPTION Teleischia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8:Teleitalia 41
+#DESCRIPTION Teleitalia 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telejato.liberotratto.com/hls/stream.m3u8:Telejato
+#DESCRIPTION Telejato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8:Telejato (Sicilia)
+#DESCRIPTION Telejato (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8:Telejonio
+#DESCRIPTION Telejonio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9022/9022/playlist.m3u8:Telelaser
+#DESCRIPTION Telelaser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8:TeleLeonessa
+#DESCRIPTION TeleLeonessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8:TeleLeonessa
+#DESCRIPTION TeleLeonessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/teleleonessa/teleleonessa/live.m3u8:TeleLeonessa
+#DESCRIPTION TeleLeonessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0:Telelombardia
+#DESCRIPTION Telelombardia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8:TeleMajg
+#DESCRIPTION TeleMajg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w656612441.m3u:TeleMajg
+#DESCRIPTION TeleMajg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8:Telemantova
+#DESCRIPTION Telemantova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8:TeleMantova
+#DESCRIPTION TeleMantova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.telemaxtv.it/hls/mystream.m3u8:Telemax
+#DESCRIPTION Telemax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8:TeleMia
+#DESCRIPTION TeleMia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8:TeleMia Extra
+#DESCRIPTION TeleMia Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst.saiuzwebnetwork.it%3a8081/telemiracoli/index.m3u8:Telemiracoli
+#DESCRIPTION Telemiracoli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8:TeleMistretta
+#DESCRIPTION TeleMistretta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.202.128.1%3a1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8:Telemolise
+#DESCRIPTION Telemolise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8:Telemolise
+#DESCRIPTION Telemolise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8:Telemontecarlo
+#DESCRIPTION Telemontecarlo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/media-video-stream-1.m3u8?start=now-1h&end=now:Telenorba
+#DESCRIPTION Telenorba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-320m:Telenorba
+#DESCRIPTION Telenorba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8:TeleNorba
+#DESCRIPTION TeleNorba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8:Telenord
+#DESCRIPTION Telenord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net%3a443/telenord/telenord/playlist.m3u8:Telenord
+#DESCRIPTION Telenord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8:Telenova
+#DESCRIPTION Telenova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8:Telenuovo
+#DESCRIPTION Telenuovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveac901.b-cdn.net/channel02.smil/playlist.m3u8:Telenuovo
+#DESCRIPTION Telenuovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//geo.dailymotion.com/player/x1ganu.html?video=x9pha96:Telepace
+#DESCRIPTION Telepace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8:Telepace 1
+#DESCRIPTION Telepace 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8:TelePace 1
+#DESCRIPTION TelePace 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8:Telepace 2
+#DESCRIPTION Telepace 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8:TelePace 2
+#DESCRIPTION TelePace 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8:Telepace 3
+#DESCRIPTION Telepace 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8:TelePace 3
+#DESCRIPTION TelePace 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8:Telepace 4
+#DESCRIPTION Telepace 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/playlist.m3u8:TelePace 6
+#DESCRIPTION TelePace 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8:TelePace Roma
+#DESCRIPTION TelePace Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8:Telepace Trento
+#DESCRIPTION Telepace Trento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms.shared.streamshow.it/telepavia/mp4%3atelepavia/playlist.m3u8:Telepavia
+#DESCRIPTION Telepavia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8:Telepegaso
+#DESCRIPTION Telepegaso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8:TeleQuattro
+#DESCRIPTION TeleQuattro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.twitch.tv/teleradiostereo:TeleRadioStereo
+#DESCRIPTION TeleRadioStereo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8:TeleRama
+#DESCRIPTION TeleRama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u:TeleRama Lecce
+#DESCRIPTION TeleRama Lecce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trm-telereggio.cdn.netrw.it/event/hls/ccr/telereggio/master.m3u8?start=now-320m:TeleReggio
+#DESCRIPTION TeleReggio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/TR118/TR118/playlist.m3u8:TeleRegione 118
+#DESCRIPTION TeleRegione 118
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8:Teleregione Color
+#DESCRIPTION Teleregione Color
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-270m:Teleregione Color
+#DESCRIPTION Teleregione Color
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.antennasudwebtv.it%3a9443/hls/vodtele.m3u8:TeleRegione Color
+#DESCRIPTION TeleRegione Color
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8:TeleRegione Live
+#DESCRIPTION TeleRegione Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/telerent/telerent/playlist.m3u8:TeleRent 7Gold
+#DESCRIPTION TeleRent 7Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/telerent/telerent/manifest_w513650171.mpd:TeleRent 7Gold
+#DESCRIPTION TeleRent 7Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video0s86-21/stream/playlist.m3u8:TeleRent 7Gold
+#DESCRIPTION TeleRent 7Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8:Telereporter
+#DESCRIPTION Telereporter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8:TeleRitmo
+#DESCRIPTION TeleRitmo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8:TeleRitmo
+#DESCRIPTION TeleRitmo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.twitch.tv/teleroma_56:Teleroma 56
+#DESCRIPTION Teleroma 56
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/teleromagna/live/playlist.m3u8:Teleromagna
+#DESCRIPTION Teleromagna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8:TeleRomagna
+#DESCRIPTION TeleRomagna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8:TeleSanDomenico
+#DESCRIPTION TeleSanDomenico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8:TeleSanDomenico (TSD TV Arezzo)
+#DESCRIPTION TeleSanDomenico (TSD TV Arezzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telesanterno/telesanterno/playlist.m3u8:Telesanterno
+#DESCRIPTION Telesanterno
+#SERVICE 4097:0:19:50:1770:BE:820000:0:0:0:https%3a//f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8:TeleSardegna
+#DESCRIPTION TeleSardegna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.telesirio.it/live/stream.m3u8:TeleSirio
+#DESCRIPTION TeleSirio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm.cyberspazio.cloud%3a5443/LiveApp/streams/049229794390395765037801.m3u8:Telespazio Messina
+#DESCRIPTION Telespazio Messina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/Telespaziotv/Telespaziotv/playlist.m3u8:Telespazio TV
+#DESCRIPTION Telespazio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.aswifi.it/giglitv/live/index.m3u8:TeleStabia
+#DESCRIPTION TeleStabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/teleestense/teleestense/playlist.m3u8:Telestense
+#DESCRIPTION Telestense
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/asdfgh/asdfgh/playlist.m3u8:Telesud
+#DESCRIPTION Telesud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8:Telesud Trapani
+#DESCRIPTION Telesud Trapani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.telesveva.com/hls/svevahd.m3u8:Telesveva
+#DESCRIPTION Telesveva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dc3.telesveva.com%3a4433/cmaf/livetv/index.mpd:Telesveva
+#DESCRIPTION Telesveva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8:TeleTibur
+#DESCRIPTION TeleTibur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8:TeleTibur
+#DESCRIPTION TeleTibur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8:Teletricolore
+#DESCRIPTION Teletricolore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/teletricolore/live/playlist.m3u8:Teletricolore
+#DESCRIPTION Teletricolore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80.teletrullo.tv/hls/teletrullo2.m3u8:Teletrullo
+#DESCRIPTION Teletrullo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist.m3u8:Teletruria
+#DESCRIPTION Teletruria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist_dvr.m3u8:Teletruria
+#DESCRIPTION Teletruria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2np8lwyhxd27p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-om34v718rz14h/master.m3u8:Teletubbies
+#DESCRIPTION Teletubbies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ts2000tv.streaming.nextware.it%3a8081/ts2000tv/ts2000tv/playlist.m3u8:TeleTusciaSabina 2000
+#DESCRIPTION TeleTusciaSabina 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a19360/teleuniverso/teleuniverso.m3u8:Teleuniverso (Molise)
+#DESCRIPTION Teleuniverso (Molise)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8:Televallo Trapani
+#DESCRIPTION Televallo Trapani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/tva/live/playlist.m3u8:Televideo Agrigento
+#DESCRIPTION Televideo Agrigento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8:Televisa Telenovelas
+#DESCRIPTION Televisa Telenovelas
+#SERVICE 4097:0:1:1F42:80E1:217C:EEEE0000:0:0:0:https%3a//stream2.xdevel.com/video0s100-23/stream/playlist.m3u8:Televomero
+#DESCRIPTION Televomero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8:Ten
+#DESCRIPTION Ten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01444-tennischannelth-tennischde-samsungch-jp1l8.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungch/playlist.m3u8:Tennis Channel
+#DESCRIPTION Tennis Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8:Tennis+
+#DESCRIPTION Tennis+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8:Tennis+
+#DESCRIPTION Tennis+
+#SERVICE 4097:0:19:1C73:1C20:13E:820000:0:0:0:https%3a//live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-320m:TG Norba 24
+#DESCRIPTION TG Norba 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8:TGcom
+#DESCRIPTION TGcom
+#SERVICE 4097:0:19:80:4B0:110:820000:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd:TGCOM 24
+#DESCRIPTION TGCOM 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8:TGCOM 24
+#DESCRIPTION TGCOM 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8:TGCOM24
+#DESCRIPTION TGCOM24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//router.xdevel.com/video1s975436-143/stream/playlist.m3u8:Tgs
+#DESCRIPTION Tgs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8:TGS Giornale di Sicilia
+#DESCRIPTION TGS Giornale di Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8:That's 70s
+#DESCRIPTION That's 70s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8:That's 80s
+#DESCRIPTION That's 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8:That's 90s00s
+#DESCRIPTION That's 90s00s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8:That's ROCK
+#DESCRIPTION That's ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8:TLT Molise
+#DESCRIPTION TLT Molise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8:TLT Molise
+#DESCRIPTION TLT Molise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e53c5849c731.streamlock.net/TMWRadioTV/smil%3aTMWRadioTV.smil/playlist.m3u8:TMW Radio TV
+#DESCRIPTION TMW Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8:TOP Barša
+#DESCRIPTION TOP Barša
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0:Top Calcio 24
+#DESCRIPTION Top Calcio 24
+#SERVICE 4097:0:19:866:389:110:EEEE0000:0:0:0:https%3a//live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8:Top Crime
+#DESCRIPTION Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd:Top Crime
+#DESCRIPTION Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8:Top Gear
+#DESCRIPTION Top Gear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8:Top Gear
+#DESCRIPTION Top Gear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(topcrime)/manifest.mpd?ck=MzY2MWM0YTk4YzM2NDBkYmJkYmJkYWE1YzQyOWZiODU6ZTE0M2IzZmY0YjM2NWI3ZDlhNjg0OTRiMThlMGY0NzM=:Topcrime
+#DESCRIPTION Topcrime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:TR Sport
+#DESCRIPTION TR Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-tracelatinait-samsungit-n0o7t.amagi.tv/playlist/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8:Trace Latina
+#DESCRIPTION Trace Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/playlist1080p.m3u8:Trace UK
+#DESCRIPTION Trace UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-traceurbanit-samsungit-80rxc.amagi.tv/playlist/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//travelxp-travelxp-1-it.lg.wurl.tv/playlist.m3u8:Travel XP (IT)
+#DESCRIPTION Travel XP (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8:Travelxp
+#DESCRIPTION Travelxp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.livinlive.it/trc/trc/playlist.m3u8:TRC (Puglia)
+#DESCRIPTION TRC (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8?start=now-320m:TRC Bologna
+#DESCRIPTION TRC Bologna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-320m:TRC Modena
+#DESCRIPTION TRC Modena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8:Tremedia Tv
+#DESCRIPTION Tremedia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1:Trentino Tv
+#DESCRIPTION Trentino Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8:Trentino Tv
+#DESCRIPTION Trentino Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8:Trentino TV
+#DESCRIPTION Trentino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.trgmedia.it/hls/livestreamHD.m3u8:Trg
+#DESCRIPTION Trg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.teletris.it/tmp_hls/live/index.m3u8:TRIS
+#DESCRIPTION TRIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8:TRL
+#DESCRIPTION TRL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.youtube.com/watch?v=PRZbtZPPnsc:Trm H24
+#DESCRIPTION Trm H24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8:TRSP
+#DESCRIPTION TRSP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ixmediasrl-seriallycrime-1-it.xiaomi.wurl.tv/4300.m3u8:True Crime
+#DESCRIPTION True Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-18000.m3u8:TSN (Lombardia)
+#DESCRIPTION TSN (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8:Tsn Tele Sondrio News
+#DESCRIPTION Tsn Tele Sondrio News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng10-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8:TT-TELETUTTO BS
+#DESCRIPTION TT-TELETUTTO BS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a19360/tuday/tuday.m3u8:TU Day
+#DESCRIPTION TU Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/promovideo_web/tuachannel/playlist.m3u8:TUA Channel
+#DESCRIPTION TUA Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd?ck=MzY0NjBlOTI0MjUxNDJjNmE2NDc1YmYyNmY2NGQ1YTY6NzVkZTU5ZTI5MzM0NGVkZDM3YWU2Yzc1MWI0NTEwZTcsOGFlMzNlMGRhZTVmM2FjYzgyOWZlODM2YzAwZjc0MmM6MDEyZjg4MGVhYzY1MmI1NjM2MzdiNGM5Njk4OWZkODQ=:Turbo
+#DESCRIPTION Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8:Turismo TV
+#DESCRIPTION Turismo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.ts2000tv.it%3a30443/ts2000tv/ts2000tv/playlist.m3u8:Tuscia Sabina 2000
+#DESCRIPTION Tuscia Sabina 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ts2000tv.streaming.nextware.it%3a8081/ts2000tv/ts2000tv/chunks.m3u8:Tuscia Sabina 2000 TV
+#DESCRIPTION Tuscia Sabina 2000 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//host1.momentotv.live%3a28443/hls/tuttotv/playlist.m3u8:Tutto Tv
+#DESCRIPTION Tutto Tv
+#SERVICE 4097:0:19:5B:1770:BE:820000:0:0:0:https%3a//hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8:TV 2000
+#DESCRIPTION TV 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?ck=M2JmMWNkNjVlODVjNGY2YWIyZjJlZTlhYzg0MDNiOWI6OTE0MmY3ZTYyZDAxMWE4NzkzZTliMTVlZDM2ZDdiN2YsZjg2NzMzMmM2NDJlM2Q3NDk3OTcwZDU1ZjAzMzRjM2I6NjExMWRkYTY4ZDVlYjllMjllZjVmYWIxNDdlMzExNDk=:TV 8
+#DESCRIPTION TV 8
+#SERVICE 4097:0:1:9C4:3E9:FFFF:EEEE0000:0:0:0:https%3a//eu1.servers10.com%3a8081/8032/index.m3u8:TV Campane 1
+#DESCRIPTION TV Campane 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8020/index.m3u8:Tv Campania Streaming
+#DESCRIPTION Tv Campania Streaming
+#SERVICE 4097:0:1:4:80E4:217C:EEEE0000:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/campiflegreitv/index.m3u8:Tv Campi Flegrei
+#DESCRIPTION Tv Campi Flegrei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.radiosaiuz.com%3a3836/live/campiflegreilive.m3u8:Tv Campi Flegrei
+#DESCRIPTION Tv Campi Flegrei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//diretta.arcapuglia.it%3a8080/live/teleluna/index.m3u8:Tv Luna Napoli
+#DESCRIPTION Tv Luna Napoli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8:TV Prato
+#DESCRIPTION TV Prato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/chunks.m3u8:TV Prato
+#DESCRIPTION TV Prato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8:TV Prato
+#DESCRIPTION TV Prato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8:TV Qui Modena
+#DESCRIPTION TV Qui Modena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv:Tv Uno
+#DESCRIPTION Tv Uno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tsw.streamingwebtv24.it%3a1936/inteccdn6/inteccdn6/playlist.m3u8:TV Yes (Umbria)
+#DESCRIPTION TV Yes (Umbria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/radioyes/live/index.m3u8:TV Yes Italia
+#DESCRIPTION TV Yes Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s978282-2579/stream/playlist.m3u8:TV1
+#DESCRIPTION TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8:TV1 Sulmona
+#DESCRIPTION TV1 Sulmona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8:TV12
+#DESCRIPTION TV12
+#SERVICE 4097:0:19:65:200:1D:EEEE0000:0:0:0:http%3a//mi1.wz.tv2000.it%3a80/tv2000_alfa.m3u8:TV2000
+#DESCRIPTION TV2000
+#SERVICE 4097:0:19:65:200:1D:EEEE0000:0:0:0:https%3a//hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8:TV2000
+#DESCRIPTION TV2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8:TV33 Bolzano
+#DESCRIPTION TV33 Bolzano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8:TV33 Trento
+#DESCRIPTION TV33 Trento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0320.stream.seeweb.it/live/tv7.sdp/playlist.m3u8:TV7
+#DESCRIPTION TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.senecadot.com/live/flv%3atv7.sdp/playlist.m3u8:TV7 Benevento
+#DESCRIPTION TV7 Benevento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0320.stream.seeweb.it/live/flv%3atv7.sdp/playlist.m3u8:TV7 Benevento
+#DESCRIPTION TV7 Benevento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.gruppotv7.com%3a8090/hls/meteo.m3u8:TV7 Meteo
+#DESCRIPTION TV7 Meteo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556:TV8
+#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.mytivu.it/Application/Channels/TV8.php?m3u8:TV8
+#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//view.dacast.com/76305317bd6d5f2af13478c9b0ef4aef-live-6339ee65498e3ca8e75590daa7e447f5/adaptive.m3u8:TV9 Telemaremma
+#DESCRIPTION TV9 Telemaremma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8:TV9 Telemaremma (576p)
+#DESCRIPTION TV9 Telemaremma (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cdb29755e02b.streamlock.net%3a1936/live/diretta_1/playlist.m3u8:Tva Vicenza
+#DESCRIPTION Tva Vicenza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.tvavicenza.it%3a1935/live/diretta_1/playlist.m3u8:Tva Vicenza
+#DESCRIPTION Tva Vicenza
+#SERVICE 4097:0:1:425C:3DB8:13E:820000:0:0:0:https%3a//fms.telemar.it%3a1936/live/diretta_1/playlist.m3u8:TVA Vicenza
+#DESCRIPTION TVA Vicenza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8:TVL
+#DESCRIPTION TVL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8:TVL (TV Libera)
+#DESCRIPTION TVL (TV Libera)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.231.82.127%3a8081/hls/test_low.m3u8:TVM
+#DESCRIPTION TVM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8:TVM (Sicilia)
+#DESCRIPTION TVM (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8:Tvm Palermo
+#DESCRIPTION Tvm Palermo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn107-ita.azotosolutions.com%3a8443/cdnedge4/smil%3alive4.smil/playlist.m3u8:Tvr Xenon
+#DESCRIPTION Tvr Xenon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8:TVRS Marche
+#DESCRIPTION TVRS Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8:TVSEI
+#DESCRIPTION TVSEI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06547/stb-dash-sd-avc/SV06547.mpd?ck=MjI0Y2JjNjJjYzFkM2FjMDllZmJkMDQ5ZTYxODYwNjU6M2MxNDhhM2E0NzBiMjBmYjQ3YmIyNzc2MGI1MmJlYjQ=:Twenty Seven
+#DESCRIPTION Twenty Seven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//diretta.umbriapiu.it%3a8080/show/show.m3u8:Umbria + TRT
+#DESCRIPTION Umbria + TRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//umbriatv.stream.rubidia.it%3a8083/live/umbriatv/playlist.m3u8:Umbria TV
+#DESCRIPTION Umbria TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//diretta.teleterni.it%3a8080//show/show.m3u8:Umbria+ TRT
+#DESCRIPTION Umbria+ TRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8:Unica TV
+#DESCRIPTION Unica TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.130.250.2%3a8023/play/a04p/index.m3u8:Uninettuno (1080p)
+#DESCRIPTION Uninettuno (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8:UniNettuno University TV
+#DESCRIPTION UniNettuno University TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/unotv/live/index.m3u8:Uno Tv
+#DESCRIPTION Uno Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.uno4.it/index.m3u8:Uno4 Tv
+#DESCRIPTION Uno4 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/manifest.mpd:Urania News
+#DESCRIPTION Urania News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg14891-amg14891c4-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c4-amgplt0165/playlist.m3u8:Urania News
+#DESCRIPTION Urania News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uvotv.zappr.stream/368.m3u8:Valenza TV (Lombardia)
+#DESCRIPTION Valenza TV (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/vb33/vb33.stream/playlist.m3u8:VB33
+#DESCRIPTION VB33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8:VCO Azzurra TV
+#DESCRIPTION VCO Azzurra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chilivelvet-1-it.xiaomi.wurl.tv/4300.m3u8:Velvet
+#DESCRIPTION Velvet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8:VeraTV
+#DESCRIPTION VeraTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/veratv/veratv/playlist.m3u8:VeraTv
+#DESCRIPTION VeraTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8:Vevo '90s & '00s
+#DESCRIPTION Vevo '90s & '00s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8:Vevo '90s & '00s Italy
+#DESCRIPTION Vevo '90s & '00s Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8:Vevo 2K
+#DESCRIPTION Vevo 2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8:Vevo Pop
+#DESCRIPTION Vevo Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8:Vevo Pop Italy
+#DESCRIPTION Vevo Pop Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01821-amg01821c18-samsung-it-3198.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitaly-samsungit/playlist.m3u8:Viaggi & Sapori
+#DESCRIPTION Viaggi & Sapori
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w2031388123.m3u8:Video Brescia
+#DESCRIPTION Video Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8:Video Calabria
+#DESCRIPTION Video Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8:Video Mediterraneo
+#DESCRIPTION Video Mediterraneo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8:Video Novara
+#DESCRIPTION Video Novara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8:Video Novara
+#DESCRIPTION Video Novara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8:Video Regione
+#DESCRIPTION Video Regione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnm9-57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8:Video Regione Sicilia
+#DESCRIPTION Video Regione Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8:Video Star TV
+#DESCRIPTION Video Star TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/vtccarnia/index.m3u8:Video Tele Carnia
+#DESCRIPTION Video Tele Carnia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8:Video Touring Tv
+#DESCRIPTION Video Touring Tv
+#SERVICE 4097:0:19:4260:3DB8:13E:820000:0:0:0:https%3a//7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8:Videolina
+#DESCRIPTION Videolina
+#SERVICE 4097:0:19:4260:3DB8:13E:820000:0:0:0:http%3a//livestreaming.videolina.it/live/Videolina/playlist.m3u8:Videolina
+#DESCRIPTION Videolina
+#SERVICE 4097:0:1:1F65:80E3:217C:EEEE0000:0:0:0:https%3a//videonola.aswifi.it/videonolaabr/live.m3u8:VideoNola
+#DESCRIPTION VideoNola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8:Videonovara
+#DESCRIPTION Videonovara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.videoregione.it/hls/vr99/index.m3u8:Videoregione
+#DESCRIPTION Videoregione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.videoregione.it/vr99.mp4:Videoregione
+#DESCRIPTION Videoregione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsiteradiocpvideo.com%3a1935/vds/vds/playlist.m3u8:Videostar Tv Lombardia
+#DESCRIPTION Videostar Tv Lombardia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.live-dvbt2.it%3a9553/8006/8006/playlist.m3u8:VideoTolentino
+#DESCRIPTION VideoTolentino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c389faa13be3.streamlock.net%3a9553/8006/8006/playlist.m3u8:VideoTolentino
+#DESCRIPTION VideoTolentino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8:Vintage Radio Tv
+#DESCRIPTION Vintage Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd:Virgin Radio
+#DESCRIPTION Virgin Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8:Virgin Radio TV
+#DESCRIPTION Virgin Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/visualradio/visualradio/live.m3u8:Visual Radio
+#DESCRIPTION Visual Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8:Vuemme
+#DESCRIPTION Vuemme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8:Vuemme Tv
+#DESCRIPTION Vuemme Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-it.lg.wurl.tv/playlist.m3u8:Watchmojo (IT)
+#DESCRIPTION Watchmojo (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.webcomiptv.it/mistserver/passionelotto/index.m3u8:Webcom Tv
+#DESCRIPTION Webcom Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//604e46ac2bdee.streamlock.net%3a1936/marcorenzi/marcorenzi/playlist.m3u8:Wedding TV
+#DESCRIPTION Wedding TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.cp.ets-sistemi.it%3a1936/profservtv/profservtv/playlist.m3u8:Wedding TV
+#DESCRIPTION Wedding TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8:wedo Big Stories
+#DESCRIPTION wedo Big Stories
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-lgit/playlist.m3u8:Wedo Big Stories (IT)
+#DESCRIPTION Wedo Big Stories (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-samsungit/playlist.m3u8:Western Time
+#DESCRIPTION Western Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8:Wltv
+#DESCRIPTION Wltv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8:World Billiards TV
+#DESCRIPTION World Billiards TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-germany-lg.amagi.tv/playlist.m3u8:Xite
+#DESCRIPTION Xite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-hitsuk-lg.amagi.tv/playlist.m3u8:XITE Hits
+#DESCRIPTION XITE Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8:Yu-Gi-Oh! Italy
+#DESCRIPTION Yu-Gi-Oh! Italy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wired-shop.com/hls/yviitv.m3u8:Yvii Tv
+#DESCRIPTION Yvii Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8:Zerouno TV
+#DESCRIPTION Zerouno TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8:Zerouno Tv News
+#DESCRIPTION Zerouno Tv News
