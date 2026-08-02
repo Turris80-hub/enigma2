@@ -55,16 +55,12 @@
 #DESCRIPTION RETEVENETA
 #SERVICE 4097:0:1:11C:1:1:EEEE0000:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8:RTL 102.5 NAPULE'
 #DESCRIPTION RTL 102.5 NAPULE'
-#SERVICE 4097:0:16:DF6:12C:110:EEEE0000:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8:SPORTITALIA SOLOCALCIO
-#DESCRIPTION SPORTITALIA SOLOCALCIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 4097:0:1:11F:1:1:EEEE0000:0:0:0:https%3a//streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8:Italia7
 #DESCRIPTION Italia7
 #SERVICE 4097:0:1:120:1:1:EEEE0000:0:0:0:https%3a//64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8:telecitylombardia
 #DESCRIPTION telecitylombardia
-#SERVICE 4097:0:1:121:1:1:EEEE0000:0:0:0:https%3a//5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8:TELE LIGURIA SUD
-#DESCRIPTION TELE LIGURIA SUD
 #SERVICE 4097:0:1:122:1:1:EEEE0000:0:0:0:http%3a//fms.tvavicenza.it%3a1935/telechiara/diretta/playlist.m3u8:TELECHIARA
 #DESCRIPTION TELECHIARA
 #SERVICE 4097:0:19:4263:2B68:13E:820000:0:0:0:https%3a//1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8:TELECOLOR
@@ -79,8 +75,6 @@
 #DESCRIPTION TELEROMAGNA
 #SERVICE 4097:0:1:128:1:1:EEEE0000:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8:TELETRICOLORE
 #DESCRIPTION TELETRICOLORE
-#SERVICE 4097:0:1:129:1:1:EEEE0000:0:0:0:http%3a//%3a//senecadot.com:TV7 BENEVENTO
-#DESCRIPTION TV7 BENEVENTO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9022/9022/chunklist_w172162419.m3u8:telelaser-salerno
 #DESCRIPTION telelaser-salerno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//direct.intvstream.net%3a3448/hybrid/play.m3u8:Web Rete Sud
@@ -107,8 +101,6 @@
 #DESCRIPTION Cinema italiano
 #SERVICE 4097:0:1:13:1:1:13E:0:0:0:https%3a//jmp2.uk/stvp-IT2600007WQ:Commedia - Rakuten TV
 #DESCRIPTION Commedia - Rakuten TV
-#SERVICE 4097:0:1:132C:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT300029U3:Cinemalizia
-#DESCRIPTION Cinemalizia
 #SERVICE 4097:0:1:118:13:1:2:0:0:0:pluto%3a//66335489307fa300082bd6e4:Pluto TV Eros
 #DESCRIPTION Pluto TV Eros
 #SERVICE 4097:0:1:140:13:1:2:0:0:0:pluto%3a//6911c9704316999535eb21cf:Pluto TV Notti di Passione
@@ -171,11 +163,99 @@
 #DESCRIPTION Alberto Sordi & Co
 #SERVICE 4097:0:1:FEC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200006YF:Mudù - Risate dal Sud
 #DESCRIPTION Mudù - Risate dal Sud
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8:QUARTO CANALE FLEGREO
-#DESCRIPTION QUARTO CANALE FLEGREO
-#SERVICE 4097:0:1:1217:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1000002HF:FIFA+
-#DESCRIPTION FIFA+
 #SERVICE 4097:0:1:1307:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000093A:CG Grandi Film
 #DESCRIPTION CG Grandi Film
 #SERVICE 4097:0:1:130D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600002F6:Film Top - Rakuten TV
 #DESCRIPTION Film Top - Rakuten TV
+#SERVICE 4097:0:1:1217:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1000002HF:FIFA+
+#DESCRIPTION FIFA+
+#SERVICE 4097:0:16:DF6:12C:110:EEEE0000:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8:SPORTITALIA SOLOCALCIO
+#DESCRIPTION SPORTITALIA SOLOCALCIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8:QUARTO CANALE FLEGREO
+#DESCRIPTION QUARTO CANALE FLEGREO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.senecadot.com/live/flv%3atv7.sdp/playlist.m3u8:tv7
+#DESCRIPTION tv7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8:etv marche
+#DESCRIPTION etv marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ipstream.it/etv/etv.stream/playlist.m3u8:etv Rete7
+#DESCRIPTION etv Rete7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8:lombardiatv
+#DESCRIPTION lombardiatv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0203.stream.seeweb.it/live/flv%3astream2.sdp/playlist.m3u8:Primo Canale
+#DESCRIPTION Primo Canale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8:reggiotv
+#DESCRIPTION reggiotv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.giocabet.tv/stream/6/index.m3u8:Rete55
+#DESCRIPTION Rete55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8:rete8
+#DESCRIPTION rete8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8:rete8sport
+#DESCRIPTION rete8sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8:RTC 4 rete
+#DESCRIPTION RTC 4 rete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8:RTC calabriachannel
+#DESCRIPTION RTC calabriachannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a8081/rticalabria/index.m3u8:rti calabria
+#DESCRIPTION rti calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8:rtm
+#DESCRIPTION rtm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str38.fluid.stream/RTR99TV/livestream/chunklist_w1321992325.m3u8:RTR99TV
+#DESCRIPTION RTR99TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:rtptv
+#DESCRIPTION rtptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8:RTTR
+#DESCRIPTION RTTR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnr9-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8:rtv38
+#DESCRIPTION rtv38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8:Sesta Rete
+#DESCRIPTION Sesta Rete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.livinlive.it/trc/trc/playlist.m3u8:trc
+#DESCRIPTION trc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8:TRL
+#DESCRIPTION TRL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8:Tele Boario
+#DESCRIPTION Tele Boario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng18-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8:Tele Friuli
+#DESCRIPTION Tele Friuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8:teleliguriasud
+#DESCRIPTION teleliguriasud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8:telecitypiemonte
+#DESCRIPTION telecitypiemonte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a19360/teleuniverso/teleuniverso.m3u8:teleuniverso
+#DESCRIPTION teleuniverso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w966716170.m3u8:telemajg
+#DESCRIPTION telemajg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.livinlive.it/lecronache/live/chunks.m3u8:lecronache Lucane
+#DESCRIPTION lecronache Lucane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvd-a2.fluid.stream/Antenna2/livestream/chunklist_w1074832523.m3u8:Antenna2
+#DESCRIPTION Antenna2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1785839022~acl=/*~hmac=ef5ab929bbd70d608c41b656db4c93f89a7f77e57e52dda1f526c52e86d03ee0:Antenna 3 
+#DESCRIPTION Antenna 3 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist_w1605008180.m3u8:antenna tre veneto
+#DESCRIPTION antenna tre veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng11-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8:Sesta Rete
+#DESCRIPTION Sesta Rete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdng11-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/chunklist.m3u8:Rete 8
+#DESCRIPTION Rete 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnr14-b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/chunklist_b1728000.m3u8:Espansione TV
+#DESCRIPTION Espansione TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telepavia/telepavia/chunklist_w764364583.m3u8:tele pavia
+#DESCRIPTION tele pavia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn127-it.azotosolutions.com%3a8443/cdnedge16/smil%3alive16.smil/chunklist_w512157614_b4692000.m3u8:Canale 77
+#DESCRIPTION Canale 77
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8:Telecittà
+#DESCRIPTION Telecittà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice.stream/chunklist_w1129026397.m3u8:Tele Venezia
+#DESCRIPTION Tele Venezia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/chunklist_w133339224.m3u8:canale81 lazio
+#DESCRIPTION canale81 lazio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w294406657.m3u8:Lazio Tv
+#DESCRIPTION Lazio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/vmbjrayngd/vmbjrayngd/chunklist_w389843543.m3u8:RTG Telegolfo
+#DESCRIPTION RTG Telegolfo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.aswifi.it/settv/live/index.m3u8:set tv
+#DESCRIPTION set tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rst2.saiuzwebnetwork.it%3a8081/extratvlive/index.m3u8:extra tv
+#DESCRIPTION extra tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video0s977516-2077/stream/chunks.m3u8?:Tele Radio Orte
+#DESCRIPTION Tele Radio Orte
