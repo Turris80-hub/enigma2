@@ -17,18 +17,18 @@
 #DESCRIPTION DeAPlaneta Kids
 #SERVICE 4097:0:1:12A8:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC4700001E6:duckTV
 #DESCRIPTION duckTV
-#SERVICE 4097:0:1:12C6:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3800010K1:Masha e Orso
+#SERVICE 4097:0:1:12E0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800002PN:iCarly
+#DESCRIPTION iCarly
+#SERVICE 4097:0:1:12C6:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2200011IA:Masha e Orso
 #DESCRIPTION Masha e Orso
+#SERVICE 4097:0:1:12DE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800010RX:Pluto TV Teen Club
+#DESCRIPTION Pluto TV Teen Club
 #SERVICE 4097:0:1:12AC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700004X4:Pocoyo
 #DESCRIPTION Pocoyo
 #SERVICE 4097:0:1:12D5:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3900001EN:Sonic The Hedgehog
 #DESCRIPTION Sonic The Hedgehog
-#SERVICE 4097:0:1:12E0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800002PN:Super! iCarly
-#DESCRIPTION Super! iCarly
-#SERVICE 4097:0:1:12DE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ3800010RX:Super! Pop
-#DESCRIPTION Super! Pop
-#SERVICE 4097:0:1:12E2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ380000343:Super! Spongebob
-#DESCRIPTION Super! Spongebob
+#SERVICE 4097:0:1:12E2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ380000343:Spongebob
+#DESCRIPTION Spongebob
 #SERVICE 4097:0:1:12C2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD51000010V:SuperToons TV
 #DESCRIPTION SuperToons TV
 #SERVICE 4097:0:1:12A4:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT480000143:Teletubbies
@@ -107,7 +107,7 @@
 #DESCRIPTION Action Movie Channel
 #SERVICE 4097:0:1:1387:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC11000050E:Adrenaline Movies
 #DESCRIPTION Adrenaline Movies
-#SERVICE 4097:0:1:FA2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100008L4:Alberto Sordi & Co
+#SERVICE 4097:0:1:1306:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100008L4:Alberto Sordi & Co
 #DESCRIPTION Alberto Sordi & Co
 #SERVICE 4097:0:1:1363:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100001G5:Alta Tensione
 #DESCRIPTION Alta Tensione
@@ -115,7 +115,7 @@
 #DESCRIPTION Bizzarro Movies
 #SERVICE 4097:0:1:1310:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD600001CL:Brividy Cinema
 #DESCRIPTION Brividy Cinema
-#SERVICE 4097:0:1:132D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD140000119:CG Cine Mania
+#SERVICE 4097:0:1:FA1:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD140000119:CG Cine Mania
 #DESCRIPTION CG Cine Mania
 #SERVICE 4097:0:1:1307:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000093A:CG Grandi Film
 #DESCRIPTION CG Grandi Film
@@ -153,8 +153,8 @@
 #DESCRIPTION Film d'azione - Rakuten TV
 #SERVICE 4097:0:1:130D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600002F6:Film Top - Rakuten TV
 #DESCRIPTION Film Top - Rakuten TV
-#SERVICE 4097:0:1:1380:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1100001B7:Gli immortali – Van Damme vs Lundgren
-#DESCRIPTION Gli immortali – Van Damme vs Lundgren
+#SERVICE 4097:0:1:1380:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1100001B7:Gli Immortali
+#DESCRIPTION Gli Immortali
 #SERVICE 4097:0:1:1308:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100003KC:Grandi Nomi
 #DESCRIPTION Grandi Nomi
 #SERVICE 4097:0:1:133F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD10000019E:Grjngo- Film Western
@@ -205,12 +205,16 @@
 #DESCRIPTION Pluto TV Real Life
 #SERVICE 4097:0:1:1076:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1200003NR:Quantum Makers
 #DESCRIPTION Quantum Makers
+#SERVICE 4097:0:1:FDF:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000010NB:RTL 102.5
+#DESCRIPTION RTL 102.5
 #SERVICE 4097:0:1:1049:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITAJ4500016FM:The Pet Collective
 #DESCRIPTION The Pet Collective
 #SERVICE 1:64:8:0:0:0:0:0:0:0::Musica e Ambient
 #DESCRIPTION Musica e Ambient
 #SERVICE 4097:0:1:1288:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT500006GE:70-80.it
 #DESCRIPTION 70-80.it
+#SERVICE 4097:0:1:1273:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT39000028R:CJ ENM K-POP
+#DESCRIPTION CJ ENM K-POP
 #SERVICE 4097:0:1:1284:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2500001IF:Cool Summer Channel
 #DESCRIPTION Cool Summer Channel
 #SERVICE 4097:0:1:129B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1900005OP:Cozy Vibes
@@ -223,8 +227,6 @@
 #DESCRIPTION Hip Hop TV
 #SERVICE 4097:0:1:129F:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1800006P9:Island Vibes
 #DESCRIPTION Island Vibes
-#SERVICE 4097:0:1:1273:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT39000028R:K-POP by CJ ENM
-#DESCRIPTION K-POP by CJ ENM
 #SERVICE 4097:0:1:1289:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3300004VU:Metal.Rocks
 #DESCRIPTION Metal.Rocks
 #SERVICE 4097:0:1:1274:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1700002R5:NEW KPOP
@@ -239,10 +241,16 @@
 #DESCRIPTION Rock TV
 #SERVICE 4097:0:1:128B:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700008NG:Rolling Stones Takeover
 #DESCRIPTION Rolling Stones Takeover
-#SERVICE 4097:0:1:FDF:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000010NB:RTL 102.5
-#DESCRIPTION RTL 102.5
+#SERVICE 4097:0:1:1266:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000012PW:RTL 102.5 BEST
+#DESCRIPTION RTL 102.5 BEST
 #SERVICE 4097:0:1:126A:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT30000132N:RTL 102.5 Caliente
 #DESCRIPTION RTL 102.5 Caliente
+#SERVICE 4097:0:1:1267:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000014RV:RTL 102.5 DISCO
+#DESCRIPTION RTL 102.5 DISCO
+#SERVICE 4097:0:1:FE0:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT300001586:RTL 102.5 Radio Freccia
+#DESCRIPTION RTL 102.5 Radio Freccia
+#SERVICE 4097:0:1:FE1:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3000016RH:RTL 102.5 Radio Zeta
+#DESCRIPTION RTL 102.5 Radio Zeta
 #SERVICE 4097:0:1:1298:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT700009BQ:Space Live
 #DESCRIPTION Space Live
 #SERVICE 4097:0:1:129E:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT1800008RR:Spring Vibes
@@ -357,9 +365,9 @@
 #DESCRIPTION SuperTennis
 #SERVICE 4097:0:1:11FE:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT20000053A:Tennis+
 #DESCRIPTION Tennis+
-#SERVICE 4097:0:1:1241:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD10000040W:The Boat Show
+#SERVICE 4097:0:1:FA3:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT18000098G:The Boat Show
 #DESCRIPTION The Boat Show
-#SERVICE 4097:0:1:1232:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2400001AE:Top Gear
+#SERVICE 4097:0:1:FA2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2400001AE:Top Gear
 #DESCRIPTION Top Gear
 #SERVICE 4097:0:1:1243:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD29000015E:World Poker Tour
 #DESCRIPTION World Poker Tour
