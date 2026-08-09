@@ -9,10 +9,12 @@
 #DESCRIPTION rtcquartarete
 #SERVICE 4097:0:19:1451:41A:110:EEEE0000:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8:antennasud
 #DESCRIPTION antennasud
-#SERVICE 4097:0:1:108:1:1:EEEE0000:0:0:0:https%3a//cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8:studio100
-#DESCRIPTION studio100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8:Antenna Sud 92 (Extra)
+#DESCRIPTION Antenna Sud 92 (Extra)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u8:antennasud Sport1
 #DESCRIPTION antennasud Sport1
+#SERVICE 4097:0:1:108:1:1:EEEE0000:0:0:0:https%3a//cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8:studio100
+#DESCRIPTION studio100
 #SERVICE 4097:0:1:109:1:1:EEEE0000:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8:teleregione
 #DESCRIPTION teleregione
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.telesveva.com/hls/svevahd.m3u8:Telesveva
@@ -25,6 +27,8 @@
 #DESCRIPTION TELEFOGGIA
 #SERVICE 4097:0:1:112:1:1:EEEE0000:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8:CANALE 2 ALTAMURA
 #DESCRIPTION CANALE 2 ALTAMURA
+#SERVICE 4097:0:1:126:1:1:EEEE0000:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8:TELERAMA
+#DESCRIPTION TELERAMA
 #SERVICE 4097:0:1:10F:1:1:EEEE0000:0:0:0:https%3a//jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8:TELERADIOPACE 1
 #DESCRIPTION TELERADIOPACE 1
 #SERVICE 4097:0:1:110:1:1:EEEE0000:0:0:0:https%3a//nrvideo1.newradio.it%3a1936/desxcerbht/desxcerbht/playlist.m3u8:Canale10
@@ -45,8 +49,6 @@
 #DESCRIPTION RETEVENETA
 #SERVICE 4097:0:1:11C:1:1:EEEE0000:0:0:0:https%3a//dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8:RTL 102.5 NAPULE'
 #DESCRIPTION RTL 102.5 NAPULE'
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8:FIFA+
-#DESCRIPTION FIFA+
 #SERVICE 4097:0:1:122:1:1:EEEE0000:0:0:0:http%3a//fms.tvavicenza.it%3a1935/telechiara/diretta/playlist.m3u8:TELECHIARA
 #DESCRIPTION TELECHIARA
 #SERVICE 4097:0:19:4263:2B68:13E:820000:0:0:0:https%3a//1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8:TELECOLOR
@@ -55,8 +57,6 @@
 #DESCRIPTION TELEMANTOVA
 #SERVICE 4097:0:1:125:1:1:EEEE0000:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8:TELEMIA
 #DESCRIPTION TELEMIA
-#SERVICE 4097:0:1:126:1:1:EEEE0000:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8:TELERAMA
-#DESCRIPTION TELERAMA
 #SERVICE 4097:0:1:127:1:1:EEEE0000:0:0:0:https%3a//livetr.teleromagna.it/teleromagna/live/playlist.m3u8:TELEROMAGNA
 #DESCRIPTION TELEROMAGNA
 #SERVICE 4097:0:1:128:1:1:EEEE0000:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8:TELETRICOLORE
@@ -65,36 +65,16 @@
 #DESCRIPTION Web Rete Sud
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/chunklist_w68531934.m3u8:SPORTCHANNEL214
 #DESCRIPTION SPORTCHANNEL214
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video14s975955-1911/stream/chunks.m3u8:Telecolore Salerno
-#DESCRIPTION Telecolore Salerno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream10.xdevel.com/video14s975955-1911/stream/chunks.m3u8:Telecolore
+#DESCRIPTION Telecolore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//648026e87a75e.streamlock.net/teleone/teleone/chunklist_w1213770610.m3u8:tele-one
 #DESCRIPTION tele-one
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a8081/telea1-live/tracks-v1a1/mono.m3u8:telea1
 #DESCRIPTION telea1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/telejonio/telejonio/chunklist_w431155462.m3u8:tele jonio
 #DESCRIPTION tele jonio
-#SERVICE 4097:0:1:12B:1:1:EEEE0000:0:0:0:https%3a//5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8:ReteMia
-#DESCRIPTION ReteMia
-#SERVICE 4097:0:1:132C:165:1:2:0:0:0:https%3a//amg02512-amg02512c6-nexodigital-eu-6517.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02512-nexodigital-christmastime-nexodigitaleu/cb7c3e1e7b736fdc9acd3560d4f715aad25761845d62806167a0579676c3155f83b4f1c9e848bc6e7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee5555bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578f71f4109e95f4d8ce158581c37ea856e4654401212f9dcd2bc59c5ce782c96d3dcd267a1c623f8aa297ed003d96577c52f9f2cecd099579d5a815b15f199a2dbd52de43e00cab0db4af4aa9a9c9b728272294f772453afa9dcaedfa3120f362f5b69bb0191782c2354a60ec59f7121f25cabda17a85c706d8a330baa47b142ec1925ce9f3d8eff485be75ac17e3f1d5bb045f14236e6c8759b1d46ccb39e27ca7c31228523f2ac7f64ee5b6e961144d62a7a970c92135d3a9e30058af5aba016138c1549b3e2c78cd38750e94479bbf091c45a297e74f5bde4d278f52f9c24cbfc789a46e3fc4b72d3dfce11d902aab98dcf99476014a93b8477a505e72c0eb293f3f74c67f29b2a0ee5a061ae5fbc1ff8f067657795f650585e6e86788ceee1d5d47911d763b34271e985282329f181f5467893fc3bc0571b2032306efb37008093bd89be7c1cffde27098539f8ff130243e1944b8300e29279395854bf2354e312b09d841340ded490a02d994cfe48b89219bcf33e46b346616af9a204807567c7419dbc138a539cca75de8cb840cb6ace774628a33a40d15e4a0ff64eae28cc20f42d09d5e176398c434871409c204df3f87c27abbe1015efc5dd7b96e3e32d5317803267d680732d3ac54624dd20d/148/1920x1080_5130400/index.m3u8:CineMalizia
-#DESCRIPTION CineMalizia
-#SERVICE 4097:0:1:1304:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000238E:Cinema italiano
-#DESCRIPTION Cinema italiano
-#SERVICE 4097:0:1:FA2:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100008L4:Alberto Sordi & Co
-#DESCRIPTION Alberto Sordi & Co
-#SERVICE 4097:0:1:1304:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000238E:Cinema italiano
-#DESCRIPTION Cinema italiano
-#SERVICE 4097:0:1:2935:131:0:0:0:0:0:https%3a//fcfbb33e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG8tMV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=crime&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=93.44.72.244&ads.market=it&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.prodq=1&ads.rating=14&ads.rtv_content_id=2935&ads.rtv_content_language=it&ads.rtvid=271861&ads.streaming_id=84cdbd32-d57e-4c98-b70e-971aff5cc736&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=608:Cinema Italiano
-#DESCRIPTION Cinema Italiano
-#SERVICE 4097:0:1:4188:131:0:0:0:0:0:https%3a//9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=war,history&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=93.44.72.244&ads.market=it&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.prodq=1&ads.rating=6&ads.rtv_content_id=4188&ads.rtv_content_language=it&ads.rtvid=271861&ads.streaming_id=35dba178-16bd-4ce7-90b9-87b6a797a42d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=619:CG Grandi Film
-#DESCRIPTION CG Grandi Film
-#SERVICE 4097:0:1:6091:131:0:0:0:0:0:https%3a//253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=comedy&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=93.44.72.244&ads.market=it&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6091&ads.rtv_content_language=en&ads.rtvid=271861&ads.streaming_id=e2e9aa7b-3330-4f48-973a-ae3238f0e05a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1349:Alberto Sordi & Co
-#DESCRIPTION Alberto Sordi & Co
-#SERVICE 4097:0:1:FEC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200006YF:Mudù - Risate dal Sud
-#DESCRIPTION Mudù - Risate dal Sud
-#SERVICE 4097:0:1:1307:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000093A:CG Grandi Film
-#DESCRIPTION CG Grandi Film
-#SERVICE 4097:0:1:130D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600002F6:Film Top - Rakuten TV
-#DESCRIPTION Film Top - Rakuten TV
+#SERVICE 4097:0:1:12B:1:1:EEEE0000:0:0:0:https%3a//5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8:Rete Mia
+#DESCRIPTION Rete Mia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8:QUARTO CANALE FLEGREO
 #DESCRIPTION QUARTO CANALE FLEGREO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.senecadot.com/live/flv%3atv7.sdp/playlist.m3u8:tv7
@@ -157,6 +137,8 @@
 #DESCRIPTION antenna tre veneto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/livein/laziostyle/playlist.m3u8:SI Lazio Style
 #DESCRIPTION SI Lazio Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8:FIFA+
+#DESCRIPTION FIFA+
 #SERVICE 4097:0:1:1217:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD1000002HF:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8:SI Primavera TV
@@ -223,8 +205,6 @@
 #DESCRIPTION Amaranto Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8:Antenna 3 Toscana
 #DESCRIPTION Antenna 3 Toscana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8:Antenna Sud 92 (Extra)
-#DESCRIPTION Antenna Sud 92 (Extra)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ets-sistemi.it%3a19360/barinews111/barinews111.m3u8:BariNews
 #DESCRIPTION BariNews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8:BBC Drama Italy
@@ -473,17 +453,31 @@
 #DESCRIPTION Pluto TV Notti di Passione
 #SERVICE 4097:0:1:118:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-66335489307fa300082bd6e4.m3u8:Pluto TV Eros
 #DESCRIPTION Pluto TV Eros
-#SERVICE 4097:0:1:109:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-661f8f01801af800083d9d81.m3u8:Pluto TV Alberto Sordi
-#DESCRIPTION Pluto TV Alberto Sordi
+#SERVICE 4097:0:1:132C:165:1:2:0:0:0:https%3a//amg02512-amg02512c6-nexodigital-eu-6517.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02512-nexodigital-christmastime-nexodigitaleu/cb7c3e1e7b736fdc9acd3560d4f715aad25761845d62806167a0579676c3155f83b4f1c9e848bc6e7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee5555bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578f71f4109e95f4d8ce158581c37ea856e4654401212f9dcd2bc59c5ce782c96d3dcd267a1c623f8aa297ed003d96577c52f9f2cecd099579d5a815b15f199a2dbd52de43e00cab0db4af4aa9a9c9b728272294f772453afa9dcaedfa3120f362f5b69bb0191782c2354a60ec59f7121f25cabda17a85c706d8a330baa47b142ec1925ce9f3d8eff485be75ac17e3f1d5bb045f14236e6c8759b1d46ccb39e27ca7c31228523f2ac7f64ee5b6e961144d62a7a970c92135d3a9e30058af5aba016138c1549b3e2c78cd38750e94479bbf091c45a297e74f5bde4d278f52f9c24cbfc789a46e3fc4b72d3dfce11d902aab98dcf99476014a93b8477a505e72c0eb293f3f74c67f29b2a0ee5a061ae5fbc1ff8f067657795f650585e6e86788ceee1d5d47911d763b34271e985282329f181f5467893fc3bc0571b2032306efb37008093bd89be7c1cffde27098539f8ff130243e1944b8300e29279395854bf2354e312b09d841340ded490a02d994cfe48b89219bcf33e46b346616af9a204807567c7419dbc138a539cca75de8cb840cb6ace774628a33a40d15e4a0ff64eae28cc20f42d09d5e176398c434871409c204df3f87c27abbe1015efc5dd7b96e3e32d5317803267d680732d3ac54624dd20d/148/1920x1080_5130400/index.m3u8:CineMalizia
+#DESCRIPTION CineMalizia
+#SERVICE 4097:0:1:1304:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA33000238E:Cinema italiano
+#DESCRIPTION Cinema italiano
 #SERVICE 4097:0:1:10E:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-608aa7d8359b270007861489.m3u8:Pluto TV Cinema Italiano
 #DESCRIPTION Pluto TV Cinema Italiano
+#SERVICE 4097:0:1:2935:131:0:0:0:0:0:https%3a//fcfbb33e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG8tMV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=crime&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=93.44.72.244&ads.market=it&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.prodq=1&ads.rating=14&ads.rtv_content_id=2935&ads.rtv_content_language=it&ads.rtvid=271861&ads.streaming_id=84cdbd32-d57e-4c98-b70e-971aff5cc736&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=608:Cinema Italiano
+#DESCRIPTION Cinema Italiano
 #SERVICE 4097:0:1:104:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-65253f9881f942000833ccd5.m3u8:Pluto TV Totò
 #DESCRIPTION Pluto TV Totò
 #SERVICE 4097:0:1:1306:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBC1100008L4:Alberto Sordi & Co
 #DESCRIPTION Alberto Sordi & Co
+#SERVICE 4097:0:1:109:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-661f8f01801af800083d9d81.m3u8:Pluto TV Alberto Sordi
+#DESCRIPTION Pluto TV Alberto Sordi
 #SERVICE 4097:0:1:FA1:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBD140000119:CG Cine Mania
 #DESCRIPTION CG Cine Mania
 #SERVICE 4097:0:1:F0:13:FF:CCCC0000:0:0:0:https%3a//jmp2.uk/plu-608aa512d67fd900072323db.m3u8:Pluto TV Film Commedia
 #DESCRIPTION Pluto TV Film Commedia
 #SERVICE 4097:0:1:1331:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600007WQ:Commedia - Rakuten TV
 #DESCRIPTION Commedia - Rakuten TV
+#SERVICE 4097:0:1:1307:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-ITBA14000093A:CG Grandi Film
+#DESCRIPTION CG Grandi Film
+#SERVICE 4097:0:1:4188:131:0:0:0:0:0:https%3a//9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=war,history&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=93.44.72.244&ads.market=it&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.prodq=1&ads.rating=6&ads.rtv_content_id=4188&ads.rtv_content_language=it&ads.rtvid=271861&ads.streaming_id=35dba178-16bd-4ce7-90b9-87b6a797a42d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=619:CG Grandi Film
+#DESCRIPTION CG Grandi Film
+#SERVICE 4097:0:1:130D:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT2600002F6:Film Top - Rakuten TV
+#DESCRIPTION Film Top - Rakuten TV
+#SERVICE 4097:0:1:FEC:165:1:2:0:0:0:https%3a//jmp2.uk/stvp-IT3200006YF:Mudù - Risate dal Sud
+#DESCRIPTION Mudù - Risate dal Sud
